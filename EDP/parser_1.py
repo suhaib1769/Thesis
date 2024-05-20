@@ -69,7 +69,7 @@ def write_solr_xml(data, output_file):
     print(f"Data written to {output_file}")
 
 # Usage
-directory = '2021672'  # Change this to your directory containing RDF/XML files
-output_file = 'output_solr3.xml'
+directory = 'Thesis/EDP/2021672'  # Change this to your directory containing RDF/XML files
+output_file = 'Thesis/EDP/output_solr33.xml'
 solr_xml_data = parse_rdf_files(directory)
 write_solr_xml(solr_xml_data, output_file)
