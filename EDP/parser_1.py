@@ -1,6 +1,7 @@
 import rdflib
 import os
 from rdflib.namespace import RDF, DC, Namespace
+import xml.etree.ElementTree as ET
 
 def parse_rdf_files(directory):
     # Define namespaces
@@ -68,8 +69,34 @@ def write_solr_xml(data, output_file):
         file.write(data)
     print(f"Data written to {output_file}")
 
+
+def remove_duplicates(xml_data):
+    # Parse the XML data
+    root = ET.fromstring(xml_data)
+
+    # Initialize a set to track unique europeana_id
+    seen_ids = set()
+    unique_docs = []
+
+    # Iterate over each document and filter out duplicates
+    for doc in root.findall(".//doc"):
+        europeana_id = doc.find(".//field[@name='europeana_id']").text
+        if europeana_id not in seen_ids:
+            seen_ids.add(europeana_id)
+            unique_docs.append(doc)
+
+    # Build a new XML tree with unique documents
+    new_root = ET.Element("add")
+    for doc in unique_docs:
+        new_root.append(doc)
+
+    # Convert the tree back to a string
+    new_xml_data = ET.tostring(new_root, encoding='unicode')
+    return new_xml_data
+
 # Usage
 directory = 'Thesis/EDP/2021672'  # Change this to your directory containing RDF/XML files
-output_file = 'Thesis/EDP/output_solr33.xml'
+output_file = 'Thesis/EDP/output_solr34.xml'
 solr_xml_data = parse_rdf_files(directory)
-write_solr_xml(solr_xml_data, output_file)
+solr_xml_data_cleaned = remove_duplicates(solr_xml_data)
+write_solr_xml(solr_xml_data_cleaned, output_file)

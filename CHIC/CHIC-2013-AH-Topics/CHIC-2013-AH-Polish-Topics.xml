@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+  <topic lang="pol">
+    <identifier>CHIC-051</identifier>
+    <title>ryby słodkowodne</title>
+    <description>documents on freshwater fish, individual types and their biotopes; not "fishing Hemmingway"</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-052</identifier>
+    <title>film niemy</title>
+    <description>documents on history of silent film, silent film videos, biographies of actors and directors, characteristics of silent film and decline of this genre</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-053</identifier>
+    <title>znaczek pocztowy</title>
+    <description>documents on postage stamps, history, collections, images of of envelopes with stamps</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-054</identifier>
+    <title>Falklandy</title>
+    <description>documents on the island; geographic, political, cultural, travel, people etc.</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-055</identifier>
+    <title>Madeira</title>
+    <description>documents on the island; geographic, political, cultural, travel, people etc.</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-056</identifier>
+    <title>mapy Europy 1914</title>
+    <description>geographic documents on the area, maps or documents including maps before 1914 (first world war)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-057</identifier>
+    <title>Hitlerjugend</title>
+    <description>biography Hitler, decriptions of organisation, representatives specific mentioned in this context not simply Guenther Grass</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-058</identifier>
+    <title>Jean-Jaques Rousseau</title>
+    <description>documents by and of Genevan philosopher, writer and composer, not only documents on political philosophy</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-059</identifier>
+    <title>niewolnictwo amerykańskie</title>
+    <description>documents focussing on slavery in USA or origin of slaves</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-060</identifier>
+    <title>Dujardin Karel</title>
+    <description>documents by and of the painter (NL)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-061</identifier>
+    <title>rybacy</title>
+    <description>documents of and about people fishing or in the fishing trade</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-062</identifier>
+    <title>herold miejski</title>
+    <description>bellman as an officer of the court who makes public pronouncements as required by the court, documents with descriptions, depictions of historical and contemporary town criers</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-063</identifier>
+    <title>wzór tkaniny</title>
+    <description>cloth patterns themselves (usually texts or images), documents about cloth patterns - not fashion in general (needs to include the design)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-064</identifier>
+    <title>porcelanowe domy dla lalek</title>
+    <description>documents (particularly) images of miniature crockery (porcellain, pots, silverware) used for doll houses</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-065</identifier>
+    <title>zachód słońca nad morzem</title>
+    <description>documents about a sunset at the sea or images of a sunset at the sea - needs to include both sea and sunset</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-066</identifier>
+    <title>czarne koty</title>
+    <description>documents of or about black cats</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-067</identifier>
+    <title>lutnik</title>
+    <description>documents of, by or about violin makers</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-068</identifier>
+    <title>ostatnia Wieczerza</title>
+    <description>documents about the last meal Jesus Christ shared with his apostles before his cruxification according to Christian beliefs</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-069</identifier>
+    <title>Mapa świata</title>
+    <description>world maps or documents containing world maps (needs to include at least the known "world" at the time of creation or have the title world map)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-070</identifier>
+    <title>Skała Gibraltarska</title>
+    <description>documents about the rock (mountain) on the Iberian peninsula, also in its association as "Pillar of Hercules", limit to the known world in ancient mythology</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-071</identifier>
+    <title>książki weterynaryjne</title>
+    <description>books (texts, manuscripts) on veterinary topics or by veterinarians, not books about individual animals, the connection to animal medicine needs to be clear</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-072</identifier>
+    <title>spis ludności</title>
+    <description>documents about or on population censuses (citizens or residents), does not include censuses of other entities (e.g. churches)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-073</identifier>
+    <title>ulica Sezamkowa</title>
+    <description>documents by, on or about the popular children television series, images of Sesame Street characters are relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-074</identifier>
+    <title>partytury gitarowe</title>
+    <description>sheet music, documents representing musical notation, for guitars (or ensembles incl. guitars), documents about guitar scores are also relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-075</identifier>
+    <title>wrak</title>
+    <description>documents (texts, images, sounds, videos) of, on or about wrecked, sunk or beached ships; documents about the wrecking or sinking are also relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-076</identifier>
+    <title>powstania w 18 wieku</title>
+    <description>documents of or about rebellions or insurrections against an established authority between 1700-1800, non-violent civil resistance is also relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-077</identifier>
+    <title>żałoba w sztuce</title>
+    <description>documents about or art pieces (paintings, literature, music etc.) which depict or  thematize grieving, e.g. the Pietà (lamentation of Christ) is relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-078</identifier>
+    <title>obrzędy Bożego Narodzenia</title>
+    <description>documents on or of traditions, common patterns, trends, traditional music, foods, dances etc. during Christmas season (first advent to epiphany or three kings)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-079</identifier>
+    <title>owoce i przetwory w malarstwie</title>
+    <description>images (paintings) or documents about paintings depicting or thematizing fresh fruit or preserves (canned or sealed fruits for long-term conservation, for example jams or chutneys)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-080</identifier>
+    <title>żniwa i rolnicy lub chłopi</title>
+    <description>documents on or about farmers at harvest time or during harvest activities </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-081</identifier>
+    <title>diabeł w sztuce</title>
+    <description>art pieces or documents about art pieces (paintings, literature, music, etc.) depicting or thematizing the devil (as personification of evil)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-082</identifier>
+    <title>komputery</title>
+    <description>documents on, about or depicting computers or computer equipment (keyboard, mouse, computer screen)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-083</identifier>
+    <title>Maria Skłodowskiej-Curie</title>
+    <description>documents by and of the scientist (PL)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-084</identifier>
+    <title>obraz wsi</title>
+    <description>images (paintings, drawings) or documents about images depicting or thematizing the country (as opposed to the city), landscapes as well as bucolic scenes are relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-085</identifier>
+    <title>dożynki</title>
+    <description>documents on or of processions or festivals celebrating the harvest or celebrated during the harvest, descriptions of traditions, dances etc. are relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-086</identifier>
+    <title>procesja Bożego Ciała</title>
+    <description>documents on or about the Christian feast or procession celebrating the "body and blood" of Christ on the 60th day after Easter (after Trinity Sunday), commonly celebrated as a procession of the Sacrament (presented in a monstrance); documents explaining events leading up to the procession are also relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-087</identifier>
+    <title>dzieci w okresie świątecznym</title>
+    <description>documents on or about children during holiday or vacation time, e.g. pictures of children playing on Easter Sunday, but also stories of children spending their summer vacation</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-088</identifier>
+    <title>obrazy batalistyczne</title>
+    <description>images (paintings, drawings) or documents about images depicting or thematizing battles; panoramas, images during battle pauses as well as pictures of battle leaders are also relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-089</identifier>
+    <title>krajobraz zimowy</title>
+    <description>images (paintings, drawings) showing winter landscapes, including buildings, people and animals in winter landscapes, "winter fleeting" images are also relevant  </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-090</identifier>
+    <title>budynki parlamentarne</title>
+    <description>images (paintings, drawings, pictures) or documents about buildings housing the legislative arm of a government and their  purpose; any other governmental buildings (e.g. ministries are not relevant</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-091</identifier>
+    <title>okręty Kolumba</title>
+    <description>images (paintings, drawings, pictures) or documents about the ships themselves, building technique and usage, not just images or documents of Columbus (person), documents about Columbus on a ship / with a ship are relevant </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-092</identifier>
+    <title>wczesne parowozy</title>
+    <description>images (paintings, drawings, pictures) or documents about early steam locomotives (before 1840), building technique and usage, heritage locomotive built after early models are also relevant </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-093</identifier>
+    <title>flota handlowa</title>
+    <description>pictures of merchant seamen or merchant marine ships or documents decsribing history, development, education and missions of the merchant marine; sound files of seamen songs are also relevant </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-094</identifier>
+    <title>zwierzęta z porcelany</title>
+    <description>documents or images (paintings, drawings, pictures) of porcelain animals or about them (manufacturing, collecting etc.)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-095</identifier>
+    <title>historia telefonu</title>
+    <description>documents about and of historic telephone installations or about the design, development and manufacturing of telephones  (starting with early experiments in the 17th/18th century up to today - if it has a historical perspective)</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-096</identifier>
+    <title>okrągłe kościoły</title>
+    <description>documents or images (paintings, drawings, pictures) of or about the buildings and their purpose</description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-097</identifier>
+    <title>baśnie braci Grimm</title>
+    <description>fairy tales collected and written by the Grimm brothers, images from Grimm fairy tales, documents about Grimm fairy tales, not just documents about the Grimm brothers  </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-098</identifier>
+    <title>kurierzy konni</title>
+    <description>images (paintings, drawings, pictures) showing horse couriers (people) or documents describing the work and equipment of horse couriers </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-099</identifier>
+    <title>ubijanie masła</title>
+    <description>images (paintings, drawings, pictures) or documents about the process / production of butter, not just images of butter; pictures of butter makers (even in background) are also relevant </description>
+  </topic>
+  <topic lang="pol">
+    <identifier>CHIC-100</identifier>
+    <title>ogródek działkowy</title>
+    <description>documents of and about allotment gardens and holders in their gardens, documents about the origination, tradition and displacement of allotment gardens and holders are also relevant   </description>
+  </topic>
+</topics>
