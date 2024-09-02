@@ -314,8 +314,6 @@ def parse_rdf_files(directory):
                     </translated_data>
                 </doc>
                 """
-
-            
                 
             except Exception as e:
                 print(f"Failed to parse {filename}: {e}")
