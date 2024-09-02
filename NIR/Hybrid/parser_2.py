@@ -24,7 +24,9 @@ class Parser2:
         for doc in root.findall('doc'):
             doc_data = {
                 'id': None,
-                'text': None
+                'provided_text': None,
+                'translated_text': None, 
+                'enriched_text': None,
             }
             combined_text = []
             for field in doc.findall('field'):
@@ -51,9 +53,10 @@ class Parser2:
         # Function to extract and concatenate fields
     def extract_fields(doc):
         europeana_id = doc.find(".//field[@name='europeana_id']").text
-        title = doc.find(".//field[@name='proxy_dc_title']").text
-        creator = doc.find(".//field[@name='proxy_dc_creator']").text
-        date = doc.find(".//field[@name='proxy_dc_date']").text
+        title = doc.find(".//provided_data/field[@name='dc_title']").text
+        creator = doc.find(".//provided_data/field[@name='dc_creator']").text
+        date = doc.find(".//provided_data/field[@name='dc_date']").text
+        description = doc.find(".//provided_data/field[@name='dc_description']").text
         
         # Concatenate the fields into a single string
         id = f"ID: {europeana_id}"
