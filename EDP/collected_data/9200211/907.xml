@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_bbb_0459 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:51.867Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Paris; Padua </field>
+                        <field name="dc_creator">Georgius, Codinus </field>
+                        <field name="dc_date">second third of the 16th century and 1552 and second half of the 16th century </field>
+                        <field name="dc_description">A manuscript consisting of three production units. The first dates back to the second half of the 16th century and was made by Jakobus Diassorinos (†1563), a Greek copyist from Rhodes who was then working in the library of Fontainebleau. The second was copied, probably in 1552, in Padua by the young Parisian humanist Henri Estienne (ca. 1531-1598), whose signature in Greek is found at the bottom of fol. 47r. The third part still has not revealed the secret of the circumstances of its production. </field>
+                        <field name="dc_format">96 ff., 21-21.5 x 15.5-160; 21.5 x 15; 21.5 x 15.5 </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Bern, Burgerbibliothek, Cod. 459 : Miscellanea </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

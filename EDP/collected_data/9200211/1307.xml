@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_bke_0048 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:55.045Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Engelberg </field>
+                        <field name="dc_creator">Hieronymus, Sophronius Eusebius </field>
+                        <field name="dc_date">1143-1178 </field>
+                        <field name="dc_description">This Codex contains Jerome's exposition of the Gospels of Matthew (1v-103r) and Mark (103v-128v). It has little decoration, but it has two elaborate, polychromatic initials (5r, 103v). The text, copied in black and dark-brown ink, contains multiple changes of hand. Text divisions such as incipit and explicit, pargraphs and chapter indications are executed in red ink, and one time figuratively decorated (51v). The two-line verse inscription on 1r attests that the codex was produced under Abbot Frowin of Engelberg (1143-1178). </field>
+                        <field name="dc_format">128 ff., 28.5 x 19.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Engelberg, Stiftsbibliothek, Cod. 48 : Expositio S. Hieronymi Matheum et Marcum </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

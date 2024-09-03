@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_bcuf_L0305 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:53.486Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Hauterive (?) </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">around 1300 </field>
+                        <field name="dc_description">This Cistercian missal, produced around 1300, “represents an already advanced phase in the development of this type of liturgical book: the chants of the gradual are completely integrated into the sacramentary, and are no longer accompanied by musical notes; moreover, they are written in a smaller script. In this form, the missal could have served the celebrant for both the conventual mass and for the private mass that Cistercians are known to have held since their origins. The geographical origin of the codex has not been determined with certainty. Without doubt, however, from the fifteenth century onward it was at Hauterive, where it was re-bound. The rich decoration in the canon section provide a fine example of fleuronné initials from the end of the thirteenth century; here, the decoration of the scrolls seems to be still “domesticated” by rigorous framing.” (Joseph Leisibach, Liturgica Friburgensia. Des Livres pour Dieu, 1993, p. 89). </field>
+                        <field name="dc_format">228 ff., 30.5 x 21.0 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Fribourg/Freiburg, Bibliothèque cantonale et universitaire/Kantons- und Universitätsbibliothek, Ms. L 305 : Missale Cisterciense </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

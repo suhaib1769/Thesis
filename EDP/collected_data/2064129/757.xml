@@ -1,0 +1,89 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_40294__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.715Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">ANT Nachrichtentechnik GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Im Endverzweiger werden die vom Teilnehmer kommenden LWL-Kabel (Lichtwellenleiter/Glasfasern) mit dem zur Vermittlungsstelle führenden Kabel verbunden. <br />
+<br />
+Die in einem LWL-Kabel von der Vermittlungsstelle ankommenden LWL-Fasern werden im Endverzweiger auf einzelne, zum Teilnehmer führenden LWL-Fasern verteilt. Beide Glasfaserenden werden mittels eines Spleißes verbunden (Schmelzverbindung). <br />
+siehe hierzu   Objekt  LWL-Spleißgerät   InvNr. 1/2013/4744 000 oder   Objekt  LWL-Spleißgerät   InvNr. 1/2015/0161 000<br />
+Diese Endverzweiger wurden sowohl im Innen- als auch im Außenbereich eingesetzt.<br />
+Das vorliegende Objekt ist ein Anschauungsmodell mit Schauglas. Es wurde im Innenbereich eingesetzt. <br />
+<br />
+Typische Eigenschaften:<br />
+<br />
+-	zugfeste Kabeleinführung,<br />
+-	definierte Unterbringung der Glasfaserverbindung <br />
+-	mechanisch stabile und dicht verschließbare Umhüllung der ganzen Einheit zur Minimierung von Umwelteinflüssen  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Glasfaserkabel </field>
+                        <field name="dc_title">Endverzweiger für LWL- Kabelanlagen </field>
+                        <field name="dc_type">Glasfaserkabel </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Fiberglass cable </field>
+                        <field name="dc_title">Final branch for LWL cable systems </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Fiberglass cable </field>
+                        <field name="dc_title">Final branch for LWL cable systems </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

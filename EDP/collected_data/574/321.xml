@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/574/_98818d37b </field>
+                    <field name="timestamp_update">2021-11-29T10:04:18.179Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000364879 </field>
+                        <field name="dc_contributor">Canadian Fund for the Relief of Distress in Ireland </field>
+                        <field name="dc_coverage">name=Dublin; north=53.3497645; west=-6.2602732 </field>
+                        <field name="dc_creator">Canadian Fund for the Relief of Distress in Ireland </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Two title-pages. -- Published by The City Printing and Lithographing Company, Limited, 18-21, William Street. -- Signed: "With complimetns of the Canadian Committee. J.W. Grimshaw, April, 1881.". -- Includes appendix. </field>
+                        <field name="dc_format">text </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Famines -- Ireland </field>
+                        <field name="dc_title">Report of the joint committee selected from the committees of the Duchess of Marlborough relief fund, and the Dublin Mansion House fund for relief of distress in Ireland, to administer the sum of 100,000 dollars, voted by the parliament of the dominion of Canada, towards the relief of distress in ireland, in the year 1880 </field>
+                        <field name="dc_type">Text </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

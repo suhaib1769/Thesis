@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_7796__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:49.825Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Born (Mühlenbauer) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Längsschnitt und Querschnitt der mittels Wasserturbine betriebenen Roggenmühle (Leistung 3 t). - Querschnitt Reinigung. - Grundrisse Erdgeschoss, Walzenboden und Sichterboden.; Maßstab: 1:100   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausleinen; Tusche </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Roggenverarbeitung </field>
+                        <field name="dc_title">Technische Zeichnung : Zeichnung zum Neubau der Mühle für Herrn Max Wölfel, Cöllmsmühle Großböhla </field>
+                        <field name="dc_type">Roggenverarbeitung </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">21.08.1911 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Großböhla </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Longitudinal section and cross-section of the rye mill operated by a water turbine (power 3 t). - Cross section cleaning. - Floor floor floor floor, roller floor and sightseeing floor.; Scale: 1: 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Drawing of the new mill for Mr. Max Wölfel, Cöllmsmühle Großböhla </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Chemnitz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Longitudinal section and cross-section of the rye mill operated by a water turbine (power 3 t). - Cross section cleaning. - Floor floor floor floor, roller floor and sightseeing floor.; Scale: 1: 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">rye processing </field>
+                        <field name="dc_title">Technical drawing: Drawing of the new mill for Mr. Max Wölfel, Cöllmsmühle Großböhla </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Greater Bohemia </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0098 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:57.960Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Metz (probably in the area around Metz) </field>
+                        <field name="dc_creator">Ambrosius, Mediolanensis </field>
+                        <field name="dc_date">middle of the 9th century </field>
+                        <field name="dc_description">A collection of the dogmatic works "De spiritu sancto libri tres ad Gratianum" and "Libri tres de incarnatione contra Apollinaristes", both originally written by the early church father Ambrose († 397) together with "De laude sanctorum" by Bishop Victricius of Rouen († before 409). A northern French copy from the middle of the 9th century, probably not produced at the monastery of St. Gall, but rather in the area of Metz. The manuscript opens with six dedicatory verses by the priest Regimarus to King Ludwig the German (833-876) in Latin hexameter. </field>
+                        <field name="dc_format">238 pp., 27 x 21-21.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 98 : A collection of the dogmatic works "De spiritu sancto libri tres ad Gratianum" and "Libri tres de incarnatione contra Apollinaristes", both originally written by Ambrose; "De laude sanctorum" by Bishop Victricius of Rouen </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

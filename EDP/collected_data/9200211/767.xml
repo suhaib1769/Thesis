@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_0745 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:06.139Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Italy </field>
+                        <field name="dc_creator">Manfredus, de Aitago </field>
+                        <field name="dc_date">middle of the 13th / beginning of the 14th century (Part I), 14th century (Part II) </field>
+                        <field name="dc_description">This two-part manuscript was written in Italy in the period between the middle of the 13th and the beginning of the 14th century. It preserves writings concerning procedural law, among them the little known Ordo iudiciarius Quoniam ut ait apostolus, as well as finding aids and surveys on decretal law. The manuscript probably came into the possession of the St. Gall citizen Johannes Widembach († 1456) from a Canon from Zurich, and has been held by the Abbey Library at least since the 16th century. </field>
+                        <field name="dc_format">88 ff., 39 x 24.5–25 (Teil I) cm; 42.5–43 x 29 (Teil II) cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 745 : Johannes de Deo: Liber iudicum   ·   Bonus Johannes: Ordo iudiciarius   ·   Manfredus de Arriago: Tabula decretalium   ·   Dinus de Mugello: Super regulis iuris Libri Sexti </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

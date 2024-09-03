@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_1280 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:10.348Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Monastery of  St. Gall </field>
+                        <field name="dc_creator">Schenk, Hermann </field>
+                        <field name="dc_date">17th and 18th century (about 1680-1780) </field>
+                        <field name="dc_description">A composite manuscript that is very instructive about the history of the library; it is made up of various documents, written between 1680 and 1780 and then bound together. Part 1 (pp. 7-121): manuscript catalog by Fr. Hermann Schenk (1653-1706) from the period around 1700. Around 1750, Fr. Pius Kolb (1712-1762) added his new catalog signatures. Kolb also noted missing manuscripts in Schenk’s catalog. Most of these had been taken to Zurich in 1712 (deest). Part 2: (pp. 127−153 and pp. 162−167): register of abbey library benefactors (Monumentum gratitudinis dedicatum benefactoribus Bibliothecae), begun in 1680 and continued until 1780. Extraordinary donations to the library were entered retroactively to 1567, such as (p. 133) the “donation” of a large terrestrial and celestial globe by the pharmacist Lukas Stöckli from Constance. Such mentions often concern objects from the library’s cabinet of curiosities and rarities. Part 3 (pp. 155-161): books that were acquired between 1717 and 1737 under Abbot Joseph von Rudolphi (1717-1740). Part 4 (pp. 169 and pp. 175-187): books from the estate of Prince-Abbot (1687-1696) and Cardinal Cölestin Sfondrati, which after his death were integrated into the library by Fr. Hermann Schenk. Part 5 (pp. 191-234): collection of larger format volumes from the abbey library from the period around 1700. Part 6: (pp. 237−270; separate loose documents): list of the abbey library’s most beautiful books from the period around 1750, composed by Fr. Pius Kolb and entitled Ilias in nuce. Part 7 (pp. 275-280; collection of loose pages): list of manuscript signatures by Fr. Pius Kolb. </field>
+                        <field name="dc_format">280 pp., 33 × 22.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 1280 : Manuscript catalog by Father Hermann Schenk from the period around 1700 – Register of abbey library benefactors from 1567 until about 1780 – Various special lists of the abbey library’s printed books, compiled between about 1696 and about 1762. </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

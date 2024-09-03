@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_30326 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:09.020Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Albert Ludwig Grimm </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Carl Wilhelm Leske </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Reiseliteratur </field>
+                        <field name="dc_title">Die malerischen und romantischen Stellen des Odenwaldes </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Grimm, Albert Ludwig: Die malerischen und romantischen Stellen des Odenwaldes. Darmstadt, 1843. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1843 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Darmstadt </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Grimm, Albert Ludwig: The picturesque and romantic places of the Odenwald. Darmstadt, 1843. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">literature on use </field>
+                        <field name="dcterms_alternative">Grimm, Albert Ludwig: The picturesque and romantic places of the Odenwald. Darmstadt, 1843. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

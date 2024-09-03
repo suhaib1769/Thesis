@@ -1,0 +1,80 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_bc_b_0093 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:52.333Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">[Catalonia?, copied by a scribe named Moses] </field>
+                        <field name="dc_creator">Ptolemaeus, Claudius </field>
+                        <field name="dc_date">[second half of the 14th century (around 1391?)] </field>
+                        <field name="dc_description">This collection of cosmological treatises contains excerpts from a larger manuscript, presumably written by the same scribe Moses, which now is part of the Schoenberg Collection at the University of Pennsylvania in Philadelphia (ljs 057).
+The manuscript contains tables on lunar motion by Jacob ben David Jomtow (Bonjorn); three astrological works by Abraham ibn Ezra (1089 - about 1164): a fragment of Reshit Hokhman ("Beginning of Wisdom"), the larger part of Mischpetei ha-Mazzalaot ("Judgments of the Constellations") and the larger part of Sefer ha-Olam ("Book of the World"); and, as the last part the Sefer ha-Mivharim le-Batlamyus, i.e. Ptolemy’s "Almagest".
+On f. 15r and f. 15v there are three images of constellations from classical antiquity: Orion (Ha-Gibbor ba-Te’omim, "the hero of twins") in bare feet and with a scimitar (f. 15r), Eridanus (Ha-Nahar, "river") and Lepus (Ha-Arnevet, "hare") (f. 15v). The imagery is based on the Arabic "Book of Fixed Stars", written in 964 by the Persian astronomer Abd al-Rahman al-Sufi. </field>
+                        <field name="dc_format">15 ff., 27.2 x 18.6 cm </field>
+                        <field name="dc_language">Hebrew </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Zürich, Braginsky Collection, B93 : Astronomical and Astrological Miscellany </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

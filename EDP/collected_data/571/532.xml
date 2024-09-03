@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_1292_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1801 </field>
+                        <field name="dc_description">El arte del grabado en Zaragoza durante los siglos XVIII y XIX / Roy Sinusía, Luis. Zaragoza, IFC, 2006, p. 435 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">en la imprenta de Mariano Miedes </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Cédula de confirmación de Ordenanzas para el regimen y gobierno de la antiquisima cofradia del Patriarca S. Joaquin de Mercaderes Comerciantes de la ciudad de Zaragoza, fundada en el Real Convento de Predicadores de la misma [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Cédula Real, 1801] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1801 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Port. with esc. xil. real </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">in the printing press of Mariano Miedes </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Brotherhood of Saint Joaquin and the Virgin of Sorrows (Zaragoza) -Ordinances </field>
+                        <field name="dc_title">Royal Decree of confirmation of Ordinances for the regime and government of the antiquity of the Patriarch S. Joaquin of Mercaderes Mercadantes of the city of Zaragoza, founded in the Royal Convent of Preachers of the same [Printed text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">[Royal Decree, 1801] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Port. with esc. xil. real </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">in the printing press of Mariano Miedes </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Brotherhood of Saint Joaquin and the Virgin of Sorrows (Zaragoza) -Ordinances </field>
+                        <field name="dc_title">Royal Decree of confirmation of Ordinances for the regime and government of the antiquity of the Patriarch S. Joaquin of Mercaderes Mercadantes of the city of Zaragoza, founded in the Royal Convent of Preachers of the same [Printed text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">[Royal Decree, 1801] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

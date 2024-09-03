@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_21_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1700 </field>
+                        <field name="dc_description">Procedente de la colección de manuscritos de Sir Thomas Phillipps (1792-1872) </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Copia manuscrita de la edición impresa Çaragoça : por Iuan de Lanaja y Quartanet ..., 1630 </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Relacion del torneo de âcauallo conque la imperial Zaragoza solemnizò la venida de la ... Reyna de Ungria y de Boemia Infanta de España ... [Manuscrito]: escrita â instancia de la misma ... ciudad ... </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[s. XVIII] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">1630 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Coming from Sir Thomas Phillipps' collection of manuscripts (1792-1872) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Handwritten copy of the printed edition Çaragoça: by Iuan de Lanaja and Quartanet..., 1630 </field>
+                        <field name="dc_subject">Mary of Austria, Queen of Hungary, 1505-1558-1630-Homages </field>
+                        <field name="dc_title">Relationship of the tournament of âcauallo conque the imperial Zaragoza solemnizò the coming of the... Reyna of Ungria and Boemia Infanta of Spain... [Manuscript]: written â instance of the same... city... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Coming from Sir Thomas Phillipps' collection of manuscripts (1792-1872) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Handwritten copy of the printed edition Çaragoça: by Iuan de Lanaja and Quartanet..., 1630 </field>
+                        <field name="dc_subject">Mary of Austria, Queen of Hungary, 1505-1558-1630-Homages </field>
+                        <field name="dc_title">Relationship of the tournament of âcauallo conque the imperial Zaragoza solemnizò the coming of the... Reyna of Ungria and Boemia Infanta of Spain... [Manuscript]: written â instance of the same... city... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[s. XVIII] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">1630 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

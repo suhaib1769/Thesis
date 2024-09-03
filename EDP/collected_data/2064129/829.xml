@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9081__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.570Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Chiffriermaschinen-Aktiengesellschaft (Berlin) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Zur Verschlüsselung des Funkverkehrs setzte die deutsche Wehrmacht die Chiffriermaschine Enigma ein. Mit ihren 206.651.321.783.174.268.000.000 Verschlüsselungsmöglichkeiten galt sie als unknackbar. Polnische und britische Mathematiker konnten den Code mit großem Aufwand dennoch brechen, was den Verlauf des Zweiten Weltkriegs entscheidend beeinflusste.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz, Metall </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Nachrichtentechnik </field>
+                        <field name="dc_title">Elektrische Chiffriermaschine Enigma </field>
+                        <field name="dc_type">Nachrichtentechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1937-1939 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Deutschland </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Telecommunications </field>
+                        <field name="dc_title">Electric cipher Enigma </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1937-1939 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Deutschland </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Telecommunications </field>
+                        <field name="dc_title">Electric cipher Enigma </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1937-1939 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Germany </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

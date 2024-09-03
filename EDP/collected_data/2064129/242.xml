@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9064__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.372Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Büssing-Automobil-Werke AG </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die erste Großserie von Doppeldeckern vom Typ D 2 U, die bis 1964 in über 900 Exemplaren angeschafft worden war, sollte abgelöst werden von der DE-Serie. Zwischen 1965 und 1974 kaufte die BVG 816 solcher Fahrzeuge. Der Wagen Nr. 2622 war davon der letzte. <br />
+Mit diesem Typ führte die BVG den allgemeinen Einmannbetrieb ein, wofür das "E" in der Typenbezeichnung steht. Der Eingang ist beim Fahrer, der Ausgang bei der Mitteltür. Zum Oberdeck führt nur eine Treppe in der Wagenmitte. Ursprünglich wurde dem Fahrer die Besetzung des Oberdecks durch Druckschalter in den Sitzen und ein Tableau angezeigt. Diese aufwendige Vorrichtung wurde, auch in diesem Wagen, später durch einen einfachen Spiegelschacht ersetzt. Der Wagen fuhr bis 1980.<br />
+Motor: Büssing 6-Zylinder-Diesel-Motor, 115 kW (156 PS), Höchstgeschwindigkeit:63 km/h, <br />
+Sitzplätze: Unterdeck 38, Oberdeck 53, Stehplätze: 8<br />
+<br />
+Schipporeit, Reiner; Reinhard Demps. Historische Fahrzeuge in Berlin: Busse, Strassenbahnen, U-Bahn, S-Bahn. Berlin: Museum für Verkehr und Technik, 1991. S. 41<br />
+Weitere Abb.: BVG 2537-05 (F)  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunalverkehr </field>
+                        <field name="dc_title">Doppeldeckomnibus Nr. 2622 Typ DE 74 </field>
+                        <field name="dc_type">Kommunalverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1974 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Braunschweig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Double deckomnibus No. 2622 type DE 74 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Double deckomnibus No. 2622 type DE 74 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

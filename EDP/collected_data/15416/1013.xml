@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/15416/Data_Library3_Library3_DCT027002_pdf </field>
+                    <field name="timestamp_update">2014-12-01T13:16:13.574Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000574027 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Author of a Letter to a Member of the Irish H-e of C-s. </field>
+                        <field name="dc_date">1754 </field>
+                        <field name="dc_description">Also issued as part of: 'The patriot miscellany', vol.1, Dublin, 1756. -- No publisher listed. Printed in the year 1754. -- An attack on the pamphlets supporting the Duke of Dorset and British policy in Ireland. </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">en </field>
+                        <field name="dc_publisher">Dublin printed in the year 1754 </field>
+                        <field name="dc_source">The Oireachtas Library & Research Service </field>
+                        <field name="dc_subject">Great Britain -- Politics and government -- 1727-1760. </field>
+                        <field name="dc_title">The review: being a short account of the doctrine, arguments, and tendency, of the writings offered to the publick, by the C-t Advocates, since last September. Together with An humble address to the worthy patriots of Ireland, on the happy and providential events, which have crowned their labours in defence of their country. By the author of a Letter to a member of the Irish H-e of C-s on the present crisis of affairs  Pamphlets </field>
+                        <field name="dc_type">InteractiveResource </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Dublin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

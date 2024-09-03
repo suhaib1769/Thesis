@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/574/_xp690452r </field>
+                    <field name="timestamp_update">2021-11-29T10:04:18.179Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000364879 </field>
+                        <field name="dc_contributor">Auckland, William Eden, Baron, 1744-1814 </field>
+                        <field name="dc_coverage">name=London; north=51.5073219; west=-0.1276474 </field>
+                        <field name="dc_creator">Auckland, William Eden, Baron, 1744-1814 </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Includes half-title "substance of Lord Auckland's speech, &c. &c.". -- Price from half-title: one shilling. -- "duplicate see vol 54" handwritten on title page". -- Printed for J. Wright, opposite old bond-street, Piccadilly, London. Includes appendix. -- Includes folded out tables. -- Includes plate of the total value of imports and exports in Great Britain for the year ending 5th January, 1799. -- Includes plate of the average annual amount in the three years preceding the 25th March 1798, of the duties of customs collected in Ireland in commercial interactions with Great Britain, distinguishing the wollen and cotton manufactureres and the Irish and foreign linens imported and exported. -- Includes plate of the average annual amount in the three years preceding the 25th of March, 1798, of the duties colllected in Ireland, on the exports from and imports into the country, to and from the States of America, and all other parts, other than Great Britain and her dependences, distinguishing the principal articles in the year ending March, 1798. -- Includes publishers advertisments. </field>
+                        <field name="dc_format">text </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ireland. Parliament. House of Commons. Ireland -- Politics and government -- 18th century -- Pamphlets </field>
+                        <field name="dc_title">Substance of the speech of Lord Auckland, in the House of Peers, April 11, 1799, : on the proposed address to His Majesty, respecting the resolutions adopted by the two Houses of Parliament, as the basis of an union between Great Britain and Ireland </field>
+                        <field name="dc_type">Text </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">London </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

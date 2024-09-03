@@ -1,0 +1,89 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9083__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.634Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Klemm Leichtflugzeugbau GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Klemm 35 A ist ein 1935 entwickeltes, kunstflugtaugliches Schul- und Sportflugzeug für zwei Personen. Zu den Besonderheiten dieses zweisitzigen Tiefdeckers gehören die teils aus Sperrholz gefertigten Knickflügel. Sie ermöglichten an der Knickstelle den Anbau eines niedrigen und robusten Fahrwerks. Über 2.000 Stück wurden von der Kl 35 bis 1945 produziert. Damit war dieses Muster das meistgebaute Flugzeug der Firma. Exporte gingen unter anderem nach Ungarn, Litauen und Schweden.<br />
+<br />
+Die Kl 35 D des Deutschen Technikmuseums stammt aus dem Jahr 1940 und wurde im Rahmen eines Großauftrags an die schwedische Luftwaffe ausgeliefert. Dort flog sie mit wechselnden Kennzeichen bei verschiedenen Einheiten, bis sie 1949 in zivilen Besitz überging. 1955 kam das Flugzeug nach Deutschland zurück, wo es von 1956 bis 1967 unter der Kennung D-EDOD auf die Fliegerin Liesel Bach zugelassen war. Über weitere Besitzer gelangte das Flugzeug in die Sammlung "Air Classic" am Frankfurter Flughafen. Die Streichung aus dem Luftfahrtregister erfolgte 1987. Das Deutsche Technikmuseum Berlin erwarb die Maschine 1994 und zeigt sie mit der Bemalung aus dem Jahr 1956. Nur 20 Exemplare des Typs Arado 35 sind erhalten geblieben.<br />
+<br />
+Technische Daten:<br />
+Motor:               Hirth HM 504 (105 PS)<br />
+Spannweite:     10,40 m<br />
+Länge:              7,50 m<br />
+Leergewicht:    480 kg<br />
+Ident-Nr.: Werknr. 1917<br />
+<br />
+Klemm-Leichtflugzeuge. Böblingen: Leichtflugzeugbau Klemm, 1935.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Stahlrohr, Holz </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Fluggeräte - Schwerer als Luft </field>
+                        <field name="dc_title">Flugzeug Klemm (Kl) 35 A </field>
+                        <field name="dc_type">Fluggeräte - Schwerer als Luft </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1940 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Böblingen </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Steel tube, wood </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Steel tube, wood </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Flight equipment - heavier than air </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

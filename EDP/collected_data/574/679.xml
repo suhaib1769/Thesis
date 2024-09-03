@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/574/_8p5932192 </field>
+                    <field name="timestamp_update">2021-11-29T10:04:18.179Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000364879 </field>
+                        <field name="dc_contributor">Rocque, John </field>
+                        <field name="dc_coverage">name=Dublin; north=53.3497645; west=-6.2602732 </field>
+                        <field name="dc_creator">Rocque, John </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Printed for the author, and sold at his house opposite the Bagnio-slip on the Batchelor's walk, and by G. Faulkner, in Essex Street. MDCCLVI - Where likewise may be had, all his other works. -- Also contains title page in French. -- Includes errata. -- Pagination inconsistent throughout. -- Contains pamphlet with no title page on the history of the Union between Ireland and Great Britain. This pamphlet is dated around 1800? (date taken from in-text reference); and contains print annotations throughout. -- Headpiece on p. [3]. </field>
+                        <field name="dc_format">text </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ireland -- History -- Union, 1801 </field>
+                        <field name="dc_title">An index adapted to the plan of the City and suburbs of Dublin; from an actual and exact survey : made by John Rocque... engraved by Andrew Dury... Containing, alphabetically, the names of the streets, lanes, squares... with an appendix of the contents of London, Westminster, and the Borough of Southwark </field>
+                        <field name="dc_type">Text </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

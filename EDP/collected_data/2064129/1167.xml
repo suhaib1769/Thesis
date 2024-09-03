@@ -1,0 +1,82 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9174__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.707Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Im 19. Jh. bildete der Stettiner Bahnhof (ab 1950 Nordbahnhof) einen wichtigen Endbahnhof. Von hier aus reisten die Fahrgäste in die Innenstadt. Der Weg war beschwerlich, da man auf Droschken durch die Massen der Großstadt musste. Dieser Umstand sollte sich mit dem Bau der Nordsüd-S-Bahn ändern. Die zumeist bebaute Innenstadt ließ keine oberirdische Bahn zu, so dass ab 1934 eine Tunnelstrecke angelegt wurde.<br />
+Noch heute schafft die Nordsüd-S-Bahn eine Verbindung zwischen dem Nordbahnhof (Norden), sowie dem Anhalter Bahnhof und Potsdamer Bahnhof im Süden. Um den Anschluss zur Innenstadt zu gewähren, hatte man ein Streckennetz zwischen den Stationen Stettiner Bahnhof, Oranienburger Straße und Friedrichstraße gelegt. Diese Teilstrecke wurde am 28. Juli 1936 in Betrieb genommen. Das Querschnittsmodell stellt eine Detailaufnahme der Station Oranienburger Straße, unter der Artilleriestraße (heute Tucholskystraße), dar.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 30<br />
+Zauritz, Oliver: Die S-Bahn unter den Straßen. Seit 75 Jahren mit der Nordsüd-S-Bahn zum Brandenburger Tor. In: Punkt 3, Nr. 14 vom 21. Juli 2011, S. 19. [Online.] Verfügbar unter: http://www.punkt3.de/index.php?go=lesen&read=1379. [Stand: 13.01.2016]  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">S-Bahn-Tunnel in der Berliner Artilleriestraße, Querschnittmodell </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1930-1937 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Nord-Süd-Tunnel (Berlin) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">S-Bahn tunnel in Berlin’s Artillery Route, cross-sectional model </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1930-1937 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">North-South tunnel (Berlin) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">S-Bahn tunnel in Berlin’s Artillery Route, cross-sectional model </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1930-1937 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">North-South tunnel (Berlin) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_586_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1813 </field>
+                        <field name="dc_description">Firmas del Alcalde Vicente del Campo y del Secretario Joaquín Lasala </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[s. n.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Por éste se abonarán al dador por el pago de contribución ... rs. vn., valor de un gergon que ha entregado para acuartelar la tropa [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1813 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signs of Mayor Vicente del Campo and Secretary Joaquín Lasala </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Field, Vicente del </field>
+                        <field name="dc_title">For this reason they will be paid to the giver for the payment of contribution... rs. vn., value of a gergon that has delivered to keep the troop [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signs of Mayor Vicente del Campo and Secretary Joaquín Lasala </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Field, Vicente del </field>
+                        <field name="dc_title">For this reason they will be paid to the giver for the payment of contribution... rs. vn., value of a gergon that has delivered to keep the troop [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

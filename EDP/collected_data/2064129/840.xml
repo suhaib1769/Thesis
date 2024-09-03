@@ -1,0 +1,82 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9182__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.785Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Eisenbahn-Hauptwerkstätte Breslau (Oberschlesischer Bf) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Da der Bedarf leistungsfähiger Schnellzuglokomotiven in Preußen stieg, musste man die Entwicklung ausgefeilter Schnellzuglokomotiven vorantreiben. Robert Garbe (1847-1932), der Dezernent für Bauarten und Beschaffung der Lokomotiven, entwickelte die Gattung S4 weiter. Er wollte damit den Bau von Dreikupplern für den leichteren Schnellzugdienst vermeiden.<br />
+Die preußische S6 verfügte über einen ausgereifteren und leistungsfähigeren Heißdampfkessel. Zwischen 1905/1906 und 1913 wurden insgesamt 584 Exemplare hergestellt. Es handelt sich hierbei um den letzten Schnellzug der mit einer zweifachen Kopplung ausgestattet war.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 68<br />
+Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 32  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Stahl, Gußeisen, Buntmetall, Holz, Glas </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Heißdampfkessel der preußischen Schnellzug-Dampflok S 6 "601" mit Rauchröhrenüberhitzer, Modell 1:5 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1901-1910 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Breslau (Wrocław) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Steel, casting iron, metal, wood, glass </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1901-1910 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Steel, casting iron, metal, wood, glass </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1901-1910 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_345_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1800 </field>
+                        <field name="dc_description">Al final del libro: " Acabé de escribir estas apuntaciones en Zaragoza a 11 de Noviembre de 1779" </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Sobre un volumen en folio 4º grueso ricamente encuadernado, escrito en vitela fina con muy acabados y correctos caracteres, en cuya primera primera plana se lee de diferente letra [Manuscrito]: es el autor Pedro Marcuello el año de 1482 </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">[Cancionero de Marcuello] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1ª mitad del s. XIX] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">At the end of the book: “I have just written these notes in Zaragoza on November 11, 1779.” </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Poetry Spain-S. XV </field>
+                        <field name="dc_title">On a volume in 4º thick richly bound folio, written in fine vellum with very finished and correct characters, in whose first page is read of different letter [Manuscript]: is the author Pedro Marun the year 1482 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1st half of the 19th century] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">At the end of the book: “I have just written these notes in Zaragoza on November 11, 1779.” </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Poetry Spain-S. XV </field>
+                        <field name="dc_title">On a volume in 4º thick richly bound folio, written in fine vellum with very finished and correct characters, in whose first page is read of different letter [Manuscript]: is the author Pedro Marun the year 1482 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1st half of the 19th century] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

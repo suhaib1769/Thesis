@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_30407 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:36.582Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Konrad Koch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">R. Voigtländer's Verlag </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Sport </field>
+                        <field name="dc_title">Die Schulspiele in Braunschweig </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Koch, Konrad: Die Schulspiele in Braunschweig. In: E. von Schenckendorff/ F. A. Schmidt (Hg.): Über Jugend- und Volksspiele. Jahrbuch des Zentralausschusses zur Förderung der Jugend- und Volksspiele in Deutschland. 2. Jahrgang. Leipzig, 1893. S. 15-19. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1893 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">R. Voigtländer's Verlag </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Sport </field>
+                        <field name="dc_title">The School Games in Braunschweig </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Koch, Konrad: The school games in Braunschweig. In: E. von Schenckendorff/F. A. Schmidt (Ed.): About youth and folk games. Yearbook of the Central Committee for the Advancement of Youth and People’s Games in Germany. 2nd year Leipzig, 1893. S. 15-19. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Sport </field>
+                        <field name="dc_title">The School Games in Braunschweig </field>
+                        <field name="dc_type">literature on use </field>
+                        <field name="dcterms_alternative">Koch, Konrad: The school games in Braunschweig. In: E. von Schenckendorff/F. A. Schmidt (Ed.): About youth and folk games. Yearbook of the Central Committee for the Advancement of Youth and People’s Games in Germany. 2nd year Leipzig, 1893. S. 15-19. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

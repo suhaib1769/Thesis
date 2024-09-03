@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_7678__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:48.066Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">W., E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Längsschnitt und Querschnitte der mittels Motor betriebenen Mahlmühle (für die Firma Siemssen & Co. in Hamburg) mit Reinigung. - Grundrisse verschiedener Ebenen.; Maßstab: 1:200. Bemerkung: Auf der Zeichnung sind die Zeichner E. W. und M. angegeben. Im überlieferten Repertorium zum jüngeren Teilbestand (Buch 5, 1900-1960) ist dagegen Hintze als Verfertiger eingetragen.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausleinen; Tusche </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mahlmühle </field>
+                        <field name="dc_title">Technische Zeichnung : Dispositionsprojekt zum Neubau einer Weizenmühle. Leistung 40000 kg in 24 Stunden </field>
+                        <field name="dc_type">Mahlmühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1913 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">TH, E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Longitudinal section and cross-sections of the engine operated grinding mill (for the company Siemssen & Co. in Hamburg) with cleaning. - Floor plans of different levels.; Scale: 1: 200. Note: Drawing shows E. W. and M. draftsmen. In the traditional repertory on the younger substock (book 5, 1900-1960) Hintze is, on the other hand, registered as a handler.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Disposition project for the construction of a new wheat mill. Performance 40000 kg in 24 hours </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">TH, E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Longitudinal section and cross-sections of the engine operated grinding mill (for the company Siemssen & Co. in Hamburg) with cleaning. - Floor plans of different levels.; Scale: 1: 200. Note: Drawing shows E. W. and M. draftsmen. In the traditional repertory on the younger substock (book 5, 1900-1960) Hintze is, on the other hand, registered as a handler.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Disposition project for the construction of a new wheat mill. Performance 40000 kg in 24 hours </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Hamburg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

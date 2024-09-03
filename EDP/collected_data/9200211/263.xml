@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_1140 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:10.205Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Cistercian nuns’ cloister Günterstal </field>
+                        <field name="dc_creator">Augustinus, Aurelius </field>
+                        <field name="dc_date">second third of the 15th century </field>
+                        <field name="dc_description">This is a liturgical manuscript from the Cistercian nuns’ cloister Günterstal near Freiburg im Breisgau, written partly in Latin and partly in German. The manuscript was bought in the year 1782 by the St. St. Gall monk Gall Metzler (1743-1820), parish priest in Ebringen near Freiburg, which was owned by St. Gall. Among other texts, the manuscript contains readings from a martyrology and from the Rule of Saint Benedict for the months of September and October; pericopes from the Epistles and from the Gospels for Sundays and saints’ days in September; legends of the saints according to the Alsatian  Legenda Aurea for the month of September; German language texts from the Old Testament books of Tobit, Judith, and Esther as well as version B2 of the Dekalogerklärung by Marquard of Lindau. Together with Cod. Sang. 1141 and Cod. Sang. 1142, as well as probably six more now lost volumes, this manuscript was part of a large Günterstal lectionary, containing sermons as well as martyrological and liturgical texts. Here and there throughout the volume, a prior loss of pages can be noted (e.g. between p. 350 and p. 351); between the various parts, there frequently are blank pages. </field>
+                        <field name="dc_format">717 pp., 20.4 x 14 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 1140 : Liturgical manuscript with Latin and German texts from the monastery of Günterstal near Freiburg im Breisgau </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

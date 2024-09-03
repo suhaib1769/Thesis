@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0928 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:07.339Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Monastery of St. Gall </field>
+                        <field name="dc_creator">Nicolaus, de Austria </field>
+                        <field name="dc_date">around 1440 </field>
+                        <field name="dc_description">This composite manuscript from the Monastery of St. Gall is significant in terms of textual history; it contains copies of monastic texts regarding reform movements of the first half of the 15th century. Among other texts it contains the Consuetudines Sublacenses (pp. 1−19), the Consuetudines of a Cistercian monastery in Bohemia (pp. 26−74; Directorium et consuetudines monasterii de Nepomuk ord. Cist. in Bohemia), general and liturgical directives for monastic life (pp. 74−87), disparaging remarks by a monk from Hersfeld staying in St. Gall about the reform efforts of the general chapter (pp. 98−108), as well as the Consuetudines Castellenses (pp. 113−258). The latter contain liturgical directives for the worship service as well as rules for daily life in and for the organization of the monastic community of Kastl in the Upper Palatinate (Bavaria). Later these Consuetudines circulated widely and influenced monastic life in many other monasteries in Southern Germany, including in St. Gall. Cod. Sang. 928 is the only manuscript to preserve the original prologue about these reforms by Abbot Otto Nortweiner of Kastl (1378−1399). The manuscript’s original limp vellum binding was restored in the 19th or early 20th century with severe alterations to the original substance of the codex. </field>
+                        <field name="dc_format">258 [260] pp., 21.5 × 14.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 928 : Composite manuscript on monastic subjects from the first half of the 15th century containing the 'Consuetudines' of Subiaco-Wiblingen and Kastl </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

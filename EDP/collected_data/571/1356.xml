@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_1232_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1798 </field>
+                        <field name="dc_description">Publicaciones: Monterde Albiac, Cristina. "La recompensa al mérito de un aragonés emprendedor en el siglo XVIII: Jacinto Lloret, noble de Aragón en 1798". Emblemata, 12 (2006), pp. 157-230 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">En la oficina de los herederos de la viuda de Francisco Moreno </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Provision executoria de Infanzonia, ganada por Don Jacinto, y Don Diego Lloret, hermanos, vecinos de la presente ciudad de Zaragoza [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Ejecutoria, 1798] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1798 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragón </field>
+                        <field name="dcterms_temporal">S. XVIII </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Publications: Monterde Albiac, Cristina. 'The reward to the merit of an enterprising Aragonese in the XVIII century: Jacinto Lloret, noble of Aragon in 1798. " Emblemata, 12 (2006), pp. 157-230 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">In the office of the heirs of Francisco Moreno’s widow </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Provision execution of Infanzonia, won by Don Jacinto, and Don Diego Lloret, brothers, neighbors of the present city of Zaragoza [Printed text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Publications: Monterde Albiac, Cristina. 'The reward to the merit of an enterprising Aragonese in the XVIII century: Jacinto Lloret, noble of Aragon in 1798. " Emblemata, 12 (2006), pp. 157-230 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">In the office of the heirs of Francisco Moreno’s widow </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Provision execution of Infanzonia, won by Don Jacinto, and Don Diego Lloret, brothers, neighbors of the present city of Zaragoza [Printed text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

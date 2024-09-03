@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_8079__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:53.253Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Gefälle H = 1150-1800 mm, Wasserraddurchmesser = 5500 mm, Wassermenge Q = 1-2 m³/s, Wasserradbreite Kranzbreite/Schaufeltiefe a = 1000 mm, b = 2500 mm, Drehzahl des Wasserrades n = 5,45 U/min, Umfangsgeschwindigkeit v = 1,565 m/s, Anzahl der Schaufeln z = 40, Schaufelteilung e = 432 mm, Gerinnebreite b0 = 2300 mm. - Seitenansicht (teilweise geschnitten). - Draufsicht (teilweise geschnitten). - Fundamentgrundriss (nachträglich ergänzt). - Detailschnitt eines Bauteils. - Hinweis zur Lieferfrist. - ergänzende Handskizzen. - Verweise auf Detailzeichnungen mit den Altsignaturen S 7, S 148 und S 210.; Maßstab: 1:10. Bemerkung: Im überlieferten Repertorium zum älteren Teilbestand (Buch 56, 1878-1900) ist als Auftraggeber die Fürstlich Hohenlohische Verwaltung Slawentzitz angegeben. Der Zusammenhang ist jedoch unklar. Die Lichtpause wurde von der stark beschädigten Transparentpause (IV.2.01 - X 00036) angefertigt. Titel und Beschreibung fehlen, lassen sich aber anhand der Originalzeichnung rekonstruieren.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : [Wasserrad (System Zuppinger) für Herrn Maurer- und Zimmermeister Junker in Kriescht] </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">30.06.1900 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">paper </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Sławięcice </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

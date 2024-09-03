@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2277_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1665 </field>
+                        <field name="dc_description">La reproducción de esta obra se ve afectada por la mala calidad de la obra originalErrores de paginación: dos páginas numeradas como 4, página 18 numerada como 16, 73 como 70, 74 como 71, 75 como 72 y 76 como 73. Saltos de paginación: de la página 47 a la 46, de 57 a 61 y de 160 a 171. </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[s. n.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Clásicos </field>
+                        <field name="dc_title">Summaria investigacion de el origen, y privilegios, de los ricos hombres, o nobles, caballeros, infanzones o hijos dalgo, y señores de vasallos de Aragon, y del absoluto poder que en ellos tienen. Parte primera. </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1665? </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The reproduction of this work is affected by the poor quality of the original work Paging errors: two pages numbered as 4, page 18 numbered as 16, 73 as 70, 74 as 71, 75 as 72 and 76 as 73. Page breaks: page 47 to 46, 57 to 61 and 160 to 171. </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Classics </field>
+                        <field name="dc_title">A summary investigation of the origin, and privileges, of the rich men, or nobles, knights, infanzones or sons dalgo, and lords of vassals of Aragon, and of the absolute power they have in them. First part. </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The reproduction of this work is affected by the poor quality of the original work Paging errors: two pages numbered as 4, page 18 numbered as 16, 73 as 70, 74 as 71, 75 as 72 and 76 as 73. Page breaks: page 47 to 46, 57 to 61 and 160 to 171. </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Classics </field>
+                        <field name="dc_title">A summary investigation of the origin, and privileges, of the rich men, or nobles, knights, infanzones or sons dalgo, and lords of vassals of Aragon, and of the absolute power they have in them. First part. </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1665? </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

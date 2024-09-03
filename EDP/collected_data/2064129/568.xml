@@ -1,0 +1,82 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9146__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.461Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Eisenbahn-Hauptwerkstätte Potsdam </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wegen der guten Geräuschdämmung hielten die Bahnverwaltungen lange an der Holzbauweise, bei Schnellzugwagen, fest. Dadurch wurden die Fahrzeuge schwer und die Reisenden waren bei Unfällen schlecht geschützt. Das Untergestell ist hier bereits in Profilstahl ausgeführt. Das Sprengwerk, unter den Langträgern, diente der Aussteifung des Wagenkastens. <br />
+Das Modell zeigt die für preußische Schlafwagen typische Warmwasserheizung, die ihre Energie über einen Wärmetauscher von der Zugdampfheizleitung bezog. Der Wagen bot Platz für zwanzig Betten in zehn Abteilen, für zwei Aborte und ein Dienstabteil.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 87<br />
+Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 127  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Kastengerippe eines sechsachsigen Schlafwagens Bauart WL6ü, Modell 1:5 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1907 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Potsdam </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Box frame of a six-axle sleeping car, type WL6ü, model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Potsdam </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Box frame of a six-axle sleeping car, type WL6ü, model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Potsdam </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

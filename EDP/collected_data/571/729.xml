@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_175_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1681 </field>
+                        <field name="dc_description">Escala también expresada en leguas comunes de Francia, Alemania y España y leguas de una hora de camino </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">fre </field>
+                        <field name="dc_publisher">Chez H. Iaillot, joignant les grands Augustins aux deux Globes ... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Les Monts Pyrenées, ou sont remarqués les Passages de France en Espagne [Material cartográfico] </field>
+                        <field name="dc_type">Mapas </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1681 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">1681 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Scale also expressed in common leagues of France, Germany and Spain and leagues one hour on the way </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">fra </field>
+                        <field name="dc_publisher">Chez H. Iaillot, joignant les grands Augustins aux deux Globes... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Pyrenees - General Maps - 1681 </field>
+                        <field name="dc_title">Les Monts Pyrenées, ou sont remarqués les Passages de France in Espagne [Mapping Material] </field>
+                        <field name="dc_type">Maps </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Pyrenees - General Maps - 1681 </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Scale also expressed in common leagues of France, Germany and Spain and leagues one hour on the way </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Chez H. Iaillot, joignant les grands Augustins aux deux Globes... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Pyrenees - General Maps - 1681 </field>
+                        <field name="dc_title">Les Monts Pyrenées, ou sont remarqués les Passages de France in Espagne [Mapping Material] </field>
+                        <field name="dc_type">Maps </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Pyrenees - General Maps - 1681 </field>
+                        <field name="dcterms_temporal">1681 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_20320 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:04.742Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ewald Christian von Kleist </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 P GERM III, 5679 RARA </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">N. N. </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lyrik </field>
+                        <field name="dc_title">Der Frühling </field>
+                        <field name="dc_type">Belletristik </field>
+                        <field name="dcterms_alternative">Kleist, Ewald Christian von: Der Frühling. Berlin, 1749. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1749 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ewald Christian von Kleist </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 P GERM III, 5679 RARA </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">N. N. </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lyrik </field>
+                        <field name="dc_title">Spring </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Dress, Ewald Christian von: Spring. Berlin, 1749. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ewald Christian von Kleist </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 P GERM III, 5679 RARA </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">NO. </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">poetry </field>
+                        <field name="dc_title">Spring </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Dress, Ewald Christian von: Spring. Berlin, 1749. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

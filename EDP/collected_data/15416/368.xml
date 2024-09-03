@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/15416/Data_Library3_Library3_Batch_5_Delivery_DCT102006_pdf </field>
+                    <field name="timestamp_update">2014-12-01T13:15:53.223Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000574027 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Blomfield, Charles James, 1786-1857. </field>
+                        <field name="dc_date">1838 </field>
+                        <field name="dc_description">Published in London by B. Fellowes, Ludgate Street ; J. G. & F. Rivington, Waterloo Place ; and Hatchard and son, Piccadilly. -- [Printed in] London by R. Clay, printer, Bread-Street-Hill. -- Includes the Queen's letter to the Archbishop of Canterbury, signed by J Russell, "by Her Majesty's command". -- Includes preface. -- Includes bibliographic references. -- Includes author's advertisement. -- On cover: "National education : A sermon, by Charles James, Lord Bishop of London". </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">en </field>
+                        <field name="dc_publisher">London B. Fellowes </field>
+                        <field name="dc_source">The Oireachtas Library & Research Service </field>
+                        <field name="dc_subject">Christian education -- Sermons. </field>
+                        <field name="dc_title">National education : a sermon preached in the church of St. Martin in the Fields, on Sunday, February 18, 1838, in compliance with the Queen's letter on behalf of the National Society for Educating the Poor in the Principle of the Established Church Pamphlets </field>
+                        <field name="dc_type">InteractiveResource </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">London </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

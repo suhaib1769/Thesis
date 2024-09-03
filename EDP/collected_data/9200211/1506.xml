@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_bs_Ms_J0011 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:56.073Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Spain </field>
+                        <field name="dc_creator">Alfonsus, de Oropesa </field>
+                        <field name="dc_date">second half of the 15th century </field>
+                        <field name="dc_description">This work by brother Alonso de Oropesa OSH († 1469) must be considered in the context of the attacks on converted Jews in Spain (and above all in Toledo), the so-called conversos.  As a general of the Order of the Hieronymites (since 1457), but also as a close confidant and adviser of King Henry IV of Castile (1454-1474), Alonso advocated a tolerant attitude towards converted Jews. In 1450, he began writing the 'Lumen ad revelationem gentium et gloria plebis Dei Israel' - De unitate fidei et de concordia et pacifica equalitate fidelium (f. 1-203, Tabula 204-207); in 1465, he dedicated the completed book of 52 chapters to the Archbishop Alfonso Carrillo of Toledo (1410-1485). The announced second part of the work apparently was never written.In 1979, Luis A. Diaz y Diaz prepared a Spanish translation based on the three manuscripts then known. The present manuscript has not yet been acknowledged in research; it thus constitutes the fourth manuscript known so far. It was certainly written still in the 15th century and is made up of parchment and paper leaves. Despite its significance, no Latin text edition of the work has yet been prepared. </field>
+                        <field name="dc_format">212 ff., 29 x 22 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Montreux, Bibliotheca Sefarad, Ms. J 11 : Alonso de Oropesa, 'Lumen ad revelationem gentium et gloriam plebis Dei Israel' - De unitate fidei et de concordi et pacifica equalitate fidelium </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment and paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,82 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9096__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.730Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Höllentalbahn ist im Schwarzwald beheimatet und verbindet die Strecke zwischen Freiburg (Breisgau) und Donaueschingen. Während sie im innerstädtischen Bereich von Freiburg einer S-Bahn ähnelt, muss sie im eigentlichen Höllental, zwischen Himmelreich und Hinterzarten, große Steigungen bis zu 57,14 ‰ überwinden. Die Höllentalbahn zählt damit zu einer der steilsten Hauptbahnen in ganz Deutschland.<br />
+Bei dem Modell handelt es sich um einen Schienenabschnitt der Höllentalbahn. Im Original maßen die Abschnitte 9 m und lagen auf metallenen Querschwellen. In die Spossen der Zahnstange in der Mittellage griff das angetriebene Ritzel der Lokomotive ein. Eine solche Lokomotive befindet sich ebenfalls im Deutschen Technikmuseum.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 52<br />
+Gottwaldt, Alfred B. Züge, Loks und Leute: Eisenbahngeschichte in 33 Stationen : ein Katalog. Berlin: Nicolai, 1990. S. 125  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Oberbau der Höllentalbahn Hirschsprung-Hinterzarten mit Zahnstange System Riggenbach </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1887 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Upper building of the Höllentalbahn Hirschsprung-Hinterzarten with rack System Riggenbach </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Upper building of the Höllentalbahn Hirschsprung-Hinterzarten with rack System Riggenbach </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

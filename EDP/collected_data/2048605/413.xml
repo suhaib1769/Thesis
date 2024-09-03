@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_16753 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:02.842Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Adolph von Knigge </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, Np 16373-1/2 R </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Schmidt </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Anstandsliteratur </field>
+                        <field name="dc_title">Ueber den Umgang mit Menschen </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Knigge, Adolph von: Ueber den Umgang mit Menschen. Bd. 2. Hannover, 1788. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1788 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </field>
+                        <field name="dcterms_spatial">Hannover </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Adolph von Knigge </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, Np 16373-1/2 R </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Anstandsliteratur </field>
+                        <field name="dc_title">About dealing with people </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Knigge, Adolph von: Ueber dealing with people. Bd. 2. Hanover, 1788. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </field>
+                        <field name="dcterms_spatial">Hannover </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Adolph of Knigge </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, Np 16373-1/2 R </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">decoration </field>
+                        <field name="dc_title">About dealing with people </field>
+                        <field name="dc_type">literature on use </field>
+                        <field name="dcterms_alternative">Knigge, Adolph von: Ueber dealing with people. Bd. 2. Hanover, 1788. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Berlin State Library - Prussian Cultural Heritage </field>
+                        <field name="dcterms_spatial">Hanover </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

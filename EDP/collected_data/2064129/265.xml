@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_8520__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:59.403Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Schoof (Technischer Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wasserraddurchmesser D = 2800 mm, Wasserradbreite b = 1250 mm lichte Breite, Gerinnebreite b0 = 1100 mm lichte Breite, Radtiefe a = 250 mm, Anzahl der Schaufeln z = 36, Schaufelteilung e = 244,3 mm, Anzahl der Radarme i = 8. - Seitenansicht (teilweise geschnitten). - Querschnitt Radarme mit Radkränzen und Schaufel (Detailschnitt). - Berechnungen.; Maßstab: 1:10   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Tusche; Papier; Bleistift </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Oberschlächtiges Wasserrad (eichene Arme und Kränze und kieferne[r] Radboden) für Herrn Petermann in Rottleberode </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">16.05.1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Waterwheel (rich arms and wreaths and pine [r] wheel base) for Mr. Petermann in Rottleberode </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Waterwheel (rich arms and wreaths and pine [r] wheel base) for Mr. Petermann in Rottleberode </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,81 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9121__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.080Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Eisenbahn-Hauptwerkstätte Tempelhof </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Für einen elektrischen Versuchsbetrieb auf der Wannseebahn beschaffte die Preußische Staatsbahn ab 1900 bei Siemens Triebwagen. Diese waren aus herkömmlichen Abteilwagen abgewandelt. Zwischen zwei Triebwagen liefen bis zu acht gewöhnliche Abteilwagen. Der Mischbetrieb mit Dampfzügen brachte zahlreiche Probleme und die Versuche endeten daher schon 1902. Das Modell entstand 1906 in der Hauptwerkstätte Tempelhof, für das Verkehrs- und Baumuseum. Die elektrische Modellausrüstung steuerte Siemens bei. Der Wagenkasten ist vom Rahmen abgehoben, um die Motoren zu zeigen.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 109<br />
+Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 157  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Dreiachsiger, elektrischer Triebwagen 3. Klasse "Berlin 2030", Modell 1:5 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1899 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin-Tempelhof </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin-Tempelhof </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin temple yard </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

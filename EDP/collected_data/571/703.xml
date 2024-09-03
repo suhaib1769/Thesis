@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_849_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1537 </field>
+                        <field name="dc_description">Exposición : "La nobleza aragonesa", organizada por las Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">[Carta pública de reventa por vía de luición hecha por Lorenzo de Heredia, infanzón domiciliado en la villa de Fuentes como procurador de Pedro de Roda, mercader, ciudadano de Zaragoza de 700 sueldos dineros jaqueses censales y anuales de pensión y 14.000 sueldos de propiedad pagaderos el 1 de agosto al conde de Fuentes y a los justicias, jurados, concejos y universidades de la villa de Fuentes y lugares de Mediano, Fuendetodos y María] [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1537 en. 28 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">S. XVI </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Exhibition: “The Aragonese Nobility,” organized by the Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Censos-Zaragoza-S. XVI </field>
+                        <field name="dc_title">[Public letter of resale by way of luition made by Lorenzo de Heredia, infanzon domiciled in the villa of Fuentes as procurator of Pedro de Roda, merchant, citizen of Zaragoza of 700 salaries jaqueses census and annual pension monies and 14.000 property salaries payable on August 1 to the count of Fuentes and to the justices, jurors, councils and universities of the villa of Fuentes and places of Mediano, Fuendetodos and Maria] [Manus[ [ </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1537 in. 28 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Exhibition: “The Aragonese Nobility,” organized by the Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Censos-Zaragoza-S. XVI </field>
+                        <field name="dc_title">[Public letter of resale by way of luition made by Lorenzo de Heredia, infanzon domiciled in the villa of Fuentes as procurator of Pedro de Roda, merchant, citizen of Zaragoza of 700 salaries jaqueses census and annual pension monies and 14.000 property salaries payable on August 1 to the count of Fuentes and to the justices, jurors, councils and universities of the villa of Fuentes and places of Mediano, Fuendetodos and Maria] [Manus[ [ </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1537 in. 28 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">S. XVI </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

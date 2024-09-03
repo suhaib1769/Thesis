@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9119__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.069Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Eisenbahn-Lehrlingswerkstatt Konz (Mosel) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Moselstrecke ist erst 1879, nach dem deutsch-französischen Krieg (1870 bis 1871), angelegt worden. Am Unterlauf der Mosel folgt die Bahn dem Flußufer, während sie am Oberlauf bis Trier alle Flußschleifen abschneidet. Sie diente einer raschen Verbindung zwischen Berlin und Metz, sowie der Abfuhr der lothringischen Eisenerze. Größte technische Leistung war die Anlage des 4203 Meter langen »Kaiser-Wilhelm-Tunnels«. Wegen der  Rauchentwicklung der Dampfloks erhielt er eine Lüftungsanlage der »Bauart Saccardo«. Die antreibenden Dampfmaschinen fehlen heute auf dem Modell.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 30;Annalen 59. Jg., 15.08.1906, Nr. 700, S. 70 f (Abb. und Tafel 4);Eisenbahn Kurier EK 1979, H. 5, S. 5ff (Abb. 6);Eisenbahn Kurier EK 1979, H. 8, S. 17f;Eisenbahn Kurier EK 1988, H. 12, S. 21ff;Eisenbahn Kurier EK 1989, H. 1, S. 26ff (Abb.);Eisenbahn Magazin. Modellbahn Magazin 25. Jg., September 1987, H. 9, (Abb. Modellfoto)  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Material: Holz, Gips, Karton, Metall </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Stellwerk </field>
+                        <field name="dc_title">Portal des Kaiser-Wilhelm-Tunnels bei Cochem, Modell 1:20 </field>
+                        <field name="dc_type">Stellwerk </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1879 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Konz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The Moselle route was only created in 1879, after the Franco-German war (1870 to 1871). At the lower reaches of the Mosel, the railway follows the river bank, while at the upper reaches to Trier it cuts off all river loops. It served a quick connection between Berlin and Metz, as well as the departure of the Lorraine iron ores. The largest technical power was the installation of the 4203-meter-long “Kaiser-Wilhelm-Tunnel.” Due to the smoke development of the steam locomotives, he received a ventilation system of the “Saccardo type.” The steam engines are missing today on the model.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 30; Annalen, 13th c., 15.08.1906, No. 700, p. 70 f (Fig. and Table 4); Kurier EK railway 1979, H. 5, p. 5ff (Fig. 6); Kurier EK railway 1979, H. 8, p. 17f; Kurier EK railway 1988, H. 12, p. 21ff; Kurier EK railway 1989, H. 1, p. 26ff (Fig.);, Railway Magazine. Model railway, magazine 25. Jg., September 1987, H. 9, (Fig. Model photo) (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Portal of the Kaiser-Wilhelm tunnel near Cochem, Model 1: 20 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Konz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The Moselle route was only created in 1879, after the Franco-German war (1870 to 1871). At the lower reaches of the Mosel, the railway follows the river bank, while at the upper reaches to Trier it cuts off all river loops. It served a quick connection between Berlin and Metz, as well as the departure of the Lorraine iron ores. The largest technical power was the installation of the 4203-meter-long “Kaiser-Wilhelm-Tunnel.” Due to the smoke development of the steam locomotives, he received a ventilation system of the “Saccardo type.” The steam engines are missing today on the model.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 30; Annalen, 13th c., 15.08.1906, No. 700, p. 70 f (Fig. and Table 4); Kurier EK railway 1979, H. 5, p. 5ff (Fig. 6); Kurier EK railway 1979, H. 8, p. 17f; Kurier EK railway 1988, H. 12, p. 21ff; Kurier EK railway 1989, H. 1, p. 26ff (Fig.);, Railway Magazine. Model railway, magazine 25. Jg., September 1987, H. 9, (Fig. Model photo) (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">interlocking </field>
+                        <field name="dc_title">Portal of the Kaiser-Wilhelm tunnel near Cochem, Model 1: 20 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Konz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

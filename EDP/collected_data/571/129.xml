@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_423_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1760 </field>
+                        <field name="dc_description">Texto fechado en Buen-Retiro, 22 de Febrero de 1760 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[s.l.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Decreto del Rey nuestro señor Don Carlos Tercero, ... se ha servido consignar diez millones de reales al año, ... para ir pagando los creditos, contraidos por la corona, en el reynado de ... Phelipe Quinto, ... y instruccion, que en su consecuencia ha formado, ... el ... Marquès de Squilace [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Decreto, 1760] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1760?] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XVIII </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text dated in Buen-Retiro, 22 February 1760 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[s.l.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Spain-Budgets-S. XVIII-Legislation </field>
+                        <field name="dc_title">Real Decree of the King our lord Don Carlos Tercero,... it has been useful to write ten million reais a year,... to pay the credits, contracted by the crown, in the reynado of... Phelipe Quinto,... and instruction, which in its consequence has formed... the... Marquès de Squilace [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain-Budgets-S. XVIII-Legislation </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text dated in Buen-Retiro, 22 February 1760 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">[s.l.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Spain-Budgets-S. XVIII-Legislation </field>
+                        <field name="dc_title">Real Decree of the King our lord Don Carlos Tercero,... it has been useful to write ten million reais a year,... to pay the credits, contracted by the crown, in the reynado of... Phelipe Quinto,... and instruction, which in its consequence has formed... the... Marquès de Squilace [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1760?] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain-Budgets-S. XVIII-Legislation </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0942 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:07.380Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Monastery of St. Gall </field>
+                        <field name="dc_creator">Theodemarus, Casinensis </field>
+                        <field name="dc_date">15th century, probably around 1423/1436 </field>
+                        <field name="dc_description">This composite manuscript from the Monastery of St. Gall, written and compiled by several hands in the 15th century, contains (in addition to shorter texts and numerous blank pages): excerpts in alphabetical order of Latin writings by church fathers regarding various theological concepts (De abiectione – De voto; pp. 3−179); the work Soliloquium by the Franciscan theologian and philosopher Bonaventure (1221−1274; pp. 181−266); a copy of the anonymous work Stella clericorum that was often adopted in the 15th century (pp. 291−319); the work Speculum peccatoris falsely attributed to Augustine (pp. 339−354); the sermon Corde creditur ad iustitiam by Thomas Ebendorfer (pp. 355−361); the Capitulare monasticum III of 818/819 (pp. 363−367); a not quite complete copy of a letter from Theodomar, Abbot of Montecassino, to Charlemagne (pp. 369−373); and the Consuetudines Fuldenses from the 10th/11th century in the Redactio Sangallensis-Fuldensis (pp. 374−404). The wood binding is covered with red leather; on p. 361 three is a note by the scribe:  per me syfridum pfragner. </field>
+                        <field name="dc_format">410 pp., 21.7 x 15.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 942 : 15th century Composite Manuscript from the Monastery of St. Gall containing, among other items, alphabetical excerpts of writings by the Church Fathers, Bonaventure’s work <i>Soliloquium</i>, and the 10th/11th century <i>Consuetudines Fuldenses</i> </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

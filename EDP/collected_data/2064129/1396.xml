@@ -1,0 +1,79 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9085__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.633Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Emilio Pucci (1914-1992) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Plastikhaube „Space Bubble“ („Weltraum-Blase“) gehörte zu einer Kollektion, die der italienische Modemacher Emilio Pucci für die Stewardessen der amerikanischen Fluggesellschaft Braniff International entworfen hatte. Sie sollte die Frisuren auf dem Weg zwischen Flughafengebäude und Flugzeug vor Wind und Wetter schützen. Ihren Namen verdankt sie der Ähnlichkeit mit einem Astronautenhelm.<br />
+Die Haube fand kaum Verwendung, da das Plastik leicht kaputt ging und die sperrigen Helme sich im Flugzeug schlecht verstauen ließen. Außerdem erfolgte der Einstieg in die Maschine zunehmend über Fluggastbrücken, die bis ins Flughafengebäude führten und den Frisurenschutz überflüssig machten.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Plastik </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Luftfahrt </field>
+                        <field name="dc_title">Frisurenschutzhaube "Space Bubble" </field>
+                        <field name="dc_type">Luftfahrt </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1965-1974 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Emilio Pucci (1914-1992) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1965-1974 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Emilio Pucci (1914-1992) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Plastic </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Aviation </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1965-1974 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

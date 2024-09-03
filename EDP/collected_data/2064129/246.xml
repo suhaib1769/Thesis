@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9115__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.051Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Modellbau A. Schumann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Der anwachsende Verkehr verlangte Ende der zwanziger Jahre nach einem Neubau des Düsseldorfer Hauptbahnhofes. Eduard Behnes, von der Reichsbahndirektion Wuppertal, entwarf nach einem Wettbewerb ein wuchtiges Empfangsgebäude im Stil der "Neuen Sachlichkeit". Diese Fassung wurde bis zum Baubeginn 1932 überarbeitet. Eine rote Klinkerfassade verbirgt hochmoderne Stahlskelett- und Stahlbetonbauweisen. <br />
+Der Entwurf  der Bahnsteighallen stammt von Albert Dörnen und dem Reichsbahnoberrat Leopold.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 59<br />
+Die Bautechnik 9. Jg., 08.05.1931, H. 20, S. 279ff (Abb.)<br />
+Die Bautechnik 9. Jg., 19.06.1931, H. 27, S. 421f<br />
+Die Reichsbahn. Amtliches Nachrichtenblatt der Deutschen Reichsbahn-Gesellschaft 13 Jg., 19.05.1937, H. 20, S. 503 Endmann, Karl. Düsseldorf und seine Eisenbahnen in Vergangenheit und Gegenwart. Stuttgart: Motorbuch-Verlag, 1986.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz, Papier, Karton, Plaste </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Empfangsgebäude der Bahnsteighalle des Hauptbahnhofs Düsseldorf, Modell 1:200 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1930 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Düsseldorf </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Model building A. Schumann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, paper, cardboard, plaste </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Reception building of the platform hall of Düsseldorf central station, Model 1: 200 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Düsseldorf </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Model building A. Schumann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, paper, cardboard, plaste </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Reception building of the platform hall of Düsseldorf central station, Model 1: 200 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Düsseldorf </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

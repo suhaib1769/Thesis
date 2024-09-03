@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_20511 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:11.410Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Gabriel Rollenhagen </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">HAB Wolfenbüttel, H: P 528.4° Helmst. </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Bötcher </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Reiseliteratur </field>
+                        <field name="dc_title">Vier Bücher Wunderbarlicher biß daher vnerhörter/ vnd vngleublicher Jndianischer reysen/ durch die Lufft/ Wasser/ Land/ Helle/ Paradiß/ vnd den Himmel </field>
+                        <field name="dc_type">Belletristik </field>
+                        <field name="dcterms_alternative">Rollenhagen, Gabriel: Vier Bücher Wunderbarlicher biß daher vnerhörter/ vnd vngleublicher Jndianischer reysen. Magdeburg, 1603. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1603 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: HAB Wolfenbüttel </field>
+                        <field name="dcterms_spatial">Magdeburg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">HAB Wolfenbüttel, H: P 528.4° Helmst. </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Bötcher </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Four books of miraculous bite therefore vnerhört/vnd vngleubliche Jndianer reysen/through the hatch/water/land/Helle/Paradiß/vnd the heavens </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Rollenhagen, Gabriel: Four books Miraculous, therefore vnerhörter/vnd vngleubliche Jndianer reysen. Magdeburg, 1603. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: HAB Wolfenbüttel </field>
+                        <field name="dcterms_spatial">Magdeburg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Boat </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Four books of miraculous bite therefore vnerhört/vnd vngleubliche Jndianer reysen/through the hatch/water/land/Helle/Paradiß/vnd the heavens </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Rollenhagen, Gabriel: Four books Miraculous, therefore vnerhörter/vnd vngleubliche Jndianer reysen. Magdeburg, 1603. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: HAB Wolfenbüttel </field>
+                        <field name="dcterms_spatial">Magdeburg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

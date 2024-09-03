@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_266_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1740 </field>
+                        <field name="dc_description">Escala también expresada en leguas comunes de España y leguas grandes de España </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">mul </field>
+                        <field name="dc_publisher">en casa del autor, sobre el puerto del Relox de Palacio a la insignia de la Plaza de las Victorias... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El Reyno de España dividido en dos grandes estados de Aragon y de Castilla [Material cartográfico]: subdividido en muchas provincias donde se halla tambien el Reyno de Portugal. Dedicado a su Magestad Catholica Phelipe Quinto Rey de España y de las Indias &ª </field>
+                        <field name="dc_type">Mapas </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1740 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Ca. 1740 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Scale also expressed in common leagues of Spain and large leagues of Spain </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">fra </field>
+                        <field name="dc_publisher">at the author’s house, on the port of the Relox de Palacio to the insignia of the Plaza de las Victorias... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Spain-General Maps - Ca. 1740 </field>
+                        <field name="dc_title">The Reyno of Spain divided into two great states of Aragon and Castile [Cartographic Material]: subdivided in many provinces where the Reyno of Portugal is also located. Dedicated to his Magestad Catholica Phelipe Quinto Rey de España y de las Indias & ª </field>
+                        <field name="dc_type">Maps </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain-General Maps - Ca. 1740 </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Scale also expressed in common leagues of Spain and large leagues of Spain </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">at the author’s house, on the port of the Relox de Palacio to the insignia of the Plaza de las Victorias... </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Spain-General Maps - Ca. 1740 </field>
+                        <field name="dc_title">The Reyno of Spain divided into two great states of Aragon and Castile [Cartographic Material]: subdivided in many provinces where the Reyno of Portugal is also located. Dedicated to his Magestad Catholica Phelipe Quinto Rey de España y de las Indias & ª </field>
+                        <field name="dc_type">Maps </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain-General Maps - Ca. 1740 </field>
+                        <field name="dcterms_temporal">Ca. 1740 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

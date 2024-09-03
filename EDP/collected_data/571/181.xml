@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2478_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1701-1750 </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">En la Villa de Aranda el dia 20 de febrero de 1746 ante el S[eño]r Juan Ant[oni]o Gomez ... [Manuscrito] : [Borrador del pleito de la villa de Aranda y el convento de los Capuchinos sobre la declaración del procurador Francisco Calabria] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1ª mitad s. XVIII?] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aranda de Moncayo(Zaragoza) </field>
+                        <field name="dcterms_temporal">S. XVIII </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Capuchinos-Aranda de Moncayo (Zaragoza) -S. XVIII-Sources </field>
+                        <field name="dc_title">In the Villa de Aranda on 20 February 1746 before the S [eño] r Juan Ant [oni] o Gomez... [Manuscript]: [Draft of the lawsuit of the villa of Aranda and the convent of the Capuchins on the statement of the procurator Francisco Calabria] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1st half s. XVIII?] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aranda de Moncayo (Zaragoza) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1701-1750 </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Capuchinos-Aranda de Moncayo (Zaragoza) -S. XVIII-Sources </field>
+                        <field name="dc_title">In the Villa de Aranda on 20 February 1746 before the S [eño] r Juan Ant [oni] o Gomez... [Manuscript]: [Draft of the lawsuit of the villa of Aranda and the convent of the Capuchins on the statement of the procurator Francisco Calabria] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1st half s. XVIII?] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aranda de Moncayo (Zaragoza) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

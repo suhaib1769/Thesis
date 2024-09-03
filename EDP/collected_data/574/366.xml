@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/574/_dv14cg63v </field>
+                    <field name="timestamp_update">2021-11-29T10:04:18.179Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000364879 </field>
+                        <field name="dc_contributor">Buchanan, James, 1804-1870 </field>
+                        <field name="dc_coverage">name=New York; north=40.7127281; west=-74.0060152 </field>
+                        <field name="dc_creator">Buchanan, James, 1804-1870 </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Printed by William A. Mercein, 240 Pearl Street. -- Dedication "to the Honl. James Kent, late Chancellor of the state of New York", signed "J. Buchanan, New York, 1st August, 1834". -- Includes: preface ; letter addressed to Sir John Colborne, K.C.B. &c., dated 4th March 1833  extracts from letters to Sir Robert Peel (1828)  and to the Right Honourable Edward G.S. Stanley (December 1833)  extracts from reports in relation to the police of the state of New York, and regarding poor laws of the state of New York (addresed to Viscount Palmerston, 1853)  section on "management of poor in Connecticut"  rules and regulations; and estimates. --  On front cover: "Extracts from Mr. Buchanan's letters and reports, as to state prisons, crime, poor laws, democracy, universal suffrage, education, reformation of criminals in the state of New York, with a proposition to provide for the surplus working population of England, plan and estimate:- to which is added, suggestions for upholding the property of the church, preserving vested rights, exonerating dissenters from contributing thereto, and applying the tythes for the support of the poor". --  Handwritten inscriptions on front-cover: "[?] Buchanan's letter, 26 August '37 (private letters)" and "Poor law question page 48. Estimate - 75". -- Includes table of contents end of volume. </field>
+                        <field name="dc_format">text </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Prisons -- United States -- 19th century </field>
+                        <field name="dc_title">Facts and observations in relation to the extension of state prisons in England, also bearing on poverty and crime </field>
+                        <field name="dc_type">Text </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">New York </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

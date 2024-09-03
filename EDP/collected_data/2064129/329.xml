@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8510__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:59.248Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wassermenge Q = 0,3-0,4 m³/s, Gefälle H = 2,2 m, Wasserradbreite b = 900 mm, Anzahl der Schaufeln z = 44, Drehzahl des Wasserrades n = 8 U/min, Wasserraddurchmesser D = 4800 mm, Kranzbreite/Schaufeltiefe a = 300 mm, Umfangsgeschwindigkeit v = 2 m/s, Füllungsgrad der Wasserradzellen = 0,55-0,74, Schaufelteilung e = 342,5 mm, Absolute Leistung des Wassers Na = 8,8 PS, [Wirkungsgrad?] % = 70, Ne = 6,16. - Seitenansicht (teilweise geschnitten). - Querschnitt Gerinne mit Radarmen, Radkränzen und Schaufel (Detailschnitt). - Verweis auf Detailzeichnung mit der Altsignatur S 115. - Berechnungen.; Maßstab: 1:10   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Tusche; Papier; Bleistift </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Kropfrad mit Spannschützen für Herrn Oskar Jäger in Dehlitz bei Weißenfels an der Saale </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">01.01.1896-31.12.1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with tensioners for Mr. Oskar Jäger in Dehlitz near Weißenfels an der Saale </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with tensioners for Mr. Oskar Jäger in Dehlitz near Weißenfels an der Saale </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">White rock </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

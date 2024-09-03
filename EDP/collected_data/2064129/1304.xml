@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9127__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.170Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Aktien-Gesellschaft für Fabrikation von Eisenbahnmaterial zu Görlitz </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Um die Bahnstrecke, in den Alpen und in den östlichen Landesteilen, von Schnee zu beseitigen, wurden Schneepflüge und Schneeschleudern gebaut. Der Amerikaner Leslie erfand die Schneeschleuder »Rotary«, die der Görlitzer Aktien-Gesellschaft für Fabrikation von Eisenbahn-Material ab 1889 als Vorbild diente.<br />
+Der Görlitzer »Schneekreisel« arbeitete mit feststehenden Messern, wodurch seine Leistungsfähigkeit gemindert wurde. Im Gegensatz zur amerikanischen Bauart war er jedoch weniger anfällig.<br />
+Die in der Schneeschleuder eingebaute Dampfmaschine verfügte über eine Leistung von ca. 700 PS und erhielt den Dampf von der schiebenden Lokomotive. Der dabei entstehende Abdampf wurde in den Schornstein der Lok zurückgeführt.<br />
+Das Schleuderrad beförderte mit 150 Umdrehungen, pro Minute, den Schnee etwa 20 m hoch und bis zu 100 m seitwärts der Schienen.<br />
+In der Regel reichte die Kesselleistung einer Dampflokomotive, für den Betrieb des »Schneekreisels«, nicht aus. Das Vorbild wurde 1907 an die Eisenbahndirektion Breslau geliefert. Das Museum besitzt ferner eine Original-Schneeschleuder von Henschel mit eigenem Kessel.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 68;Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 31  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Dampfschneeschleuder "Breslau 3001", Modell 1:5 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1907 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Görlitz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Breslau 3001, Model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Breslau 3001, Model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

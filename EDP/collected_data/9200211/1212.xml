@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_fmb_ms_Rousseau_R_049_002 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:13.463Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Rousseau, Jean-Jacques </field>
+                        <field name="dc_date">December 1740 </field>
+                        <field name="dc_description">The Mémoire présenté à M. de Mably sur l’éducation de M. son fils is Rousseau’s first writing related to his experience as an educator. In 1740 he took up a difficult position as tutor in the family of the notable Jean Bonnot de Mably, provost general of police in the Lyon region. This position came to an end after only one year. Two young children with little inclination to study had been entrusted to his care: François-Paul-Marie Bonnot de Mably, called Monsieur de Sainte-Marie, five and a half years old, and Jean-Antoine Bonnot de Mably, called Monsieur de Condillac, four and a half years old. The long Mémoire, dedicated to the older boy, emphasizes the “educational mission” and experience with practical education: it is presented as a plan and a synthesis; its writing has been dated around December 1740. The young tutor addresses M. de Mably and makes known to him the plan and structure for the education of his son in order to shape “the heart, the judgment and the spirit.” This is not the natural education, which later on will be advocated in ’Émile. Did Rousseau really present this Mémoire to M. de Mably? Known is only that he gave this manuscript of the Mémoire to Mme Dupin, his employer in 1743, and that since then it has been kept with the “Papers of Mme Dupin.” It was published for the first time in Paris in 1884 by G. de Villeneuve-Guibert in Le portefeuille de Madame Dupin. The Fondation Bodmer’s manuscript is the only one in existence. A Projet d’éducation, much shorter, more clearly structured and of unknown date, was found among Rousseau’s papers at the time of his death (this manuscript, now lost, was first published in Geneva in 1782). It is very similar to the Mémoire and seems to have been written </field>
+                        <field name="dc_format">38 pp., 27.5 x 18.5 cm </field>
+                        <field name="dc_language">French </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Cologny, Fondation Martin Bodmer, R-49.2 : Rousseau,  Mémoire présenté à M. de Mably sur l’éducation de M. son fils </field>
+                        <field name="dc_type">Autograph </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

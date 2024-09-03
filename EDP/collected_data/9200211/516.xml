@@ -1,0 +1,79 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_psle_0001a </field>
+                    <field name="timestamp_update">2016-09-27T09:30:16.893Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Bern, St. Vincent </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">around 1485/1490 </field>
+                        <field name="dc_description">This volume is part of an antiphonary in three volumes that was produced in duplicate for the liturgy of the Collegiate Church of St. Vincent in the city of Bern shortly after the college’s founding in the years 1484/85. The manuscript contains the entire winter portion of the Temporale, of the Sanctorale and of the Commune Sanctorum according to the liturgy of the Diocese of Lausanne. The book decoration with miniatures for numerous initials is attributed to the Master of the Breviary of Jost of Silenen, an itinerant artist who was active in Fribourg, Bern, Sion and later in Ivrea and Aosta. He got his name from a breviary in two volumes that was created around 1493 for the Bishop of Sion, Jost of Silenen (1482-1496).
+After the introduction of the Reformation to Bern in the year 1528 and the subsequent secularization of the chapter, the entire group of antiphonaries was sold in 1530: four were sold to the city of Estavayer-le-Lac and were used there for the liturgy of the Collegiate Church of St. Lorenz; the other two — among them a duplicate of this manuscript — reached Vevey under circumstances that remain unexplained. They are currently held in the historical museum there. </field>
+                        <field name="dc_format">373 ff., 57.5-58 x 39-39.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Estavayer-le-Lac, Paroisse catholique Saint-Laurent, Volume I : Antiphonarium lausannense, pars hiemalis (vol. I) </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

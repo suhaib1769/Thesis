@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_0987 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:07.560Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">region of Lake Constance, community of lay brothers of the Monastery of St. Gall </field>
+                        <field name="dc_creator">Johannes, Hildesheimensis </field>
+                        <field name="dc_date">1454 </field>
+                        <field name="dc_description">This manuscript contains three substantial treatises in German. At the beginning there is the life of Archbishop Johannes of Alexandria (pp. 5−83), written by Anastasius Bibliothecarius. It is followed by the edifying treatise Die vierundzwanzig Alten oder der goldene Thron der minnenden Seele by Otto of Passau (pp. 87−544) and the History of the Three Kings (Historia trium regum) by John of Hildesheim (pp. 546−602). The treatise by Otto of Passau is illustrated with 25 colored pen and ink drawings, outlined in red and extending the width of the column. The History of the Three Kings begins with a full-page miniature (p. 546), which shows the three Magi visiting the infant Jesus. The scribe and the illustrators of this manuscript, which possibly originated in the circle of the community of lay brothers of St. Gall, are unknown; stylistic characteristics suggest the Konstanz book illumination of Rudolf Stahel. The manuscript is dated to the year 1454 in three places (p. 93 as an inscription in a picture; p. 544; p. 602). In the 15th century the manuscript was the property of the community of lay brothers of the Monastery of St. Gall (who did not know Latin); in 1618 the manuscript was still in the library of the community of lay brothers. At least since 1755 it has been attested in the main library of St. Gall Abbey. </field>
+                        <field name="dc_format">602 pp., 28.5 x 21 cm </field>
+                        <field name="dc_language">German </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 987 : Illustrated composite manuscript of edifying texts from the community of lay brothers of the Monastery of St. Gall with three edifying treatises in German </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

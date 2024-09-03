@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_437_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1430 </field>
+                        <field name="dc_description">Signo de Juan Calvo, notario público de la ciudad de Zaragoza </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">[Miguel del Cellero, habitante en la ciudad de Zaragoza, calonge y capellán de la iglesia de San Gil, da a treudo un huerto situado en el callizo de la Bojía, a Antón de Ejea, habitante en dicha ciudad, por quince sueldos dineros jaqueses anuales de treudo perpetuo] [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1430 dic. 2 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Sign of Juan Calvo, notary public of the city of Zaragoza </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lease - Zaragoza-S. XV </field>
+                        <field name="dc_title">[Miguel del Cellero, inhabitant of the city of Zaragoza, calonge and chaplain of the church of San Gil, gives a firecracker located in the callizo de la Bojía, to Antón de Ejea, inhabitant in that city, for fifteen salaries jaqueses money jaqueses annually of perpetual treudo] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1430 dic. 2 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Sign of Juan Calvo, notary public of the city of Zaragoza </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lease - Zaragoza-S. XV </field>
+                        <field name="dc_title">[Miguel del Cellero, inhabitant of the city of Zaragoza, calonge and chaplain of the church of San Gil, gives a firecracker located in the callizo de la Bojía, to Antón de Ejea, inhabitant in that city, for fifteen salaries jaqueses money jaqueses annually of perpetual treudo] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zaragoza </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

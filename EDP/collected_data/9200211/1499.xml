@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_bke_0052 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:55.093Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Gelasius I., Papst </field>
+                        <field name="dc_date">late 11th century </field>
+                        <field name="dc_description">Engelberg 52 is a late eleventh-century handbook of canon law from the circle of Bernold of Constance († 1100), an ardent champion of Pope Gregory VII. It comprises various canonistic compilations: the 'Collection in Seventy-Four Titles' (Collectio 74 titulorum with the so-called 'Swabian Appendix' (Appendix svevica; two short collections 'On Churches' (De ecclesiis) and 'On Illicit Unions' (De illicitis coniunctionibus); the Pseudo-Gelasian decretal 'On Books to be Received and not to be Received' (De libris recipiendis et non recipiendis); the 'Canons of the Four Principal Councils' prefaced by 'Adnotation I' (Adnotatio I; and the Epitome Hadriani prefaced by 'Adnotation II' (Adnotatio II). All of these items can also be found in two closely related manuscripts (St. Gallen, Stiftsbibliothek, Cod. Sang. 676‬‬, and Stuttgart, Württembergische Landesbibliothek, HB.VI.107); but several appear here in shorter, possibly less developed forms. Prefixed to the whole is a catalogue of popes extending from Peter I to Leo IX with the addition of Victor II. Though it acknowledges Henry III’s role in the appointment of four popes (from Clement II to Victor II), it was possibly the source of the papal catalogue that Bernold attached to his Chronicle (Munich, Bayerische Staatsbibliothek, Clm 432, fols. 10r–12r). </field>
+                        <field name="dc_format">76 ff., 26.8 x 18.4 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Engelberg, Stiftsbibliothek, Cod. 52 : Handbook of canon law </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

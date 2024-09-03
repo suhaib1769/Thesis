@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_926_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1267 </field>
+                        <field name="dc_description">Carta partida en A, B, C </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">[Tratos de Juan Madrid, capellán que cambió con Rodrigo de Vera, sacristán de Bolea, una viña en el Brazal que limita con viña de los monjes de Bolea, con viña de Don Montesinos, justicia, y con acequia vecinal, por una viña en el término de Ainzón, que confronta con viña de Pedro Zapatero, acequia vecinal y viña de Exemen de Navascués, y 1000 sueldos jaqueses] [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Ainzón (Zaragoza) </field>
+                        <field name="dcterms_temporal">S. XIII </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Letter item in A, B, C </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Permuta-Ainzón (Zaragoza) -S. XIII </field>
+                        <field name="dc_title">[Proceedings of Juan Madrid, chaplain that changed with Rodrigo de Vera, sacristan of Bolea, a vineyard in the Brazal that borders with vineyard of the monks of Bolea, with vineyard of Don Montesinos, justice, and with neighborhood ditch, for a vineyard in the term of Ainzón, which confronts with vineyard of Pedro Zapatero, neighborhood ditch and vineyard of Exemen of Navascués, and 1000 jaqueses salaries] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Ainzón (Zaragoza) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Letter item in A, B, C </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Permuta-Ainzón (Zaragoza) -S. XIII </field>
+                        <field name="dc_title">[Proceedings of Juan Madrid, chaplain that changed with Rodrigo de Vera, sacristan of Bolea, a vineyard in the Brazal that borders with vineyard of the monks of Bolea, with vineyard of Don Montesinos, justice, and with neighborhood ditch, for a vineyard in the term of Ainzón, which confronts with vineyard of Pedro Zapatero, neighborhood ditch and vineyard of Exemen of Navascués, and 1000 jaqueses salaries] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Ainzón (Zaragoza) </field>
+                        <field name="dcterms_temporal">S. XIII </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

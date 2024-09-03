@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2448_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma de Josef de Cáceres </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El Excmo. Sr. Secretario de Estado y del Despacho universal de Hacienda, ..., me ha comunicado la Real órden siguiente [Texto impreso] : "El Sr. Secretario del Despacho de Estado me dice con fecha de 30 de Setiembre anterior lo que sigue: Excmo. Sr. : D. Ignacio Gil del Palacio me ha dirigido desde Sevilla la representacion adjunta, en que solicita que el Superintendente de la Real Fábrica de Tabacos de aquella ciudad le devuelva la libranza de sesenta y dos mil cuatrocientos ochenta y un reales y veinte y siete maravedis que presentó, dada por D. Mateo Fabier, Intendente del egército frances en tiempo de la dominacion enemiga, ... </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Josef de Cáceres </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Gil, Ignatius </field>
+                        <field name="dc_title">The Hon. Mr. Secretary of State and the Universal Office of the Treasury,..., has informed me the following Royal Order [Printed Text]: "Mr. Secretary of the Office of State tells me with date of September 30 above what follows: Hon. Mr. : D. Ignacio Gil del Palacio has lead me from Seville the attached representation, in which he requests that the Superintendent of the Royal Tobacco Factory of that city give him back the library of sixty-two thousand four hundred and eighty one royal and twenty and seven maravedis that he presented, given by D. Mateo Fab, Mayor of the French eg: in time of the enemy dominance,... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Josef de Cáceres </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Gil, Ignatius </field>
+                        <field name="dc_title">The Hon. Mr. Secretary of State and the Universal Office of the Treasury,..., has informed me the following Royal Order [Printed Text]: "Mr. Secretary of the Office of State tells me with date of September 30 above what follows: Hon. Mr. : D. Ignacio Gil del Palacio has lead me from Seville the attached representation, in which he requests that the Superintendent of the Royal Tobacco Factory of that city give him back the library of sixty-two thousand four hundred and eighty one royal and twenty and seven maravedis that he presented, given by D. Mateo Fab, Mayor of the French eg: in time of the enemy dominance,... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

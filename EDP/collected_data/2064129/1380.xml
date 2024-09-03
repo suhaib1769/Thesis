@@ -1,0 +1,87 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9133__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.295Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Norddeutsche Wagenbau-Vereinigung </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Ab 1903 beschafften die Preußischen Staatsbahnen für Kurswagendienste 23 D-Zug-Wagen, die drei Klassen führten: ein vierplätziges 1.-Klasse-Abteil, drei sechsplätzige 2.-Klasse-Abteile und drei achtplätzige 3.-Klasse-Abteile. Ferner waren ein Dienstabteil, sowie je ein Abort für Frauen und Männer vorhanden. Die Breslauer Actien-Gesellschaft für Eisenbahnbedarf lieferte im Jahre 1904 den Wagen "Danzig 0674” für 44.103 Mark. Ein dem Wagen entsprechendes Modell stiftete der Hersteller 1906 dem Verkehrs- und Baumuseum in Berlin.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943, S. 82<br />
+Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 60  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Personenwagen (Eisenbahn) </field>
+                        <field name="dc_title">D-Zugwagen 1. bis 3. Klasse "Danzig 0674", vierachsig, nach Musterblatt M Ia5, Modell 1: 5 </field>
+                        <field name="dc_type">Personenwagen (Eisenbahn) </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1902 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Northern German Wagon Building Association </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Starting in 1903, the Prussian state railways procured 23 D-train cars for course-car services, which lead three classes: a four-part, 1st class compartment, three six-part, second class compartments and three eight-part, third class compartments. There was also a service compartment, as well as one abortion for women and men. In 1904, the Breslauer Actien-Gesellschaft für Die Die delivered the “Danzig 0674” car for 44.103 marks. In 1906 the manufacturer donated a model to the Berlin Museum of Transport and Construction.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943, p. 82 <br/>
+Nussbaum, Uwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 60 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Northern German Wagon Building Association </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Starting in 1903, the Prussian state railways procured 23 D-train cars for course-car services, which lead three classes: a four-part, 1st class compartment, three six-part, second class compartments and three eight-part, third class compartments. There was also a service compartment, as well as one abortion for women and men. In 1904, the Breslauer Actien-Gesellschaft für Die Die delivered the “Danzig 0674” car for 44.103 marks. In 1906 the manufacturer donated a model to the Berlin Museum of Transport and Construction.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943, p. 82 <br/>
+Nussbaum, Uwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 60 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Passenger car (railway) </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

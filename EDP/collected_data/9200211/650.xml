@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0973 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:07.560Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">community of nuns at Wonnenstein, Teufen </field>
+                        <field name="dc_creator">Ebner, Christine </field>
+                        <field name="dc_date">1498 </field>
+                        <field name="dc_description">This manuscript, written around 1500 by the Sisters of the third order of St. Francis at Wonnenstein near Teufen, not far from St. Gall, contains as an introduction a register (pp. 1−9) of manuscripts and printed works held in the convent library, compiled around 1500; it has a total of 110 entries. The majority consist of ascetic-edifying treatises; among them are Brother Conrad Nater’s German translations of Bonaventure’s Regula novitiorum (pp. 15−107), the German version of David of Augsburg’s De exterioris et interioris hominis compositione (pp. 109−188), the Ermahnung zu einem wahren klösterlichen Leben by the Franciscan monk Heinrich Vigilis of Weissenburg (pp. 190−223), the treatise Die besessene Nonne Agnes (pp. 225−404), a treatise on the passion attributed to Bernardino of Siena (Lernung das lyden unsers lieben heren zu betrachten; pp. 406−475), revelations by the mystics Gertrude of Helfta and Christine Ebner (pp. 476−486), Bonaventure’s Soliloquium in a shortened German version (pp. 496−713), as well as the treatise Vom Reuer, Wirker und Schauer by the so-called Kuttenmann (pp. 717−727). On 11 February 1782, the St. Gall Abbey librarian Johann Nepomuk Hauntinger (1756−1823) acquired this manuscript, together with four other manuscripts (today Cod. Sang. 972a, Cod. Sang. 976, Cod. Sang. 977 and Cod. Sang. 991) from the community of Capuchin nuns at Wonnenstein. </field>
+                        <field name="dc_format">730 pp., 17 x 11.8 cm </field>
+                        <field name="dc_language">German </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 973 : Composite manuscript from Wonnenstein Convent containing edifying literature and the convent’s oldest list of books </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

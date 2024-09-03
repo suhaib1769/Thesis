@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0272 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:01.042Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Tours (?) </field>
+                        <field name="dc_creator">Alcuinus, Flaccus </field>
+                        <field name="dc_date">beginning of the 9th century </field>
+                        <field name="dc_description">This composite manuscript from the 9th century was probably produced in Tours. It contains various theological works by Alcuin of York (around 730-804): De virtutibus et vitiis; De fide sanctae et individuae trinitatis; De trinitate et ad Fredegisum quaestiones XXVIII; De animae ratione ad Eulaliam virginem. Also included in the manuscript are the Epitaphium Alcuini (carm. 123) and Alcuin’s Carmen 112 Dum sedeas laetus (an inscription for an unknown abbey church), which has been preserved only in this manuscript. On p. 245 there is a brief historical note regarding Charlemagne’s Divisio Regnorum from 806. This note is written in the same hand as Alcuin’s Carmen 112 and contains a reference to the date of the writing: Anno dcccvi ab incarnatione domini indictione xiiii anno xxxviii regnante karolo imperatore viii idus februarii die veneris divisum est regnum illius iter filiis suis quantum unusquis post illum habet et ego alia die hoc opus perfeci. On p. 247 there is a pen trial of the antiphon Quid vobis videtur de Christo? Cuius filius est? (Hesbert, Corpus antiphonalium officii, no. 4533), the first four words of which are marked with neumes. </field>
+                        <field name="dc_format">247 pp., 11-11.5 x 18.5 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 272 : Composite manuscript with theological works by Alcuin of York; also contains Alcuin’s Carmina 123 (Epitaphium Alcuini) and 112 (Dum sedeas laetus) </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

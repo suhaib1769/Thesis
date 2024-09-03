@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_0965 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:07.526Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">community of the sisters of St. Georgen above St. Gall; Friedrich Kölner (or Colner); other (three?) scribes </field>
+                        <field name="dc_creator">Arx, Ildefons von </field>
+                        <field name="dc_date">1430/36 (parts by Kölner); 15th century (other parts) </field>
+                        <field name="dc_description">This composite manuscript in Northeastern Swiss-Alemannic dialect was probably written for the community of the sisters of St. Georgen above St. Gall; it contains numerous shorter and longer texts by known and unknown authors, among them: pp. 1−106: Thomas à Kempis, 3rd book of the Imitatio Christi; pp. 106−123: Bonaventure, excerpts from the work De triplici via; pp. 124−126: preacher of St. Georgen, sermon Geistliche Blume; pp. 126−134: Meister Eckhart (attributed), treatise Von der Vollkommenheit; pp. 135−166: Johannes Tauler, sermon on Mt 13,8 and other sermon excerpts; pp. 167−181: two anonymous sermons Vom Leiden und Meiden; pp. 184−259: treatise from the “Schwester Katrei"; pp. 259−268 anonymous didactic dialog with Timothy’s questions to Paul; pp. 271−372: Johannes of Neumarkt, excerpts from the 3rd so-called Jerome letter; pp. 377−407: Marquard of Lindau, Job-treatise; pp. 409−434 and pp. 472−481 (wrongly bound together by a bookbinder): Das Buch des Lebens by an anonymous author; pp. 435−442: excerpts from Meister Wichwolt (Cronica Alexandri des grossen Königs); pp. 446−448: Ps.-Bertold of Regensburg, Bertold’s ten lessons for a spiritual sister. About half of the texts were written by the Reformist monk Friedrich Kölner from Hersfeld, who was active at St. Gall Abbey from 1430 until 1436; the other parts were written in the 15th century by three other hands. </field>
+                        <field name="dc_format">484 pp., 21.2 x 14.7 cm </field>
+                        <field name="dc_language">Alemannic </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 965 : 15th century composite manuscript containing ascetic-mystical texts </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

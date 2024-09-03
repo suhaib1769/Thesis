@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2403_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma del Marqués de Lazán </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[s. n.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El S. Secretario del Despacho universal del Estado me dice en la Real órden de veinte y cuatro del pasado lo que sigue [Texto impreso] : [El embajador en la corte de Francia y los consules en aquel Reino, refrendan los pasaportes de los individuos españoles y extranjeros que quieran entrar en España y deberán avisar a los individuos que tienen que presentar los pasaportes en la Capitanía General del distrito por donde se interviene y si no lo cumplen se les obligará a retroceder a la Frontera por donde hayan llegado] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">The S. Secretary of the Universal Office of the State tells me in the Royal Order of twenty and four of the past what follows [Printed text]: [The ambassador in the court of France and the consuls in that Kingdom, endorse the passports of the Spanish and foreign individuals who want to enter Spain and must notify the individuals who have to present the passports in the Captaincy General of the district where they are intervened and if they do not comply they will be forced to go back to the Border. </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">[sec.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">The S. Secretary of the Universal Office of the State tells me in the Royal Order of twenty and four of the past what follows [Printed text]: [The ambassador in the court of France and the consuls in that Kingdom, endorse the passports of the Spanish and foreign individuals who want to enter Spain and must notify the individuals who have to present the passports in the Captaincy General of the district where they are intervened and if they do not comply they will be forced to go back to the Border. </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

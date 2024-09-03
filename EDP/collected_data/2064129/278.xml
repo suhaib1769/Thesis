@@ -1,0 +1,81 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_5253__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.895Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Hammond Typewriter Company </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Dies ist die weltweit erste Schreibmaschine mit Sichtbarschreibung. Die HAMMOND besitzt eine doppelte Umschaltung, sowie ein Typenschiffchen mit neunzig Schriftzeichen. Das Schiffchen ist austauschbar und ermöglicht somit die Verwendung unterschiedlicher Schriften.<br />
+Ident-Nr.: Fabriknr.: 6304<br />
+<br />
+Martin, Ernst. Die Schreibmaschine und ihre Entwicklungsgeschichte. Aachen, Germany: Peter Basten, 1949  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mechanische Schreibmaschine </field>
+                        <field name="dc_title">Schreibmaschine Hammond Ideal Modell 1 </field>
+                        <field name="dc_type">Mechanische Schreibmaschine </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1888 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">New York (Bundesstaat) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Hammond Typewriter Company </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">writing technique </field>
+                        <field name="dc_title">Writer Hammond Ideal Model 1 </field>
+                        <field name="dc_type">writing technique </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">New York (Bundesstaat) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Hammond Typewriter Company </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">writing technique </field>
+                        <field name="dc_title">Writer Hammond Ideal Model 1 </field>
+                        <field name="dc_type">writing technique </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

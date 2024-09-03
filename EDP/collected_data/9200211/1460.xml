@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_1285 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:10.350Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Monastery of  St. Gall, P. Johann Nepomuk Hauntinger </field>
+                        <field name="dc_creator">Hauntinger, Johann Nepomuk </field>
+                        <field name="dc_date">1780−1792 </field>
+                        <field name="dc_description">In an elegant binding decorated with gold, Abbey Librarian Johann Nepomuk Hauntinger (1756-1823) compiled for his Abbot Beda Angehrn (1767-1796) a list of new acquisitions and accessions between 1780 and 1792: Verzeichniss der Handschriften, Bücher, Kunst und Naturprodukte, welche seit dem 23. Oktober 1780 bis Ende Mayes 1792 der Stift St. Gallischen Bibliotheke sind einverleibt worden. This volume thus is a unique document of the acquisition policy and practice of the Monastery of St. Gall. In barely twelve years, a total of 335 incunabula and postincunabula, around 4,000 later printed works, as well as 146 manuscripts were integrated into the library. Most of these manuscripts came to the current abbey library (in exchange for printed literature of ascetic-spiritual character) from St. Gall women’s cloisters such as the Benedictine nuns of St. George, the Capuchin nuns of Altstätten or the Dominican nuns of Wil. Accessions to the coin collection, the natural history collection, and the cabinet of curiosities, new acquisitions of paintings and prints, as well as alia quaedam bibliothecae illata  (diverse other acquisitions of various types such as chairs made of Spanish cane or a new library seal) are mentioned. Also listed are general expenditures for bookbinding as well as monetary contributions owed to the library by those officials and clergy onto whom the abbot had newly conferred a secular office or a parish. </field>
+                        <field name="dc_format">261 pp., 33  × 20.8 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 1285 : Accession catalog of the Abbey Library of St. Gall by Father Johann Nepomuk Hauntinger for the years  1780 to 1792 </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

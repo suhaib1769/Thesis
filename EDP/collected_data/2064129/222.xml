@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_7842__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:50.183Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Max Lohse (techn. Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Darstellung einer mittels Dampfmaschine betriebenen Mahlmühle mit drei Böden, liegendem Zeug, drei Mahlgängen und Sichtmaschine. - Querschnitt und Längsschnitt. - Grundrisse Erdgeschoss, Steinboden und Dachboden.; Maßstab: 1:100   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Bleistift; Tusche (nur Altsignaturangabe, Zeichnungsdatum und Unterschrift) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mahlmühle </field>
+                        <field name="dc_title">Technische Zeichnung : Projekt zu einer Mühlen-Anlage für die Celler-Maschinenfabrik in Celle </field>
+                        <field name="dc_type">Mahlmühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">26.10.1901 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a grinding mill operated by a steam engine with three floors, lying stuff, three grinders and sight machine. - Cross section and longitudinal section. - Floor floor, stone floor and attic floor floor floor plans.; Scale: 1: 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only, drawing date and signature) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a grinding mill operated by a steam engine with three floors, lying stuff, three grinders and sight machine. - Cross section and longitudinal section. - Floor floor, stone floor and attic floor floor floor plans.; Scale: 1: 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only, drawing date and signature) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Celle </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

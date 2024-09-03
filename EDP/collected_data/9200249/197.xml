@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200249/BibliographicResource_3000073873203 </field>
+                    <field name="timestamp_update">2016-02-12T08:44:30.593Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">0 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004517529 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004516062 </field>
+                        <field name="dc_contributor">Scheuen, Johann Friedrich (Graveur);; Rhenastein, Ludwig Felix (Illustrator) </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Friedrich Schleuen;; Ludwig Felix Rhenastein </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Portret in ovaal van historicus, jurist, theoloog en wijbisschop van Trier (pseud.: Justinus Febronius): "Iohann Nicolaus von Hontheim Bischoff zu Miriofidi, und Erzbischöfl: trierischer Weihbischoff." (tekst in kader onder portret); L.F. Rhenastein pinx. 1757, I.F. Schleuen sc. 1775;; In kader ook: zesregelige Latijnse tekst uit een van Hontheims werken (verschenen onder diens pseudoniem Justinus Febronius);; Ill.techn.: kopergravure </field>
+                        <field name="dc_format">18×11 cm </field>
+                        <field name="dc_language">dui </field>
+                        <field name="dc_publisher">S.l.: [s.n.] </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Johann Nikolaus von Hontheim 1701-1790 / Hontheim, J. N. von </field>
+                        <field name="dc_title">Johann Nikolaus von Hontheim (1701-1790) </field>
+                        <field name="dc_type">Afbeelding </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1775 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

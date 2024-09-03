@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2346_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma de Pedro de Yoldi </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El Excmo. Sr. Secretario de Estado y del Despacho Universal de Hacienda, ..., de Real Orden me dice lo que sigue [Texto impreso] : La Europa al fin despues de haber sufrido una guerra sanguinaria, devastadora y cruel ... va a entrar en nueva época de paz y de reparacion. Y la España, que por medio de una lucha obstinada, ... mostró á las grandes Naciones del continente la senda de la independencia, necesita mas que ninguna de remedios eficaces que restituyan á sus habitantes los bienes perdidos ... </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Real Orden, 1816] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragón </field>
+                        <field name="dcterms_temporal">Fernando VII. 1814-1833 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Peter of Yoldi </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Yoldi, Peter of </field>
+                        <field name="dc_title">The Hon. Mr. Secretary of State and the Universal Office of the Treasury,..., of Real Order tells me what follows [Printed text]: The Europe after having suffered a bloody, devastating and cruel war... is going to enter a new period of peace and reparation. And Spain, which through an obstinate struggle,... showed the great Nations of the continent the path of independence, needs more than any effective remedies that restore to its inhabitants the lost goods... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Fernando VII. 1814-1833 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Peter of Yoldi </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Yoldi, Peter of </field>
+                        <field name="dc_title">The Hon. Mr. Secretary of State and the Universal Office of the Treasury,..., of Real Order tells me what follows [Printed text]: The Europe after having suffered a bloody, devastating and cruel war... is going to enter a new period of peace and reparation. And Spain, which through an obstinate struggle,... showed the great Nations of the continent the path of independence, needs more than any effective remedies that restore to its inhabitants the lost goods... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Fernando VII. 1814-1833 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

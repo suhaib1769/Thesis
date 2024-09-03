@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2331_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1814 </field>
+                        <field name="dc_description">Texto fechado en Zaragoza a 10 de Junio de 1814 </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Por el Excmo. Señor Secretario de Estado y del despacho de Gracia y Justicia se han comunicado a esta Audiencia los dos Reales Decretos siguientes [Texto impreso] : [primer decreto sobre el restablecimiento de la Sala de Alcaldes de Casa y Corte que se compondrá de un Gobernador, doce Alcaldes y un Fiscal; segundo decreto sobre la extinción de los Jefes Políticos encargándose del mando político los Capitanes y Comandantes Generales de las Provincias] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1814] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Fernando VII 1814-1833 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text dated in Zaragoza at 10 June 1814 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ferdinand VII, King of Spain, 1784-1833 </field>
+                        <field name="dc_title">By the Hon. The following two Royal Decrees have been communicated to this Hearing by the Secretary of State and the Office of Grace and Justice [Printed Text]: [first decree on the reestablishment of the Chamber of Mayors of House and Court to be composed of a Governor, twelve Mayors and a Prosecutor; second decree on the extinction of the Political Chiefs in charge of the political command the Captains and General Commanders of the Provinces] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Ferdinand VII 1814-1833 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text dated in Zaragoza at 10 June 1814 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ferdinand VII, King of Spain, 1784-1833 </field>
+                        <field name="dc_title">By the Hon. The following two Royal Decrees have been communicated to this Hearing by the Secretary of State and the Office of Grace and Justice [Printed Text]: [first decree on the reestablishment of the Chamber of Mayors of House and Court to be composed of a Governor, twelve Mayors and a Prosecutor; second decree on the extinction of the Political Chiefs in charge of the political command the Captains and General Commanders of the Provinces] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1814] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">Ferdinand VII 1814-1833 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

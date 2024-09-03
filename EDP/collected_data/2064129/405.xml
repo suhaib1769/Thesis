@@ -1,0 +1,105 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_40286__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.687Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Technikforum Backnang </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Richtfunksysteme sind Funksysteme zur Übertragung von Informationen zwischen festen Standorten mit Sichtverbindung. Bis etwa 1980 waren analoge Richtfunksysteme zur Übertragung von Telefon-, Rundfunk- und Fernsehsignalen im Einsatz. Ab etwa 1980 wurden digitale Richtfunksysteme (DRS) eingeführt. Der Einsatzbereich dieser Richtfunksysteme ist überwiegend die regionale und örtliche Netzebene der Telekommunikationsnetze zur Übertragung von Sprach- und Datensignalen.<br />
+<br />
+Durch den Ausbau des Glasfaser-Festnetzes Mitte der 90er Jahre und die Einführung neuer internationaler Standards durch die ITU-T (früher CCITT) war der Übergang auf den in der Glasfasertechnik normierten Datenstrom (Bandbreite) 155,52 Mbit/s STM-1 (Synchrones Transport Modul) notwendig und musste auch für den Richtfunk übernommen werden. Daraus ergab sich, dass die Richtfunkgeräte auf 155 Mbit/s oder 2 x 155 Mbit/s weiterentwickelt wurden.<br />
+Das digitale Richtfunksystem DRS 2-155/38000 wurde als Zubringer für Mobilfunkfeststationen entwickelt und hauptsächlich dort eingesetzt, wo kein Anschluss an das digitale Datennetz zur Verfügung stand. <br />
+<br />
+Je zwei Sende-/Empfangs-Einheiten wurden in einem Druckgussgehäuse mit integrierter Antennenschale untergebracht, das als Wetterschutzgehäuse an Masten, auf Dächern, an Hauswänden usw. einfach montiert werden konnte. Ein flexibles Kabel mit Basisband-, Stromversorgungs- und Meldeleitungen verband das extern aufgebaute Richtfunksystem mit einem Anschlusskasten, der u.a. auch die erforderlichen Blitzschutz-Komponenten enthielt.<br />
+<br />
+Literatur:<br />
+SDH Richtfunktechnik - Öffentliche Netze 3/98, Bosch Telecom GmbH <br />
+(Technische Daten für den Vertrieb)  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Richtfunktechnik </field>
+                        <field name="dc_title">Digitale Richtfunkanlage mit integrierter Antenne DRS2-155/38000 </field>
+                        <field name="dc_type">Richtfunktechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1998-2005 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Marconi Communication GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Radio systems are radio systems for transmitting information between fixed locations with visual connection. Until about 1980, analog radio systems were used to transmit telephone, radio and television signals. From about 1980 digital radio systems (DRS) were introduced. The area of application of these systems is predominantly the regional and local level of the telecommunications networks for the transmission of voice and data signals.<br/>
+<br/>
+Due to the expansion of the fixed fiber network in the mid-90s and the introduction of new international standards by the ITU-T (formerly CCITT), the transition to the data stream (bandwidth) 155.52 Mbit/s STM-1 (Synchrones Transport Module), which was standardized in fiber technology, was necessary and had to be adopted for directional radio. It was found that the radio was developed to 155 Mbps or 2 x 155 Mbps.<br/>
+The DRS 2-155/38000 digital radio system was developed as a feeder for mobile fixed stations and was mainly used where no connection to the digital data network was available. <br/>
+<br/>
+Two transmitting/receiving units were housed in a die-cast housing with integrated antenna shell, which could be easily mounted as a weather protection case on poles, on roofs, on house walls, etc. A flexible cable with baseband, power supply and reporting lines connected the externally constructed radio system with a connection box, which included the necessary lightning protection components.<br/>
+<br/>
+Literature: <br/>
+SDH Radio Technology - Public Networks 3/98, Bosch Telecom GmbH <br/>
+(Technical Data for Distribution) (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Radio technology </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1998-2005 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Marconi Communication GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Radio systems are radio systems for transmitting information between fixed locations with visual connection. Until about 1980, analog radio systems were used to transmit telephone, radio and television signals. From about 1980 digital radio systems (DRS) were introduced. The area of application of these systems is predominantly the regional and local level of the telecommunications networks for the transmission of voice and data signals.<br/>
+<br/>
+Due to the expansion of the fixed fiber network in the mid-90s and the introduction of new international standards by the ITU-T (formerly CCITT), the transition to the data stream (bandwidth) 155.52 Mbit/s STM-1 (Synchrones Transport Module), which was standardized in fiber technology, was necessary and had to be adopted for directional radio. It was found that the radio was developed to 155 Mbps or 2 x 155 Mbps.<br/>
+The DRS 2-155/38000 digital radio system was developed as a feeder for mobile fixed stations and was mainly used where no connection to the digital data network was available. <br/>
+<br/>
+Two transmitting/receiving units were housed in a die-cast housing with integrated antenna shell, which could be easily mounted as a weather protection case on poles, on roofs, on house walls, etc. A flexible cable with baseband, power supply and reporting lines connected the externally constructed radio system with a connection box, which included the necessary lightning protection components.<br/>
+<br/>
+Literature: <br/>
+SDH Radio Technology - Public Networks 3/98, Bosch Telecom GmbH <br/>
+(Technical Data for Distribution) (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Radio technology </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1998-2005 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_215_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1411 </field>
+                        <field name="dc_description">Exposición : "La nobleza aragonesa", organizada por las Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">[Ápoca, dada en Barcelona, de 1.000 florines de oro de Aragón dada por Vicente Benda, del lugar de Olot, y Juan de Donz, jurisperito de la ciudad de Gerona como procuradores del noble Galceran de Santa Paz, caballero a favor de Juan Fernández de Heredía, caballero y señor del lugar de Mora, en concepto de parte de la dote por matrimonio de Galceran con la noble Yolanda, hija del noble Egido Rodriguez de Lihori, caballero, Gobernador del Reino de Aragón, de los 10.000 florines que le correspondía pagar como se contiene en los documentos nupciales] [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragón (Reino) </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Exhibition: “The Aragonese Nobility,” organized by the Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Dote-Aragon (Kingdom) -S. XV </field>
+                        <field name="dc_title">[Period, given in Barcelona, of 1.000 gold guilders of Aragon given by Vicente Benda, of the place of Olot, and Juan de Donz, jurisperito of the city of Gerona as procurators of the noble Galceran of Santa Paz, knight in favor of Juan Fernández de Heredía, knight and lord of the place of Mora, as part of the dowry for marriage of Galceran with the noble Yolanda, daughter of the noble Edado Rodriguez de Lihori, knight, Governor of the Kingdom of Aragon, d </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Exhibition: “The Aragonese Nobility,” organized by the Cortes de Aragón, 2010 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Dote-Aragon (Kingdom) -S. XV </field>
+                        <field name="dc_title">[Period, given in Barcelona, of 1.000 gold guilders of Aragon given by Vicente Benda, of the place of Olot, and Juan de Donz, jurisperito of the city of Gerona as procurators of the noble Galceran of Santa Paz, knight in favor of Juan Fernández de Heredía, knight and lord of the place of Mora, as part of the dowry for marriage of Galceran with the noble Yolanda, daughter of the noble Edado Rodriguez de Lihori, knight, Governor of the Kingdom of Aragon, d </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XV </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,85 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9070__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.435Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Büssing Nutzkraftwagen GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Seit 1951 beschaffte die BVG(-W) zweiachsige Eindeckbusse mit Vordertür und offener hinterer Plattform. Ab Baujahr 1955 stellte man den Fahrzeugtyp auf Einmannbetrieb um. <br />
+Für diese Rationalisierungsmaßnahme entfiel die hintere Plattform zugunsten eines mittleren Ausstiegs. Mit den Fahrzeugen wurde der Einmannbetrieb auf Eindeck-Bussen erweitert, der vorher nur auf wenig frequentierten Außenlinien durchgeführt worden war. Bei den Doppeldeckern wurde der Einmannbetrieb erst mit dem dafür geeigneten Wagen möglich. Dieser Wagen 554 war bis 1973 in Betrieb.<br />
+<br />
+Motor: Büssing, 6-Zylinder-Diesel, 81 kW (110 PS), Höchstgeschwindigkeit: 69 km/h, <br />
+Sitzplätze: 35, Stehplätze: 45<br />
+<br />
+Schipporeit, Reiner; Reinhard Demps. Historische Fahrzeuge in Berlin: Busse, Strassenbahnen, U-Bahn, S-Bahn. Berlin: Museum für Verkehr und Technik, 1991. S. 35<br />
+Weitere Abb.: BVG 1627-07A (F)  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunalverkehr </field>
+                        <field name="dc_title">Omnibus Nr. 554 Typ BÜ E 2 U 59/60 </field>
+                        <field name="dc_type">Kommunalverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1958 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Omnibus No. 554, type BÜ E 2 U 59/60 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Omnibus No. 554, type BÜ E 2 U 59/60 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

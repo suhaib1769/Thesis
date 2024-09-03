@@ -1,0 +1,90 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9183__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.821Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Maschine arbeitet genauso wie eine Strumpfstrickmaschine, nur dass Metallfäden, statt Baumwolle oder ähnlichem verstrickt werden.<br />
+Die Zungennadeln werden nacheinander, über Führungsdreiecke, zur Maschenbildung nach oben geschoben. Die Nadel öffnet sich, der Faden wird hineingelegt, die Nadel geschlossen und durch die vorangegangene Masche nach unten abgezogen.<br />
+<br />
+Der Grundstein der Leonischen Industrie entstand im 16. Jh. Anthoni Fournier war Begründer dieses Industriezweiges, welche im Namensursprung auf den französischen Ort Lyon zurückgeht. Diese bildete ein Zentrum der Webkunst und brachte ein besonderes Webverfahren hervor. Zur Herstellung von Gespinste und Gewebe verwendeten die Weber vergoldete, sowie versilberte Fäden. Dieses Verfahren wurde auch in Roth angewandt. Borten und andere Geflechte wurden aus versilberten oder verzinkten Kupferdrähten produziert. <br />
+Rund um die Stadt entstand ein wichtiger Industriestandort, in dem der Nachfolger der Leonischen Industrie, die heutige LEONI AG, ihren Sitz hat. Die Firma erzeugt Drähte, optische Fasern, Kabel und Kabelsysteme.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz, Metall </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Textiltechnik </field>
+                        <field name="dc_title">Topfkratzermaschine, Leonische Industrie </field>
+                        <field name="dc_type">Textiltechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1915-1925 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Roth </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The machine works just like a hosiery, except that metal threads, instead of cotton or similar, are entangled.<br/>
+The tongue needles are pushed up one after the other, via guide triangles, for mesh formation. The needle opens, the thread is placed in it, the needle is closed and removed by the previous stitch.<br/>
+<br/>
+The foundation stone of the Leonese industry was built in the 16th century. Anthoni Fournier was the founder of this branch of industry, which dates back to the French town of Lyon. This formed a center of web art and produced a special web procedure. The weavers used gilded threads as well as silver-plated threads for the production of brushes and textile. This method was also used in Roth. Borders and other interlacing were produced from silver plated or galvanized copper wires. <br/>
+An important industrial location was built around the city, where the successor of the Leonese industry, today’s LEONI AG, is based. The company produces wires, optical fibers, cables and cable systems.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Textile technology </field>
+                        <field name="dc_title">Pot scratching machine, Leonese industry </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1915-1925 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The machine works just like a hosiery, except that metal threads, instead of cotton or similar, are entangled.<br/>
+The tongue needles are pushed up one after the other, via guide triangles, for mesh formation. The needle opens, the thread is placed in it, the needle is closed and removed by the previous stitch.<br/>
+<br/>
+The foundation stone of the Leonese industry was built in the 16th century. Anthoni Fournier was the founder of this branch of industry, which dates back to the French town of Lyon. This formed a center of web art and produced a special web procedure. The weavers used gilded threads as well as silver-plated threads for the production of brushes and textile. This method was also used in Roth. Borders and other interlacing were produced from silver plated or galvanized copper wires. <br/>
+An important industrial location was built around the city, where the successor of the Leonese industry, today’s LEONI AG, is based. The company produces wires, optical fibers, cables and cable systems.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Textile technology </field>
+                        <field name="dc_title">Pot scratching machine, Leonese industry </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1915-1925 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

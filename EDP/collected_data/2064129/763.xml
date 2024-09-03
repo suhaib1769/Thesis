@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9062__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.303Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Büssing-Automobil-Werke AG </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Nach dem Bau der Berliner Mauer im Jahre 1961 wurde in West-Berlin ein Boykott gegen die von der Reichsbahn betriebenen S-Bahn propagiert. Der daraus folgende Mehrbedarf an Bussen wurde u.a. durch die schnelle Beschaffung von 217 Exemplaren des Typs "Präsident" gestillt.<br />
+Der Wagen 323 stellt den ursprünglichen Zustand des Typs "Präsident" dar und war für "Fahrgastfluß" gebaut. Der Einstieg war deshalb ausschließlich an der hinteren Plattform erlaubt, bei der ein fester Schaffnersitz eingerichtet war. Bis 1976 war der Wagen Nr. 323 in diesem Zustand im Betrieb. Dagegen wurden die meisten anderen dieses Typs 1964 zu Einmannwagen umgebaut. Dabei entfiel die hintere Plattform samt Tür, den gewonnenen Raum versah man mit Sitzen. Die Einstiegstür war nun beim Fahrer, der Ausstieg in der Wagenmitte. <br />
+Motor::Büssing, 6-Zylinder-Diesel-Motor, 110 kW (150 PS), Höchstgeschwindigkeit:  73 km/h <br />
+Sitzplätze: 28, Stehplätze: 85<br />
+<br />
+Schipporeit, Reiner; Reinhard Demps. Historische Fahrzeuge in Berlin: Busse, Strassenbahnen, U-Bahn, S-Bahn. Berlin: Museum für Verkehr und Technik, 1991. S. 37<br />
+Weitere Abb.: BVG 1627-14A (F), BVG 67-1059 (Innen-)  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunalverkehr </field>
+                        <field name="dc_title">Omnibus Nr. 323 Typ Bü E 2 U 63 S "Präsident" </field>
+                        <field name="dc_type">Kommunalverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1963 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Braunschweig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

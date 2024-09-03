@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_1247_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1793 </field>
+                        <field name="dc_description">Sign.: A-Z2, 2A-2N2, 2O2 </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">por Francisco Magallon </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Por el Conde de Fuentes en la causa de aprehension de los estados de Fuentes y Mora con los pueblos y bienes de que se componen [Texto impreso] : introducida por Juan Fernandez, vecino del lugar de Zetina, que pasó à la propiedad Don Josef Lopez, vecino de la ciudad de Calatayud: y en que litigan como demandantes la inclita, y sagrada religion de San Juan de Jerusalem, el Señor Conde de Aranda y el Conde de Contamina: y pende en grado de revista] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1793 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XVIII </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Sign.: A-Z2, 2A-2N2, 2O2 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">by Francisco Magallon </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Arch-S. XVIII </field>
+                        <field name="dc_title">For the Count of Fuentes in the cause of apprehension of the states of Fuentes and Mora with the peoples and goods that are composed [Texto Por]: introduced by Juan Fernandez, neighbor of the place of Zetina, who passed to the property Don Josef Lopez, neighbor of the city of Calatayud: and in which the inclita, and sacred religion of San Juan de Jerusalem, the Lord Count of Aranda and the Count of Contamina, litigate as plaintiffs: and hangs in degree of magazine] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Arch-S. XVIII </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Sign.: A-Z2, 2A-2N2, 2O2 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">by Francisco Magallon </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Arch-S. XVIII </field>
+                        <field name="dc_title">For the Count of Fuentes in the cause of apprehension of the states of Fuentes and Mora with the peoples and goods that are composed [Texto Por]: introduced by Juan Fernandez, neighbor of the place of Zetina, who passed to the property Don Josef Lopez, neighbor of the city of Calatayud: and in which the inclita, and sacred religion of San Juan de Jerusalem, the Lord Count of Aranda and the Count of Contamina, litigate as plaintiffs: and hangs in degree of magazine] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Arch-S. XVIII </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

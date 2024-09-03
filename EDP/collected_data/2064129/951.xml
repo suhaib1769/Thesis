@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8161__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:54.268Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, Anton </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Darstellung einer mittels Wasserrad angetriebenen Mahlmühle (Standort Drackendorf) mit Reinigung, zwei Mahlgängen, zwei Walzenstühlen, Sichtmaschinen mit Vorsichtern. - Längsschnitt und Querschnitt. - Grundrisse Erdgeschoss, Walzenboden, Behälterboden und Dachboden.; Maßstab: 1:50   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Bleistift </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mahlmühle </field>
+                        <field name="dc_title">Technische Zeichnung : Projekt zum Mühlen-Neubau der Mahlmühle für Seiner Excellenz Herrn Staatsminister von Helldorf, Drackendorf bei Göschwitz </field>
+                        <field name="dc_type">Mahlmühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">10.05.1899 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, Anton </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a mill driven by a water wheel (Drackendorf location) with cleaning, two grinding courses, two rolling chairs, viewing machines with precautions. - longitudinal section and cross-section. - Floor floor floor floor floor, roller floor, container floor and attic.; Scale: 1: 50 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Project for the construction of the mill for His Excellence Mr. State Minister of Helldorf, Drackendorf near Göschwitz </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, Anton </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a mill driven by a water wheel (Drackendorf location) with cleaning, two grinding courses, two rolling chairs, viewing machines with precautions. - longitudinal section and cross-section. - Floor floor floor floor floor, roller floor, container floor and attic.; Scale: 1: 50 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Project for the construction of the mill for His Excellence Mr. State Minister of Helldorf, Drackendorf near Göschwitz </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Göschwitz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

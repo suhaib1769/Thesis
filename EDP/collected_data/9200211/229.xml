@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_snm_SH000228 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:19.327Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">second half of the 16th century </field>
+                        <field name="dc_description">The Housebook of the Lords of Hallwil, also known as Turnierbuch, is a combination of family chronicle, tournament book and book of heraldry. This paper manuscript from the second half of the 16th century probably replaces an older copy. On the inside of the cover are found the large coats of arms of Burkhart von Hallwil and his two wives Judith von Anwil and Margaretha von Löwenberg. Pp. 4-10 contain a late version of the poem Ring von Hallwil, a saga about the endangerment and saving of the inheritance of the Hallwils. On pp. 11-17 there follow texts about family history and then a second, older version of the poem Ring von Hallwil (pp. 19-21). After a number of empty pages, there are six empty crests (pp. 48-50), meant for the three brothers Thüring I von Hallwil († 1386) und Katharina von Wolfurt, Walter V († after 1370) and Herzlaude von Tengen, “Hemann” (Johannes IV, † 1386) and Anna vom Hus. On p. 51 there is a view of the ancestral home of the Hallwil family. It is followed by pictures of Caspar (p. 54) and Burkhart von Hallwil (p. 55), scenes from tournaments (pp. 56-59), and images relating to the Ring von Hallwil (pp. 60-66). At the end of the manuscript, there are more coats of arms of the Lords of Hallwil and their wives (pp. 68-96), the last ones only sketched out but not completed (pp. 97-118). The manuscript was donated to the Swiss National Museum in 1907 by Count Walther von Hallwil, the last occupant of the castle, and his wife Wilhelmine. A second version is held by the Basel University Library (Ms. H I 10). </field>
+                        <field name="dc_format">74 ff., 43.7 x 30.9 cm </field>
+                        <field name="dc_language">German </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Zürich, Schweizerisches Nationalmuseum, SH 228 : The Housebook of the Lords of Hallwil </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

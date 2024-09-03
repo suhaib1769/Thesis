@@ -1,0 +1,87 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9122__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.091Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Eisenbahn-Hauptwerkstätte Wittenberge </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wagen dieser Bauart wurden paarweise zum Langholztransport eingesetzt. Auf der Oberseite des Schemelquerträgers saßen Domen, die sich in das Holz drückten. Sofern das Wagenpaar am Zugschluss lief, durfte es daher allein durch die Ladung verbunden sein. Ansonsten musste eine der beiden Kuppelstangen, von zwei oder vier Metern Länge, eingesetzt werden. Die Eisenbahn-Hauptwerkstätte Wittenberge baute dieses Modell, im Jahre 1905, für das Verkehrs- und Baumuseum Berlin.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943, S. 83<br />
+NussbaumUwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 100  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Langholzwagenpaar "Altona 47000/001", Modell 1:5 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1894 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Wittenberge </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Cars of this type were used in pairs for the transportation of long-wood. On the top of the patterned cross member sat domes that pressed into the wood. Therefore, if the pair of cars ran at the end of the train, it could only be connected by the load. Otherwise, one of the two dome bars, two or four meters long, had to be used. The main railway workshop Wittenberge built this model, in 1905 for the Berlin Transport and Construction Museum.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943, p. 83 <br/>
+NussbaumUwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Long wood car pair “Altona 47000/001,” model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Wittenberge </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Cars of this type were used in pairs for the transportation of long-wood. On the top of the patterned cross member sat domes that pressed into the wood. Therefore, if the pair of cars ran at the end of the train, it could only be connected by the load. Otherwise, one of the two dome bars, two or four meters long, had to be used. The main railway workshop Wittenberge built this model, in 1905 for the Berlin Transport and Construction Museum.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943, p. 83 <br/>
+NussbaumUwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 100 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Long wood car pair “Altona 47000/001,” model 1: 5 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

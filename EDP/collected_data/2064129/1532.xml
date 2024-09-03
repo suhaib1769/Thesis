@@ -1,0 +1,88 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9084__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.634Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Arado Flugzeugwerke GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Arado Ar 79 B 1 wurde 1937 als zweisitziges Kabinen-Sportflugzeug entwickelt. Der in Gemischtbauweise konstruierte Tiefdecker setzte zu jener Zeit Standards in Bezug auf Geschwindigkeit, Reichweite sowie Kraftstoffverbrauch und stellte zahlreiche Rekorde auf. Während des Zweiten Weltkriegs kam dieses Muster als Kurier-, Verbindungs- und Schulflugzeug zum Einsatz.<br />
+Das Deutsche Technikmuseum erwarb das Flugzeug mit der Werknummer 29 im Jahre 1994 aus Privatbesitz. Die Maschine war 1941 bei der deutschen Luftwaffe in Dienst gestellt und 1945 vom französischen Hochkommissariat beschlagnahmt worden. 1961 ging sie nach Deutschland zurück, wo sie 1964 am ersten Deutschlandflug der Nachkriegszeit teilnahm. Sie ist heute die einzige noch erhaltene Maschine dieses Musters.<br />
+<br />
+Technische Daten<br />
+Motor:  Hirth HM 500 A-1 (105 PS/77 kW)<br />
+Spannweite:10,00 m<br />
+Länge:7,60 m<br />
+Leergewicht:526 kg<br />
+Ident-Nr.: Fabriknr.: 29<br />
+<br />
+Schelhasse, Heinrich F. A. Schul- und Reiseflugzeug Arado Ar 79. Berlin: Volckmann, 1940.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Luftfahrt </field>
+                        <field name="dc_title">Flugzeug Arado (Ar) 79 B </field>
+                        <field name="dc_type">Luftfahrt </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1941 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Arado Flugwerke GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Arado Flugwerke GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Aviation </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

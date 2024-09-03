@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2453_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma del Marqués de Lazán </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El Sr. Secretario de Estado y del Despacho de la Guerra ... me dice lo que sigue [Texto impreso] : "Al Sr. Capitan general de Castilla la Vieja digo con esta fecha lo siguiente. He hecho presente al Rey nuestro Señor cuanto V. E. expuso en 23 de Enero y 17 de Febrero últimos, con motivo de una contrata particular celebrada por el Comandante de Armas de la Villa y Puerto de Gijon para el surtido de carne fresca á la Tropa á menos precio que el abasto público, ..." </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lazán, Luis Rebolledo de Palafox y Melci, Marqués de </field>
+                        <field name="dc_title">Mr. Secretary of State and the Office of the War... tells me what follows [Printed text]: “To the Captain General of Castile the Old I say with this date the following. I have present to the King our Lord how much V. E. exposed in January 23 and February 17 last, on the occasion of a particular contract celebrated by the Commander of Weapons of the Villa and Puerto of Gijon for the assortment of fresh meat to the Troop at less price than the public supply,...” </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lazán, Luis Rebolledo de Palafox y Melci, Marqués de </field>
+                        <field name="dc_title">Mr. Secretary of State and the Office of the War... tells me what follows [Printed text]: “To the Captain General of Castile the Old I say with this date the following. I have present to the King our Lord how much V. E. exposed in January 23 and February 17 last, on the occasion of a particular contract celebrated by the Commander of Weapons of the Villa and Puerto of Gijon for the assortment of fresh meat to the Troop at less price than the public supply,...” </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

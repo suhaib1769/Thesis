@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2345_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1814 </field>
+                        <field name="dc_description">Real Decreto firmado por Cristóbal de Góngora </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Intendencia General del exercito de Aragon [Texto impreso] : Circular : El Excmo. Sr. Secretario de Estado, y del Despacho Universal de Hacienda me dice ... lo siguiente: El Rey nuestro Señor se ha servido dirigirme el Decreto siguiente : En medio del singular placer que ha experimentado mi corazón al verme, después de mi larga cautividad, restituido al trono de mis abuelos ... [Circular sobre contribuciones] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Leyes, etc.] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1814] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Royal Decree signed by Cristóbal de Góngora </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ferdinand VII, King of Spain, 1784-1833 </field>
+                        <field name="dc_title">General tendency of Aragon’s Into [Texto In]: Circular: El Excmo. Mr. Secretary of State, and Universal Office of the Treasury tells me... the following: The King our Lord has served to address the following Decree: In the midst of the singular pleasure that my heart has experienced when seeing me, after my long captivity, restored to the throne of my grandparents... [Circular on contributions] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Royal Decree signed by Cristóbal de Góngora </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ferdinand VII, King of Spain, 1784-1833 </field>
+                        <field name="dc_title">General tendency of Aragon’s Into [Texto In]: Circular: El Excmo. Mr. Secretary of State, and Universal Office of the Treasury tells me... the following: The King our Lord has served to address the following Decree: In the midst of the singular pleasure that my heart has experienced when seeing me, after my long captivity, restored to the throne of my grandparents... [Circular on contributions] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1814] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

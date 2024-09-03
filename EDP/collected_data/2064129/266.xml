@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_8066__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:53.039Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">H. Rauer (Technischer Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Gefälle H = 4500 mm, Wassermenge Q = 600 l/s bei 0,5 Füllung, Wasserraddurchmesser = 4000 mm, Kranzbreite/Schaufeltiefe a = 350 mm, Wasserradbreite b = 2500 mm, Gerinnebreite b0 = 2150 mm, Anzahl der Schaufeln z = 36, Schaufelteilung e = 349,18 mm, Umfangsgeschwindigkeit v = 1,518 m/s, Drehzahl des Wasserrades n = 7,25 U/min, Wirkungsgrad = 0,75, Nutzleistung Ne = 27. - Seitenansicht (teilweise geschnitten). - Vorderansicht (teilweise geschnitten). - Vermerk zum Lieferdatum. - Verweis auf eine Detailzeichnung mit der Altsignatur S 152. - Handskizzen und Berechnungen.; Maßstab: 1:10   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Bleistift; Tusche (nur Altsignaturangabe) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Eisernes, oberschlächtiges Wasserrad für Herrn Mühlenbesitzer Manegald in Witzenhausen </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">18.05.1901 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

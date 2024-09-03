@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_20149 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:07.133Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Andreas Fabricius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SLUB Dresden, Ling.Germ.rec.481.x,misc.1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Cörner </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Sprachwissenschaft </field>
+                        <field name="dc_title">Das ist: Vernünftige anleitung zur gelehrten und galanten Beredsamkeit, wie sich selbige so wohl in öffentlichen reden, als auch im täglichen umgang, bey allerhand materien, auf mancherley art [...] zeigen müsse, mit auserlesenen exempeln erläutert, und mit einem register versehen </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Fabricius, Johann Andreas: Philosophische Oratorie. Leipzig, 1724. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1724 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SLUB Dresden </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Andreas Fabricius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SLUB Dresden, Ling.Germ.rec.481.x,misc.1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Cörner </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Sprachwissenschaft </field>
+                        <field name="dc_title">This is: Reasonable instructions on the learned and gallant eloquence, as is so well known in public speaking, as well as in the daily environment, bey allerhand Das en, on mancherley art [...] must show, explained with read exemples, and provided with a register </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Fabricius, Johann Andreas: Philosophical oratory. Leipzig, 1724. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SLUB Dresden </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Andreas Fabricius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SLUB Dresden, Ling.Germ.rec.481.x, misc.1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Language Studies </field>
+                        <field name="dc_title">This is: Reasonable instructions on the learned and gallant eloquence, as is so well known in public speaking, as well as in the daily environment, bey allerhand Das en, on mancherley art [...] must show, explained with read exemples, and provided with a register </field>
+                        <field name="dc_type">Subject text </field>
+                        <field name="dcterms_alternative">Fabricius, Johann Andreas: Philosophical oratory. Leipzig, 1724. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SLUB Dresden </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

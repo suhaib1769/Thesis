@@ -1,0 +1,86 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_40295__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.685Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">ANT Nachrichtentechnik GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Ein Modem ist ein Kommunikationsgerät, um digitale Signale über weite Übertragungswege zwischen zwei Endgeräten auszutauschen. Der Modem <br />
+D 2400 S (Deutsche Bundespost) war für die Datenübertragung auf Fernsprechleitungen konzipiert und eignete sich zum  Anschluss an Fernsprechwählnetze und/oder überlassene 2- oder 4-Draht-Leitungen. Er hatte die Herstellerbezeichnung DM 2405 S und erlaubte eine Datenübertragung mit einer Übertragungsrate von 2400 bit/s oder 1200 bit/s. Er war für Synchronbetrieb ausgelegt und arbeitete mit der Phasendifferenzmodulation.<br />
+ <br />
+Die Schnittstelle zur Datenendeinrichtung war nach den CCITT Empfehlungen V.24, V.28 und nach DIN 66020, BI. 1, ausgelegt.<br />
+<br />
+Zur Abwicklung und Steuerung des Datenverkehrs enthielt der Modem D 2400 S nur elektronische Schaltmittel, diese waren überwiegend aus integrierten Schaltkreisen aufgebaut. Die Bauelemente waren zu Funktionseinheiten zusammengefasst.<br />
+<br />
+Literatur:<br />
+AEG-Telefunken Jahrbuch 1979/1980 Seite N22-46/4  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunikation </field>
+                        <field name="dc_title">Datenmodem 2400 S </field>
+                        <field name="dc_type">Kommunikation </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Communication </field>
+                        <field name="dc_title">Data modem 2400 S </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Communication </field>
+                        <field name="dc_title">Data modem 2400 S </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

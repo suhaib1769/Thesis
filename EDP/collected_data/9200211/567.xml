@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_lsb_Ms0022 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:16.719Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Constance, Cloister of the Dominican Nuns of Zoffingen </field>
+                        <field name="dc_creator">Seuse, Heinrich </field>
+                        <field name="dc_date">around 1505 </field>
+                        <field name="dc_description">This manuscript consists of four codicological units; it was written around 1505 by the two Dominican nuns Cordula von Schönau (Constance, previously St. Gall) and Regina Sattler (St. Gall) at and for the Cloister of the Dominican Nuns of Zoffingen in Constance. For this codex, the two sisters copied the poems in dialogue form Kreuztragende Minne and Christus und die minnende Seele, the prose dialogue Disput zwischen der minnenden Seele und unserem Herrn, Henry Suso’s Exemplar (without the Büchlein der ewigen Weisheit) as well as 15 of his open letters, the Tösser Schwesternbuch, the legends of Elizabeth of Hungary, Margaret of Hungary, and Louis of Toulouse, the  Vierzig Myrrhenbüschel vom Leiden Christi , the story of the founding of the Cloister of the Dominican Nuns St. Katharinental near Diessenhofen, and the St. Katharinentaler Schwesternbuch. </field>
+                        <field name="dc_format">I + 321 ff., 29.5 x 21 cm </field>
+                        <field name="dc_language">Alemannic </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Überlingen, Leopold-Sophien-Bibliothek, Ms. 22 : German-language composite manuscript containing poems in the form of dialogues, a dialogue in prose, texts by Henry Suso, “Schwesternbücher”, legends such as the “Vierzig Myrrhenbüschel vom Leiden Christi” </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

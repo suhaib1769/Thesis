@@ -1,0 +1,89 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_40287__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.689Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">ANT Nachrichtentechnik GmbH </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Richtfunksysteme sind Funksysteme zur Übertragung von Informationen zwischen festen Standorten mit Sichtverbindung. Bis etwa 1980 waren analoge Richtfunksysteme zur Übertragung von Telefon-, Rundfunk- und Fernsehsignalen im Einsatz. Ab etwa 1980 wurden digitale Richtfunksysteme (DRS) eingeführt. Der Einsatzbereich dieser Richtfunksysteme ist überwiegend die regionale und örtliche Netzebene der Telekommunikationsnetze zur Übertragung von Sprach- und Datensignalen.<br />
+<br />
+Das digitale Richtfunkgerät DRS 2-140/18700 war für den Einsatz in der Ortsnetz-Ebene und zum Anschluss von Teilnehmern mit entsprechendem Datenaufkommen wie mittlere und größere Unternehmen oder zur Anbindung von Basisstationen für den Mobilfunk vorgesehen. Es arbeitetete im Frequenzbereich zwischen 17,7 GHz und 19,7 GHz und war das für die Plesiochrone Digitale Hierarchie (PDH, die Datenströme müssen annähernd synchron sein) ausgerüstet. Es gab Datenströme in den Abstufungen 2, 8, 34 und 140 Mbit/s. Die überbrückbare Funkfeldlänge lag zwischen 5 und 10 km. Das System arbeitete mit 4-PSK-Modulation (Phase Shift Keying, Phasenmodulation) bei einer Zwischenfrequenz von 870 MHz auf der Sendeseite und 140 MHz auf der Empfangsseite. Das modulierte Signal wurde zunächst in eine 9-GHz-Radiofrequenz-Ebene umgesetzt, dort verstärkt und durch Verdoppelung in den 18-GHz-Bereich zur Abstrahlung umgesetzt.<br />
+<br />
+Je zwei Sende-/Empfangs-Einheiten wurden in einem Druckgussgehäuse mit integrierter Antennenschale untergebracht, das als Wetterschutzgehäuse an Masten, auf Dächern, an Hauswänden usw. einfach montiert werden konnte.<br />
+<br />
+Das Objekt wurde mit abgesetzter Antenne betrieben; im Ausstellungsmodell ist diese Antenne nicht vorhanden. Der Strahler des Antennensystems wurde mit einem Hohlleiter, der aus dem Zentrum des Reflektors der Antenne heraustritt, verbunden und vom Grundsystem versorgt.<br />
+<br />
+Literatur:<br />
+50 Jahre Richtfunk, von 600 Mhz bis 18 GHz, ANT-Nachrichtentechnik, 1986<br />
+Seite 52 - 53,  Zeichnungsnr. 65.7144.100 <br />
+ANT Jahrbuch 87/88, Seite RF 12-13  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Richtfunktechnik </field>
+                        <field name="dc_title">Digitales Richtfunkgerät mit integrierter Antenne DRS2-140/18700 </field>
+                        <field name="dc_type">Richtfunktechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Radio technology </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Radio technology </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1983-1990 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Backnang </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

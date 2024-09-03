@@ -1,0 +1,79 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_0857 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:06.804Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">perhaps South Tyrol/Salzburg </field>
+                        <field name="dc_creator">Friedrich, von Sonnenburg </field>
+                        <field name="dc_date">third quarter of the 13th century, probably around 1260 </field>
+                        <field name="dc_description">This manuscript (also called the “St. Galler Epenhandschrift”) is written in two columns in a very uniform manner by three anonymous primary scribes and four secondary scribes; it offers a fine version of a unique collection of Middle High German heroic and knightly poetry. It contains “Parzival” (pp. 5−288; version D) by Wolfram von Eschenbach, the Song of the Nibelungs (pp. 291−416; version B) with the following lament (pp. 416−451; version B), the poem “Karl der Grosse” (pp. 452−558; version C) by der Stricker, the verse narrative “Willehalm” (pp. 561−691; version G) by Wolfram von Eschenbach, as well as five sung gnomic verses by Friedrich von Sonnenburg (p. 693; version G). 
+Until 1768, when the manuscript was purchased by the Monastery of St. Gall, this volume certainly also contained fragments of the epic poems “Die Kindheit Jesu” by Konrad von Fussesbrunnen and Unser vrouwen hinvart by Konrad von Heimesfurt. These two works were removed from the manuscript of epic poems before 1820 and are now held in the Staatsbibliothek Preussischer Kulturbesitz in Berlin (mgf 1021) and the Badische Landesbibliothek in Karlsruhe (Cod. K 2037), respectively. The manuscript, illustrated with 78 uniformly executed initials by unknown artists from the miniature painting school of Padua, was commissioned by a wealthy client who was interested in Middle High German epic poems. The first owner known by name was the Swiss polymath and universal scholar Aegidius Tschudi (1505−1572) from Glarus, whose estate of manuscripts the Monastery of St. Gall was able to acquire in 1768. </field>
+                        <field name="dc_format">318 pp., 31.5 x 21.5 cm </field>
+                        <field name="dc_language">German </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 857 : The St. Gall Nibelung manuscript B with the Nibelungenlied (The Song of the Nibelungs) and “Klage” (lament), “Parzival” and “Willehalm” by Wolfram von Eschenbach, and Stricker’s “Karl der Grosse” (Charlemagne) </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

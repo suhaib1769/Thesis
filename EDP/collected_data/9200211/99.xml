@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_csg_0525 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:04.745Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pater Pius Kolb </field>
+                        <field name="dc_date">13th/14th century </field>
+                        <field name="dc_description">Composite manuscript containing mainly theological texts and, as the largest part (pp. 61–212), the Vocabularius Ex quo. The remaining works are a commentary on the hymnal, where each verse of a hymn alternates with the corresponding explanation (pp. 1–56), a short treatise De humani cordis instabilitate (pp. 57–60), sermons (pp. 212–229, 240–268 and 268–273), the life of Albert of Trapani (Albertus Siculus) (pp. 230–239), the Speculum humanae salvationis (pp. 274–335), a short treatise on virtues and vices called Etymachia or Lumen animae (pp. 335–345), excerpts from Jerome, Augustine and others (pp. 346–368), as well as the Speculum ecclesiae by Hugo de S. Caro (pp. 370–391). The latter is written on a parchment palimpsest , the underwriting (“scriptio inferior”) is in Rotunda script. Four red and bleu fleuronné initials from the underwriting have survived (p. 372, 373 and 375). The last pages contain responsories for Christmas (Descendit de celis deus verus), the Feast of Saint Mark (Beatissimus Marcus discipulus) and Commune plurimum martyrum (Viri gloriosi sanguinem fuderunt), and also the Easter trope (Quem queritis) with melodies in square notation on four lines (pp. 392–394). The manuscript consists of parchment and paper, sometimes even mixed within one quire. This codex has been at the monastery of St. Gall at least since 1553/64 (library stamp p. 60). </field>
+                        <field name="dc_format">395 (394) pp., 30 x 21 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 525 : Composite manuscript with, among others, commentary on the hymnal, <i>Vocabularius ex quo</i>, <i>Speculum humanae salvationis</i> </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment and paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

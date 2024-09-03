@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_30001 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:07.560Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ernst von Bergmann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Verlag von August Hirschwald </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rede </field>
+                        <field name="dc_title">Die Schicksale der Transfusion im letzten Decennium </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Bergmann, Ernst von: Die Schicksale der Transfusion im letzten Decennium. Rede, gehalten zur Feier des Stiftungstages der militär-ärztlichen Bildungsanstalten am 2. August 1883. Berlin, 1883. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1883 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ernst von Bergmann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Verlag von August Hirschwald </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rede </field>
+                        <field name="dc_title">The Fates of Transfusion in the Last Decennium </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Bergmann, Ernst von: The Fates of Transfusion in the Last Decennium. Speech given to celebrate the foundation day of the military-medical educational institutions on 2 August 1883. Berlin, 1883. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ernst von Bergmann </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Publisher of August Hirschwald </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">The Fates of Transfusion in the Last Decennium </field>
+                        <field name="dc_type">literature on use </field>
+                        <field name="dcterms_alternative">Bergmann, Ernst von: The Fates of Transfusion in the Last Decennium. Speech given to celebrate the foundation day of the military-medical educational institutions on 2 August 1883. Berlin, 1883. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

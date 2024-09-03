@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_ebs_0030 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:10.913Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Coene, Giovanni Baptista </field>
+                        <field name="dc_date">about 1700 </field>
+                        <field name="dc_description">This paper manuscript, produced around 1700, mentions in its title Emperor Leopold (I, reigned 1658-1705). The identity of Giovanni Baptista Coene from Passau, named as author, remains obscure; no further information is available about him. — The names of metals and other materials that Coene used in experiments are not written out in the text, but are represented by alchemic symbols (planetary signs, etc.). Because these occur in large numbers, the text is not easily readable or understandable. Further evidence that the manuscript is rooted in alchemy comes from the fact that Coene refers to Paracelsus (1493/94-1541), e.g., in the short final chapter with the title “Che cosa il Balsamo Samech di Paracelso” (pp. 101-102). Coene also mentions the “Testamentum” (pp. 99-100) and names Raimundus Lullus (1232/33-1315/16) as its author; today it is considered a pseudo-Llull text. — Within the chapters, individual paragraphs are numbered, but in the last quarter of the manuscript this numbering seems to have been added later (pp. 81-102). At the end of the manuscript, the numbering is incorrect (instead from p. 70ff. it should read correctly p. 97ff.). — The manuscripts was purchased in Italy in 1952. </field>
+                        <field name="dc_format">2 + 102 + 2 pp., 20 x 16 cm </field>
+                        <field name="dc_language">Italian </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Schlatt, Eisenbibliothek, Mss 30 : Belli Esperimenti Sopra li Metalli e Minerali Scritti e Mandati Alla Maesta Cesarea del Imperatore Leopoldo Da Giouanni Baptista Coene Di Passauia Pho. </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

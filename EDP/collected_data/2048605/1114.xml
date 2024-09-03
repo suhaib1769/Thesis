@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_16699 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:02.325Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Georg Herwegh </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Berlin ZLB, KucMa 1838 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Literarisches Comptoir </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lyrik </field>
+                        <field name="dc_title">Gedichte eines Lebendigen </field>
+                        <field name="dc_type">Belletristik </field>
+                        <field name="dcterms_alternative">[Herwegh, Georg]: Gedichte eines Lebendigen. Bd. 2. Zürich u. a., 1843. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1843 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Zentral- und Landesbibliothek Berlin </field>
+                        <field name="dcterms_spatial">Winterthur </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Georg Herwegh </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Berlin ZLB, KucMa 1838 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Literarisches Comptoir </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lyrik </field>
+                        <field name="dc_title">Poems of a Living Man </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Zentral- und Landesbibliothek Berlin </field>
+                        <field name="dcterms_spatial">Zürich </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Georg Herwegh </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Berlin ZLB, KucMa 1838 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Literary Comptoir </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">poetry </field>
+                        <field name="dc_title">Poems of a Living Man </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Zurich </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

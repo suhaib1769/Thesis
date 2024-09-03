@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8464__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:58.096Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Flämig (techn. Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Verschiedene Schnittzeichnungen der Postbeutelreinigungsanlage. - Verweis auf die Zeichnung mit der Altsginatur F41-N0140-07642.; Maßstab: 1:25   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausleinen; Tusche </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Postbeutel </field>
+                        <field name="dc_title">Technische Zeichnung : Briefbeutel-Entstaubungsanlage für [den] Postgüterbahnhof Leipzig </field>
+                        <field name="dc_type">Postbeutel </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">23. Februar 1911 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Surface (techn. Drawer) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Various carved drawings of the post bag cleaning system. - Reference to the drawing with the old signature F41-N0140-07642; scale: 1: 25 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mail bag cleaning </field>
+                        <field name="dc_title">Technical drawing: Mailbag dedusting facility for [den] PostTechnische bahnhof Leipzig </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">23. Februar 1911 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Surface (techn. Drawer) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Various carved drawings of the post bag cleaning system. - Reference to the drawing with the old signature F41-N0140-07642; scale: 1: 25 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mail bag cleaning </field>
+                        <field name="dc_title">Technical drawing: Mailbag dedusting facility for [den] PostTechnische bahnhof Leipzig </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">23 February 1911 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

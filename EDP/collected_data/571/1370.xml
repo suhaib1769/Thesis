@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_847_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1801 </field>
+                        <field name="dc_description">Tit. tomado de h. [1] </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Copia del original de 25 de julio de 1701 </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Fundación de refresco para los pobres del Santo Hospital Real y General de Nuestra Señora de Gracia de esta Ciudad otorgada por el Excmo. Sor. D. Antonio Ybañez de la Riva Herrera, Arzobispo de Zaragoza como dentro se contiene [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1801 jul. 25 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XVIII-XIX </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Tit. taken from h. [1] </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Copy of the original of July 25, 1701 </field>
+                        <field name="dc_subject">Hospital Real y General de Nuestra Señora de Gracia (Zaragoza) -Historia-S. XVIII-XIX </field>
+                        <field name="dc_title">Foundation of refreshment for the poor of the Santo Hospital Real y General de Nuestra Señora de Gracia of this City granted by the Hon. Sor. Antonio Ybañez de la Riva Herrera, Archbishop of Zaragoza as inside [Manuscript] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1801 Jul 25 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Tit. taken from h. [1] </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">Copy of the original of July 25, 1701 </field>
+                        <field name="dc_subject">Hospital Real y General de Nuestra Señora de Gracia (Zaragoza) -Historia-S. XVIII-XIX </field>
+                        <field name="dc_title">Foundation of refreshment for the poor of the Santo Hospital Real y General de Nuestra Señora de Gracia of this City granted by the Hon. Sor. Antonio Ybañez de la Riva Herrera, Archbishop of Zaragoza as inside [Manuscript] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1801 Jul 25 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">S. XVIII-XIX </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

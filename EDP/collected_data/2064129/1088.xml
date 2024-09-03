@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_7661__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:48.449Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Querschnitt der (vermutlich) mittels Dampfmaschine betriebenen Mahlmühle (Leistung 30 t Roggen oder Weizen). - Grundrisse verschiedener Ebenen.; Maßstab: 1:200  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausleinen; Tusche </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mahlmühle </field>
+                        <field name="dc_title">Technische Zeichnung : Dispositionsprojekt zum Neubau einer automatischen Weizen- und Roggenmühle für die Herren Auerbach und Klotz, Kalisch </field>
+                        <field name="dc_type">Mahlmühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">15.11.1913 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Gouvernement Kalisz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Cross section of the grinding mill (presumably) operated by a steam engine (power 30 t rye or wheat). - Floor plans of different levels.; Scale: 1: 200 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Disposition project for the new construction of an automatic wheat and rye mill for Messrs. Auerbach and Klotz, Kalisch </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wetzig, E. </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Cross section of the grinding mill (presumably) operated by a steam engine (power 30 t rye or wheat). - Floor plans of different levels.; Scale: 1: 200 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Pausing linen; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Disposition project for the new construction of an automatic wheat and rye mill for Messrs. Auerbach and Klotz, Kalisch </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Governor Kalisz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

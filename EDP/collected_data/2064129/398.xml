@@ -1,0 +1,81 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_7627__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:47.918Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Jüngers Mechaniske Etablissement </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Im Jahre 1865 erfand der dänische Pastor Hans Rasmus Johann Malling-Hansen die erste in größeren Stückzahlen hergestellte Schreibmaschine der Welt, mit der sogenannten Schreibkugel. Mit konzentrisch angeordneten Tastenstangen werden die Zeichen auf das darunter eingespannte Papier gedruckt. Es gab unterschiedlich Ausführungen und auch die Einspannung des Papiers unter den Stangen wurde in unterschiedlichen Formen bewerkstelligt. Mitentwickler und Produzent war Prof. E. Jüngers aus Stockholm mit seinem nach ihm genannten "Mekaniske Etablissement".<br />
+Das Exemplar des Deutschen Technikmuseums trägt erstaunlicherweise die Nr. 1, obwohl es nicht die erste produzierte Malling-Hansen ist. In diesem Fall ist das Papier flach eingespannt und erstaunlicherweise ist der Papiervortrieb bereits elektrifiziert.<br />
+<br />
+Martin, Ernst. Die Schreibmaschine und ihre Entwicklungsgeschichte. Aachen, Germany: Peter Basten, 1949  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Messing </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schreibtechnik </field>
+                        <field name="dc_title">Schreibmaschine Malling-Hansen Nr. 1 </field>
+                        <field name="dc_type">Schreibtechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1871 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Kopenhagen </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">writing technique </field>
+                        <field name="dc_title">Typewriter Malling-Hansen No. 1 </field>
+                        <field name="dc_type">writing technique </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">brass </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">writing technique </field>
+                        <field name="dc_title">Typewriter Malling-Hansen No. 1 </field>
+                        <field name="dc_type">writing technique </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

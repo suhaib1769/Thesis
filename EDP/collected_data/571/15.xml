@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2427_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma del Marqués de Lazán </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">El Excmo. Sr. Secretario interino del Despacho de Gracia y justicia, ... , me dice lo que sigue [Texto impreso] : "Excmo. Sr. : Habiendo representado al Rey nuestro Señor la Junta Superior gubernativa de Cirugía que á pesar de que, conforme á lo prevenido en el art.º 5, cap.º 18 de las ordenanzas de dicha Facultad insertas en Real cédula 6 de Mayo de 1804, dirige exhortos á las Justicias de los pueblos para que impidan el egercicio de la Cirugía ó de cualquiera de sus ramos á los que carecen de los títulos de aprobacion respectivos, ... </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragón </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lazán, Luis Rebolledo de Palafox y Melci, Marqués de </field>
+                        <field name="dc_title">The Hon. Mr. Acting Secretary of the Office of Grace and Justice,..., tells me what follows [Printed Text]: "Hon. Mr. Having represented to the King our Lord the governmental Upper Board of Surgery that despite the fact that, according to what is prevented in art.° 5, cap.° 18 of the ordinances of the said Faculty inserted in Real cédula 6 de Mayo, 1804, directs exhorts to the Justicias of the peoples to prevent the egercicio of the Surgery or of any of its bouquets to those that lack the respective approval titles,... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of the Marquis of Lazán </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Lazán, Luis Rebolledo de Palafox y Melci, Marqués de </field>
+                        <field name="dc_title">The Hon. Mr. Acting Secretary of the Office of Grace and Justice,..., tells me what follows [Printed Text]: "Hon. Mr. Having represented to the King our Lord the governmental Upper Board of Surgery that despite the fact that, according to what is prevented in art.° 5, cap.° 18 of the ordinances of the said Faculty inserted in Real cédula 6 de Mayo, 1804, directs exhorts to the Justicias of the peoples to prevent the egercicio of the Surgery or of any of its bouquets to those that lack the respective approval titles,... </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

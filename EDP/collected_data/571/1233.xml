@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2442_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Firma de Manuel Antonio de Santisteban </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Con fecha 4 de este mes ha comunicado al Consejo el Excelentísimo Sr. D. Pedro Cevallos, primer Secretario de Estado é interino del Despacho de Gracia y Justicia ..., la Real órden que sigue [Texto impreso] : "Excmo. Sr. : El Sr. Secretario del Despacho de Hacienda ... me dice lo siguiente: El Rey nuestro Señor, por decreto rubricado de su Real mano, se ha servido resolver que por título ni pretexto alguno se permita la extraccion del ganado merino, sobre cuyo punto se guarden y observen las leyes y las penas establecidas por las mismas; ... </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Manuel Antonio de Santisteban </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ovino-Spain-1853 cattle </field>
+                        <field name="dc_title">On the 4th of this month he informed the Council of the Excellent Mr. Pedro Cevallos, first Secretary of State and interim of the Office of Grace and Justice..., the Royal Order following [Printed Text]: "Hon. Mr. : Mr. Secretary of the Office of the Treasury... tells me the following: The King our Lord, by decree initialed of his Real hand, has served to resolve that by title or any pretext the extraction of the merino cattle is allowed, on which point the laws and the penalties established by them are kept and observed; </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Signature of Manuel Antonio de Santisteban </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Ovino-Spain-1853 cattle </field>
+                        <field name="dc_title">On the 4th of this month he informed the Council of the Excellent Mr. Pedro Cevallos, first Secretary of State and interim of the Office of Grace and Justice..., the Royal Order following [Printed Text]: "Hon. Mr. : Mr. Secretary of the Office of the Treasury... tells me the following: The King our Lord, by decree initialed of his Real hand, has served to resolve that by title or any pretext the extraction of the merino cattle is allowed, on which point the laws and the penalties established by them are kept and observed; </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[1816] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

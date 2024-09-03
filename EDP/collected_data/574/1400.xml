@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/574/_bn99pw026 </field>
+                    <field name="timestamp_update">2021-11-29T10:04:18.179Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004516086 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000000364879 </field>
+                        <field name="dc_contributor">Unknown </field>
+                        <field name="dc_coverage">name=London; north=51.5073219; west=-0.1276474 </field>
+                        <field name="dc_creator">Unknown </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">An Address from the free electors of the Pro---nce of Ul---er, to Anthony Malone, Esq; the Right Honourable Thomas Carter, &c. and Bellingham Boyle, Esqrs. wherein their dislocations, pensions and places, corruption in p-t and at elections, influenc'd sh-ffs, invasions on the liberties of the people, power of High Priests, &c. are duly considered. With a general review of two hundred and sixty six I-r-h places, offices, and employments, their uses and applications in a cor-pt Go-nt. Adissertation on the Emperor Caligula's horse, whom he made his Prime Minister, &c. and Mr. Wentworth's speech in Queen Elizabeth's reign, in order to shew the freedom of speech in that glorious parliament. Taken from Fog's Journal, June 14th, No. 345. Towhich is added, A clear and reasonable answer to that disingenuous pamphlet call'd, Considerations on the late bill, for payment of the remainder of the national debt". -- "Pro---nce of U---er" = Province of Ulster. -- Printed at the sign of the Irish ram, butting corruption with his patriot horns. -- Includes half-title. -- Signed on p. 8 "The free electors of the pro---nce of Ul---er". -- Includes an extract from "Fog's journal, June 14, no. 345". </field>
+                        <field name="dc_format">text </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Robinson, Christopher, -- fl. 1754-1760. -- Considerations on the late bill for payment of the remainder of the national debt </field>
+                        <field name="dc_title">An address from the free electors of the pro---nce of Ul---er, to Anthony Malone, Esq : the Right Honourable Thomas Carter, &c. and Bellngham [i.e. Bellingham] Boyle, Esqrs. Wherein their dislocations, the distribution of pensions and places, ... are duly considered. ... And Mr. Wentworth's speech in Queen Elizabeth's reign, ... </field>
+                        <field name="dc_type">Text </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">London </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">eng </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

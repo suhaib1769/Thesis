@@ -1,0 +1,79 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200211/en_list_one_bc_b_0173 </field>
+                    <field name="timestamp_update">2016-09-27T09:29:52.440Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">Vienna, [Aryeh ben Judah Leib] </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1716 </field>
+                        <field name="dc_description">The titel of this mohel book (circumcision book) from 1716 is Book of the Lord’s Mystery with the [commentary] "Golden Scepter"; based on the style and script of the scribe (Sofer), it can be attributed to Aryeh ben Judah Leib of Trebitsch (Moravia), who was active in Vienna. The manuscript contains several illustrations of various scenes: among others on the title page there is a depiction of a group of people in a synagog engaged in a discussion. It is noteworthy that not only men, but also women are present. The second folio shows the archangel Raphael with the young Tobias, who is carrying home a fish to cure his father’s blindness. The archangel Raphael as guardian angel of children is a motif that usually occurs only in Christian art. Aryeh ben Judah Leib might have used an unknown Catholic model in order to better illustrate the protective function of circumcision for Jewish boys. 
+In his writing, Aryeh ben Judah was guided by Amsterdam letters and thus initiated the fashion of be-otijjot Amsterdam ("with Amsterdam letters"), producing manuscripts with Amsterdam (print) fonts. </field>
+                        <field name="dc_format">29 + 1 ff., 12 x 8.5 cm </field>
+                        <field name="dc_language">Hebrew </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Zürich, Braginsky Collection, B173 : Sefer Sod Adonai im Sharvit ha-Zahav (Book of the Lord’s Mystery with the [commentary] "Golden Scepter") </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Parchment </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

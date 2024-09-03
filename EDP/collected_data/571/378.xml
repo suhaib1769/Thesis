@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_2390_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1816 </field>
+                        <field name="dc_description">Port. con esc. real </field>
+                        <field name="dc_format">image </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">en la Imprenta de Andrés Sebastián </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real Cédula de S. M. y Señores del Consejo por la cual se manda reconocer por créditos legítimos contra el Estado todos los que no fueron presentados á la liquidacion del Gobierno intruso ; y que se excluyan de este concepto y clase de acreedores á los que siendo dueños de créditos acudieron á presentar sus documentos á dicho Gobierno, con lo demas que se expresa [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Leyes, etc.] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1816 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Port. with esc. real </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">in the Printing of Andrés Sebastián </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Public Debt-Spain-1853 </field>
+                        <field name="dc_title">Real Cédula de S. M. and Lords of the Council by which it is ordered to recognize by legitimate claims against the State all those that were not presented to the liquidation of the intrusive Government; and that are excluded from this concept and class of creditors who, being owners of credits, came to present their documents to that Government, with the rest that is expressed [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Port. with esc. real </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">in the Printing of Andrés Sebastián </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Public Debt-Spain-1853 </field>
+                        <field name="dc_title">Real Cédula de S. M. and Lords of the Council by which it is ordered to recognize by legitimate claims against the State all those that were not presented to the liquidation of the intrusive Government; and that are excluded from this concept and class of creditors who, being owners of credits, came to present their documents to that Government, with the rest that is expressed [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

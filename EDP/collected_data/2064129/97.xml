@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8575__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:01.275Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pape, E. August </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Darstellung der mittels Wasserrad angetriebenen Groß Tuchner Dorfmühle. - Längsschnitt und Querschnitt. - Querschnitt Reinigung. - Grundrisse Erdgeschoss, Walzenboden, Behälterboden und Dachboden. - Vermerk zum Kopierverbot bzw. Nutzungsverbot durch andere Firmen (Stempel). - Firmenstempel A. Wetzig. - Stempel des Generalvertreters der Firma A. Wetzig Max Koethe, Civilbauingenieur und Mühlenbaumeister Stettin.; Maßstab: 1:100. Bemerkung: Das heute polnische Dorf Tuchomie trug in der Entstehungszeit der Zeichnung den Namen Groß Tuchen. Nach der Unterschrift des Zeichners E. August Pape steht "Ing.". Ist die hier die Berufsbezeichnung Ingenieur angegeben?  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Tusche </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mahlmühle </field>
+                        <field name="dc_title">Technische Zeichnung : Projekt zum Neubau einer Mahlmühle für Herrn Rittergutsbesitzer Völzke in Groß Tuchen </field>
+                        <field name="dc_type">Mahlmühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">06.08.1899 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pape, E. August </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">paper; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pape, E. August </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">paper; ink </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

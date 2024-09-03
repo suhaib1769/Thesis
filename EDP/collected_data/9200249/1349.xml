@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/9200249/BibliographicResource_3000073873181 </field>
+                    <field name="timestamp_update">2016-02-12T08:44:29.197Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">0 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004517529 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004516062 </field>
+                        <field name="dc_contributor">Bussingh, J. W. (auteur gedicht) </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Hendrik Roosing 1763-1826;; G.J. van den Bergh fl. 1795 </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Portret in ovaal van de predikant D.J. Metske; van den Bergh pinx., H. Roosing sculp;; In kader onder portret ook: tweeregelig vers van J.W. Bussingh: "Ken, Christen! in dit beeld ...";; Ill.techn.: stippelgravure </field>
+                        <field name="dc_format">Gedigitaliseerd portret ; 18×11 cm </field>
+                        <field name="dc_language">ned </field>
+                        <field name="dc_publisher">Rotterdam: J. Hofhout en Zoon excud. </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Didericus Johannes Metske 1733-1795 / Metske, Didericus Johannes </field>
+                        <field name="dc_title">Didericus Johannes Metske (1733-1795) </field>
+                        <field name="dc_type">Afbeelding </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1796 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

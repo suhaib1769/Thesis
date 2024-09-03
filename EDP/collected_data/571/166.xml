@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_1237_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1833 </field>
+                        <field name="dc_description">Texto firmado por Pascual Feliz de Pui </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">Juan Ignacio de Mendizabal </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Real cédula de S.M. y señores del Consejo, por la cual se manda guardar y cumplir la declaracion hecha por el Rey nuestro Señor, comprendida en la certificacion que se inserta, y en la que S.M. dá por nulo el decreto que se le arrancó por sorpresa en los momentos mas graves de su enfermedad, derogando la Pragmática sancion de 29 de Marzo de 1830 sobre la sucesion regular á la Corona de España [Texto impreso] </field>
+                        <field name="dc_type">Libros </field>
+                        <field name="dcterms_alternative">[Cédula real, 1833] </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1833 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">España </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text signed by Pascual Feliz de Pui </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">Juan Ignacio de Mendizabal </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kings and Sovereigns-Succession - Spain-1853 </field>
+                        <field name="dc_title">Real ID of S.M. and lords of the Council, by which it is ordered to keep and fulfill the statement made by the King our Lord, included in the certificate that is inserted, and in which S.M. gives for null the decree that was extracted by surprise in the most serious moments of his illness, repealing the Pragmatic sanction of March 29, 1830 on the regular succession to the Crown of Spain [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Text signed by Pascual Feliz de Pui </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Juan Ignacio de Mendizabal </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kings and Sovereigns-Succession - Spain-1853 </field>
+                        <field name="dc_title">Real ID of S.M. and lords of the Council, by which it is ordered to keep and fulfill the statement made by the King our Lord, included in the certificate that is inserted, and in which S.M. gives for null the decree that was extracted by surprise in the most serious moments of his illness, repealing the Pragmatic sanction of March 29, 1830 on the regular succession to the Crown of Spain [Printed Text] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Spain </field>
+                        <field name="dcterms_temporal">1853 </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

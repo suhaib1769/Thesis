@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_ebs_0038 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:10.953Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Wok Pňovsky, von Eulenberg </field>
+                        <field name="dc_date">1526 </field>
+                        <field name="dc_description">The author of this manuscript gives his name at the outset (p. 3): Wok Pňovsky von Eulenberg (Czech: Vok Pňovický ze Sovince) comes from the Moravian noble family von Eulenberg (Czech: ze Sovince), whose coat of arms is depicted in the manuscript (p. 130). Wok is documented between 1499-1531; from 1518-1525 he held the position of chief justice of Moravia. In 1526 with this manuscript he produced an early exemplar of a “Probierbuch” (assay book), which treats several procedures for analyzing and further processing various ores and metals. The first part of the manuscript is divided into 40 chapters (pp. 4-130); in the second part of the manuscript, the sections are not numbered (pp. 133-420). Added at the end is a later (17th century?) table of contents (pp. 429-444), which offers short summaries of the chapters. Assaying was of great importance to the practice of early modern mining and metallurgy. Near Eulenburg castle (Czech: hrad Sovinec), the ancestral home of the family in Northern Moravia, Wok himself was engaged in the mining of precious metals (Papajík 2005, pp. 198-200). In Wok, therefore, the mining entrepreneur and the assayer coincided in one person. Before 1924 the manuscript was part of the holdings of the library of the museum of the ‘Gymnasium’ or preparatory school (Czech: Knihovna gymnazijního muzea) in Troppau (Czech: Opava), a predecessor institution of the present library of the Silesian Museum (Czech: Knihovna Slezského zemského muzea). The manuscript has been lost since 1924. After a devastating fire in the spring of 1945, in which all accession books were destroyed, no documentation about the manuscript exists in the museum library today (information from 07-16-2015). David Papajík summarizes the current state of Czech research: “Vok also addresses theoretical aspects of mining. In 1526 he authored an extensive German language work of 420 pages on the topic, which, while it survived until the recent past and was held in the library of the museum of Opava, it was lost by 1924. We only know a description from 1881, produced by Josef Zukal. It is a great pity that this unique document about the understanding of mining of that time, has not survived into the present” (Papajík 2005, p. 200). The above-mentioned description from 1881 offers the following additional information “«Ms. chart. sec. XVI. Kl. Oct. bound in black leather without decoration, 420 pages […]. Mining flourished in the area of Eulenburg in the 15th and 16th century; thus the present work owes its creation to practical need. Without doubt it is Wok’s original manuscript and offers an interesting insight into the state of metallurgy of the time. The index in a different hand was added at a much later time; this fact as well as the great wear indicate that the book was in use for a long time (Zukal 1881, p. 15 f.). The manuscript was purchased in New York in 1955. </field>
+                        <field name="dc_format">1 + 444 + 1 pp., 17 x 11 cm </field>
+                        <field name="dc_language">German </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Schlatt, Eisenbibliothek, Mss 38 : Anno domini 1526 am tag fabiany vn[d] Sebastiany ayn liblichs piechel angefange[n] durch mych wocken pniowsky von aylem-berk obristem Sudy des margrafftum yn marhern […] </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

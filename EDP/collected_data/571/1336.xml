@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_127_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Anonymous </field>
+                        <field name="dc_date">1610 </field>
+                        <field name="dc_description">Reverso impreso: "Notationes in veteres reges arragoniae et vasconiae VI" (breves descripciones de los reyes comprendidos en el árbol genealógico) </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">mul </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">REGES ARRAG. VETERES [Material gráfico]: Al Ilmo. Señor don Alonso de la Cueva y Benavides. mi Señor Embax[ad]or de su Maiestad Catholica a cerca la Ser. Señoria de Venecia: D. D. D </field>
+                        <field name="dc_type">Ilustraciones y Fotos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[ca 1610] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Printed verse: “Notationes in veteres reges arragoniae et vasconiae VI” (brief descriptions of the kings included in the family tree) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">mul </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kings and sovereigns-Genealogy-Aragon (Kingdom) </field>
+                        <field name="dc_title">RULERS VETERES [Material VE]: Al Ilmo Lord Alonso de la Cueva y Benavides. My Lord Embax [ad] or his Maiestad Catholica close to the Being. Signature of Venice: D. D. D </field>
+                        <field name="dc_type">Illustrations and Photos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragon (Kingdom) -Kings and Sovereign-Genealogy </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Anonymous </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Printed verse: “Notationes in veteres reges arragoniae et vasconiae VI” (brief descriptions of the kings included in the family tree) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kings and sovereigns-Genealogy-Aragon (Kingdom) </field>
+                        <field name="dc_title">RULERS VETERES [Material VE]: Al Ilmo Lord Alonso de la Cueva y Benavides. My Lord Embax [ad] or his Maiestad Catholica close to the Being. Signature of Venice: D. D. D </field>
+                        <field name="dc_type">Illustrations and Photos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">[ca 1610] </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Aragon (Kingdom) -Kings and Sovereign-Genealogy </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

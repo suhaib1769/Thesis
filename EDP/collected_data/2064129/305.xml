@@ -1,0 +1,90 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9158__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.546Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Rudolf Macan </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Das Original der Lok B. Leipa stammt aus dem Jahr 1875. Ein Lokführer aus Böhmisch Leipa (Ceská Lípa), namens Rudolf Macan, baute das Modell zwei Jahre danach. Weitere 63 Jahre später hat er nach Aktenlage das Modell Adolf Hitler, im Jahr 1940, zum Geburtstag geschenkt. Dieser ließ es durch seine Kanzlei an das VBM weiterleiten.<br />
+Dieses Modell, bei dem der Tender verschollen ist, stellt ein Beispiel für die oft verschlungenen Herkunftsgeschichten der Bestände aus dem Verkehrs- und Baumuseum dar.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 67<br />
+Nussbaum, Uwe. Eisenbahnmodelle: Schätze aus dem Verkehrs- und Baumuseum. Berlin: Nicolai, 1998. Nr. 8  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schienenverkehr </field>
+                        <field name="dc_title">Schnellzuglok "B.LEIPA" der Böhmischen Nordbahn, Modell 1:12 </field>
+                        <field name="dc_type">Schienenverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1875 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Česká Lípa </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Rudolf Macan </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The original Lok B. Leipa dates back to 1875. A locomotive driver from Bohemian Leipa (Ceská Lípa), named Rudolf Macan, built the model two years later. A further 63 years later, he gave the model Adolf Hitler, his birthday in 1940. The latter had it forwarded to the VBM through his office.<br/>
+This model, in which the tender is lost, is an example of the often intertwined stories of origin of the stocks from the Transport and Construction Museum.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 67 <br/>
+Nussbaum, Uwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 8 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Böhmische Nordbahn “B.LEIPA” express train locomotive, model 1: 12 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Česká Lípa </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Rudolf Macan </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The original Lok B. Leipa dates back to 1875. A locomotive driver from Bohemian Leipa (Ceská Lípa), named Rudolf Macan, built the model two years later. A further 63 years later, he gave the model Adolf Hitler, his birthday in 1940. The latter had it forwarded to the VBM through his office.<br/>
+This model, in which the tender is lost, is an example of the often intertwined stories of origin of the stocks from the Transport and Construction Museum.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 67 <br/>
+Nussbaum, Uwe. Railway models: treasures from the Transport and Construction Museum. Berlin: Nicolai, 1998. No. 8 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Rail traffic </field>
+                        <field name="dc_title">Böhmische Nordbahn “B.LEIPA” express train locomotive, model 1: 12 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

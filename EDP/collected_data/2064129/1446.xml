@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8611__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:01.849Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Darstellung einer mittels Wasserrad angetriebenen Mahlmühle mit Wohnräumen, daran angebaut Öl- und Sägemühle mit Horizontalgatter. - Lageplan. - Längsschnitt und Querschnitte. - Grundrisse der verschiedenen Ebenen. - Handskizze auf der Rückseite.; Maßstab: 1:200   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Bleistift; Tusche (nur Beschriftung) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Projekt der Gräflich-Lynar´schen Mahl-[,] Oel- und Schneidemühle zu Lübbenau </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">30.07.1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a mill driven by a water wheel with living spaces, attached to it oil and sawmill with horizontal gate. - location plan. - longitudinal section and cross-sections. - Floor plans of the various levels. - Hand sketch on the back.; Scale: 1: 200 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Paper; pencil; ink (lettering only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Project of the County-Lynar 'schen Mahl- [,] Oel and Schneidemühle in Lübbenau </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">30.07.1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Presentation of a mill driven by a water wheel with living spaces, attached to it oil and sawmill with horizontal gate. - location plan. - longitudinal section and cross-sections. - Floor plans of the various levels. - Hand sketch on the back.; Scale: 1: 200 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Paper; pencil; ink (lettering only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Project of the County-Lynar 'schen Mahl- [,] Oel and Schneidemühle in Lübbenau </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">30.07.1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

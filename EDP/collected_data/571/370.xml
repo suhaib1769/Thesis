@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/571/https___hispana_mcu_es_lod_oai_fondohistorico_cortesaragon_es_916_ent0 </field>
+                    <field name="timestamp_update">2022-11-15T08:03:55.974Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004503496 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671126 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">1504 </field>
+                        <field name="dc_description">Escr. gótica cursiva aragonesa </field>
+                        <field name="dc_format">image/jpeg </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">[Venta efectuada en Zaragoza, de un censal, perteneciente a Juan Jimeno Cerdán y a su mujer Yolanda de Lobera, señores del lugar de Pinseque que tenían sobre el castillo y lugar de Pinseque, por valor de 666 sueldos y 8 denarios, a favor del cabildo de La Seo de Zaragoza pagaderos el primer día de agosto, en presencia de Juan de Silos, jurisperrito y lugarteniente del Justicia de Aragón] [Manuscrito] </field>
+                        <field name="dc_type">Manuscritos </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1504 sept. 28 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Pinseque (Zaragoza) </field>
+                        <field name="dcterms_temporal">S. XVI </field>
+                        <field name="edm_currentLocation">Biblioteca Cortes Aragón </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Escr. Aragonese cursive gothic </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">spa </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Purchase-Pinseque (Zaragoza) -S. XVI </field>
+                        <field name="dc_title">[Sale made in Zaragoza, of a census, belonging to Juan Jimeno Cerdán and his wife Yolanda de Lobera, lords of the place of Pinseque who had on the castle and place of Pinseque, worth 666 salaries and 8 denariums, in favor of the town hall of La Seo de Zaragoza payable on the first day of August, in the presence of Juan de Silos, jurisperrito and lieutenant of the Justice of Aragón] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1504 sept. 28 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Pinseque (Zaragoza) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Escr. Aragonese cursive gothic </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Purchase-Pinseque (Zaragoza) -S. XVI </field>
+                        <field name="dc_title">[Sale made in Zaragoza, of a census, belonging to Juan Jimeno Cerdán and his wife Yolanda de Lobera, lords of the place of Pinseque who had on the castle and place of Pinseque, worth 666 salaries and 8 denariums, in favor of the town hall of La Seo de Zaragoza payable on the first day of August, in the presence of Juan de Silos, jurisperrito and lieutenant of the Justice of Aragón] [Manuscrito] </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Pinseque (Zaragoza) </field>
+                        <field name="dcterms_temporal">S. XVI </field>
+                        <field name="edm_currentLocation">Cortes Aragón Library </field>
+                    </translated_data>
+                </doc>
+                </add>

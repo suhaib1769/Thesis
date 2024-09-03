@@ -83,7 +83,7 @@ def extract_translated_data(tree):
                 translated_data[field_name] = field.text
     return translated_data
 
-def parse_rdf_files(directory):
+def parse_rdf_files(directory, subdirectory):
 
     def find_with_condition_and_lang(condition, search, filename, tree, namespaces):
         # Find all <ore:Proxy> elements with rdf:about containing the condition
@@ -128,6 +128,20 @@ def parse_rdf_files(directory):
             print(f'No matching ore:Proxy element found in {filename}')
             return None
         
+    def check_if_translated(europeana_id, subdirectory):
+        last_part = europeana_id.split('/')[-1]
+        print(last_part)
+        translation_subdirectory = subdirectory+'.csv'
+
+        # load csv
+        translation_csv = pd.read_csv(f'/home/sbasir/Thesis/Thesis/EDP/sample_data/translations/{translation_subdirectory}')
+
+        translation_csv
+
+
+
+
+        
     # directory = '/Users/suhaibbasir/Documents/CS/MSc/Thesis/Thesis/EDP/test'  # Change this to your directory containing RDF/XML files
     # Define namespace mappings
     # Define the namespaces
@@ -143,12 +157,13 @@ def parse_rdf_files(directory):
         'oa': 'http://www.w3.org/ns/oa#'
     }
 
-    solr_docs = "<add>"
+    docs = []
 
     ## TODO: IMPLEMENT THE CODE FOR LOOKING INTO THE RDF:RESOURCE ATTRIBUTE
 
     # Iterate over each file in the directory
     for filename in os.listdir(directory):
+        # print(filename)
         if filename.endswith('.rdf') or filename.endswith('.xml'):
             file_path = os.path.join(directory, filename)
             
@@ -156,6 +171,18 @@ def parse_rdf_files(directory):
                 # Load the XML file
                 tree = etree.parse(file_path)
                 # print(f'Parsed: {filename}')
+
+
+                # checks for sampled data:
+                # check 1: based on content tier - if 0 do not include
+                # check 2: based on translations - if english include, it not english include if translated
+
+                content_tier, metadata_tier = find_tier_information(tree, namespaces)
+                id = find_single_element_text(tree, '//ore:proxyIn')
+
+
+                if content_tier > 0:
+                    continue
 
                 # extract data
                 data = {
@@ -232,9 +259,9 @@ def parse_rdf_files(directory):
                         'edm:currentLocation': find_with_condition_and_lang("/europeana", ".//edm:currentLocation", filename, tree, namespaces),
                     }
                 }
-                content_tier, metadata_tier = find_tier_information(tree, namespaces)
+                    
                 # print(f'Content Tier: {content_tier}, Metadata Tier: {metadata_tier}')
-
+                solr_docs = "<add>"
                 # Build Solr document
                 solr_docs += f"""
                 <doc>
@@ -314,26 +341,43 @@ def parse_rdf_files(directory):
                     </translated_data>
                 </doc>
                 """
+                solr_docs += "</add>"
+                docs.append(solr_docs)
                 
             except Exception as e:
                 print(f"Failed to parse {filename}: {e}")
     
-    # Close the Solr document
-    solr_docs += "</add>"
+    # # Close the Solr document
+    # solr_docs += "</add>"
+    # docs.append(solr_docs)
     
     # Return the compiled Solr XML document
-    return solr_docs
+    return docs
 
+def write_data(data, output_directory):
+    # Ensure the output directory exists
+    os.makedirs(output_directory, exist_ok=True)
+    
+    # Initialize a counter for file names
+    doc_counter = 1
 
-def write_data(data, output_file):
-    # Write the data to an XML file
-    with open(output_file, 'w') as file:
-        file.write(data)
-    print(f"Data written to {output_file}")
+    # Iterate over each XML document in the data list
+    for xml_doc in data:
+        # Define the output file name
+        output_file = os.path.join(output_directory, f"{doc_counter}.xml")
+
+        # Write the data to the output file
+        with open(output_file, 'w') as file:
+            file.write(xml_doc)
+        
+        # print(f"Data written to {output_file}")
+
+        # Increment the counter for the next file
+        doc_counter += 1
 
 def remove_duplicates(xml_data):
-    # Parse the XML data using lxml
-    root = etree.fromstring(xml_data)
+    # Parse the XML data
+    root = ET.fromstring(xml_data)
 
     # Initialize a set to track unique europeana_id
     seen_ids = set()
@@ -347,10 +391,10 @@ def remove_duplicates(xml_data):
             unique_docs.append(doc)
 
     # Build a new XML tree with unique documents
-    new_root = etree.Element("add")
+    new_root = ET.Element("add")
     for doc in unique_docs:
         new_root.append(doc)
 
     # Convert the tree back to a string
-    new_xml_data = etree.tostring(new_root, encoding='unicode', pretty_print=True)
+    new_xml_data = ET.tostring(new_root, encoding='unicode')
     return new_xml_data

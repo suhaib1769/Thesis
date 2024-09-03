@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_20663 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:12.380Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Wolff </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">ULB Halle, Pb 1132 u (3/4) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Regner </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mathematik </field>
+                        <field name="dc_title">Der Anfangs-Gründe Aller Mathematischen Wiessenschaften </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Wolff, Christian: Der Anfangs-Gründe Aller Mathematischen Wiessenschaften. Bd. 3. Halle (Saale), 1710. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1710 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Universitäts- und Landesbibliothek Halle </field>
+                        <field name="dcterms_spatial">Halle (Saale) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Wolff </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">ULB Halle, Pb 1132 u (3/4) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Regner </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mathematik </field>
+                        <field name="dc_title">Third Theil/Which contains the Optick/Catoptrick and Dioptrick/with an attachment of the Perspectiv/the Spherical Trigonometry/Astronomy/Chronology/Geography and Gnomonick </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Wolff, Christian: The initial reasons for all mathematical sciences. Bd. 3. Halle (Saale), 1710. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Universitäts- und Landesbibliothek Halle </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Wolff </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">ULB hall, Pb 1132 u (3/4) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Regner </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Third Theil/Which contains the Optick/Catoptrick and Dioptrick/with an attachment of the Perspectiv/the Spherical Trigonometry/Astronomy/Chronology/Geography and Gnomonick </field>
+                        <field name="dc_type">Subject text </field>
+                        <field name="dcterms_alternative">Wolff, Christian: The initial reasons for all mathematical sciences. Bd. 3. Halle (Saale), 1710. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

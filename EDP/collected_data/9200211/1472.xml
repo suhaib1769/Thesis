@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/9200211/en_list_one_csg_0628 </field>
+                    <field name="timestamp_update">2016-09-27T09:30:05.748Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">0 </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502183 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671163 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">possibly Northern Bavaria </field>
+                        <field name="dc_creator">Johannes, Hildesheimensis </field>
+                        <field name="dc_date">second half of the 15th century </field>
+                        <field name="dc_description">The largest part of this voluminous manuscript consists of an abbreviated version of the Universal Chronicle of Platterberg/Truchseß, completed in 1459 (pp. 3−796), which in the older literature is also referred to as the “St. Gall Universal Chronicle.” This chronicle also contains the so-called St. Galler Cato (pp. 259−260; Disticha Catonis; Von Catho dem weysen und seinen spruchen), a partial German translation of the work De officiis by Marcus Tullius Cicero (pp. 263−265); as well as more quotations from other works by Cicero (pp. 265−271). Next are a German version of the fictional correspondence between Alexander the Great and Dindimus, King of the Brahmins, written by Meister Wichwolt (pp. 809−815); Cronica Allexandri des grossen konigs), the German version of the History of the Three Kings (Historia trium regum) by John of Hildesheim (pp. 816−854); and the report about Jean de Mandeville’s travel to India in the German translation by Otto von Diemeringen (pp. 854−917). At the end (pp. 918−940), the volume contains an incomplete version of the travelogue of Johannes Schiltberger (1380 – after 1427) from Bavaria, who had been taken captive by the Ottomans. The book decoration consists of numerous red and blue Lombard initials. In 1570, the volume was owned by Luzius Rinck von Baldenstein (p. 940), brother-in-law of Prince-Abbot Diethelm-Blarer (1530-1564) of St. Gall; at the latest by the 17th century, the volume became part of the holdings of the monastery library of St. Gall (p. 3: Liber Monasterii S. Galli). </field>
+                        <field name="dc_format">A-B + 940 + Y-Z pp., 33 x 23 cm </field>
+                        <field name="dc_language">Latin </field>
+                        <field name="dc_publisher">e-codices - Virtual Manuscript Library of Switzerland </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">St. Gallen, Stiftsbibliothek, Cod. Sang. 628 : Abbreviated version of the Universal Chronicle of Platterberg/Truchseß; Jean de Mandeville, Travel to India </field>
+                        <field name="dc_type">Manuscript </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">Paper </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

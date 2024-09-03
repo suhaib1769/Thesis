@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_8101__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:42:53.512Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">H. Rauer (Technischer Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wassermenge Q = Maximum 1000 l/s, Gefälle H = 3530 mm, Wasserraddurchmesser D = 5500 mm, Wasserradbreite b = 1500 mm, Gerinnebreite b0 = 1400 mm, Kulissenbreite = 1300 mm, Kranzbreite/Schaufeltiefe a = 550 mm, Anzahl der Schaufeln z = 54, Schaufelteilung e = 320 mm, Umfangsgeschwindigkeit v = 1,915 m/s, Drehzahl des Wasserrades n = 6,65 U/min. - Seitenansicht (teilweise geschnitten). - Draufsicht. - Vorderansicht Wasserrad mit Kulisseneinlauf, Schützenzug und Vorgelege (teilweise geschnitten). - Detailschnitt eines Bauteils. - Bearbeitungsvermerke vom 25.10.1901-25.12.1901. - Verweise auf Detailzeichnungen mit den Altsignaturen S 7, S 53, S 58, S152, S 221 und S 235. - ergänzende Bemerkungen, Handskizzen und Berechnungen.; Maßstab: 1:10   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Papier; Bleistift; Tusche (nur Altsignaturangabe) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Kropfrad mit Kulisseneinlauf für Herrn W. Müller, Neue-Mühle bei Röhrchen </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">11.04.1901-25.12.1901 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Rurka (Chojna) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with bowl inlet for Mr. W. Müller, Neue-Mühle near Röhrchen </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Paper; pencil; ink (old signature only) </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with bowl inlet for Mr. W. Müller, Neue-Mühle near Röhrchen </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Rurka (Chojna) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_400140 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:36.050Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">B </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Alexander von Humboldt </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Physik </field>
+                        <field name="dc_title">Ueber einige elektro-magnetische Erscheinungen und den verminderten Luftdruck in der Tropen-Gegend des Atlantischen Oceans </field>
+                        <field name="dc_type">Wissenschaft </field>
+                        <field name="dcterms_alternative">Humboldt, Alexander von: Ueber einige elektro-magnetische Erscheinungen und den verminderten Luftdruck in der Tropen-Gegend des Atlantischen Oceans. In: Annalen der Physik und Chemie. Bd. 37 (1836). S. 241-258. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1836 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Alexander von Humboldt </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Physik </field>
+                        <field name="dc_title">Some electro-magnetic phenomena and reduced air pressure in the tropical area of the Atlantic Ocean </field>
+                        <field name="dc_type">Wissenschaft </field>
+                        <field name="dcterms_alternative">Humboldt, Alexander von: Ueber some electro-magnetic phenomena and reduced air pressure in the tropical area of the Atlantic Ocean. In: Annals of Physics and Chemistry. Bd. 37 (1836). S. 241-258. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Alexander von Humboldt </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Some electro-magnetic phenomena and reduced air pressure in the tropical area of the Atlantic Ocean </field>
+                        <field name="dc_type">Science </field>
+                        <field name="dcterms_alternative">Humboldt, Alexander von: Ueber some electro-magnetic phenomena and reduced air pressure in the tropical area of the Atlantic Ocean. In: Annals of Physics and Chemistry. Bd. 37 (1836). S. 241-258. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

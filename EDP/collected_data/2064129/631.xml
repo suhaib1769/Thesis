@@ -1,0 +1,90 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9079__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.527Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">2 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Telefunken GmbH/AG </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Das Gerät dient zur Wiedergabe von Bildplatten des TED-Systems von Telefunken und Teldec. Damit lassen sich ca. 10 Minuten Bewegtbild über einen damals handelsüblichen Fernsehapparat abspielen. <br />
+Der TP 1005 von 1973 war der erste kommerzielle Bildplattenspieler der Welt. Die erste Version (erkannbar am silbernen Deckel) kam 1973 auf den Markt. Sie wurde aber schon nach wenigen Wochen wieder zurückgezogen, weil die Konstruktion der Plattenhüllen zu Bildstörungen führte. Die überarbeitet Version (ganz schwarz) kommt erst zwei Jahre später 1975 in den Handel. Sie erweist sich aber als Verkausflop: Das TED-System hat gegenüber den Videosystemen VCR und VHS keine Chance.<br />
+Beim TED-System (Abkürzung für „Television Disc“) wird die Bild- und Ton-Information ähnlich wie bei der Schallplatte mechanisch gespeichert. Die Abtastung erfolgt piezoelektrisch.<br />
+<br />
+Funkschau 1973; Joachim Polzer: Die TED Bildplatte. Methodology for preserving the audiovisual program repertoire heritage of the German TED videodisk system. Dissertation, Akademie der Darstellenden Künste in Prag (AMU/FAMU), Prag 2010 (engl.; tschechische Übersetzung; dt. Anhang).  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Kunststoff, Eisenblech </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Nachrichtentechnik </field>
+                        <field name="dc_title">Bildplattenspieler Telefunken TP 1005 (Version 1973); TED-System </field>
+                        <field name="dc_type">Nachrichtentechnik </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1973 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Deutschland </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Telefunken GmbH/AG </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The device is used to play the image plates of the TED system by Telefunken and Teldec. With this, about 10 minutes of motion can be played via a television set that was then commercially available. <br/>
+The TP 1005 of 1973 was the first commercial videotape player in the world. The first version (detectable on the silver lid) was released in 1973. However, it was withdrawn after only a few weeks because the construction of the disk sleeves lead to image disturbances. The revised version (completely black) is only on sale two years later in 1975. However, it turns out to be a close-up flop: the TED system has no chance compared to the VCR and VHS video systems.<br/>
+With the TED system (abbreviation for “Television Disc”), the image and sound information is mechanically stored, similar to the record. The sample is piezoelectric.<br/>
+<br/>
+Funkschau 1973; Joachim Polzer: The TED Picture Plate. Methodology for ology ving the program repertoire of the German TED videodisc system Dissertation, Academy of Performing Arts in Prague (AMU/FAMU), Prague 2010 (English Czech translation; German annex).  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Plastic, iron sheet </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Telecommunications </field>
+                        <field name="dc_title">Picture disk player Telefunken TP 1005 (version 1973); TED system </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Deutschland </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Telefunken GmbH/AG </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The device is used to play the image plates of the TED system by Telefunken and Teldec. With this, about 10 minutes of motion can be played via a television set that was then commercially available. <br/>
+The TP 1005 of 1973 was the first commercial videotape player in the world. The first version (detectable on the silver lid) was released in 1973. However, it was withdrawn after only a few weeks because the construction of the disk sleeves lead to image disturbances. The revised version (completely black) is only on sale two years later in 1975. However, it turns out to be a close-up flop: the TED system has no chance compared to the VCR and VHS video systems.<br/>
+With the TED system (abbreviation for “Television Disc”), the image and sound information is mechanically stored, similar to the record. The sample is piezoelectric.<br/>
+<br/>
+Funkschau 1973; Joachim Polzer: The TED Picture Plate. Methodology for ology ving the program repertoire of the German TED videodisc system Dissertation, Academy of Performing Arts in Prague (AMU/FAMU), Prague 2010 (English Czech translation; German annex).  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Plastic, iron sheet </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Telecommunications </field>
+                        <field name="dc_title">Picture disk player Telefunken TP 1005 (version 1973); TED system </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Germany </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

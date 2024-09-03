@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_20604 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:11.916Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Thomasius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 PHIL VI, 2790 (1) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Salfeld </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Philosophie </field>
+                        <field name="dc_title">Nebst einer Vorrede/ Jn welcher unter andern der Verfertiger der curiösen Monatlichen Unterredungen freundlich erinnert und gebeten wird/ von Sachen die er nicht verstehet/ nicht zu urtheilen/ und den Autorem der- mahleinst in Ruhe zu lassen </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Thomasius, Christian: Von der Kunst Vernünfftig und Tugendhafft zu lieben. Halle (Saale), 1692. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1692 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Halle (Saale) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Thomasius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 PHIL VI, 2790 (1) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Salfeld </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Philosophie </field>
+                        <field name="dc_title">To love the art of Vernünfftig and Tugendhaffen. As the only means of achieving a blissful/gallant and amused life </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Thomasius, Christian: To love from art Vernünfftig and Tugendhaffen. Halle (Saale), 1692. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Christian Thomasius </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 PHIL VI, 2790 (1) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Salfeld </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Philosophy </field>
+                        <field name="dc_title">To love the art of Vernünfftig and Tugendhaffen. As the only means of achieving a blissful/gallant and amused life </field>
+                        <field name="dc_type">Subject text </field>
+                        <field name="dcterms_alternative">Thomasius, Christian: To love from art Vernünfftig and Tugendhaffen. Halle (Saale), 1692. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

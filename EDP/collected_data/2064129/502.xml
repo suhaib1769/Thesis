@@ -1,0 +1,96 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9074__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.471Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Allgemeine Berliner Omnibus AG (ABOAG) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Das Fahrzeug repräsentiert die Generation der ersten motorisierten Busse in Berlin, die seit 1905 immer häufiger im Straßenbild erschienen war. Es gehört zu einer Serie von zehn Omnibussen, die zwischen 1916 und 1920 gebaut wurde und war bis 1927 in Betrieb. Die Typenbezeichnung verweist auf den damaligen Generaldirektor der ABOAG, Robert Kaufmann.<br />
+Schon hier entfernte sich die Bauweise vom Lastwagenbau, um den besonderen Anforderungen des Busbetriebes zu entsprechen. Rahmen und Kasten des Busses sind aus Stahlblech, mit armiertem Eschenholz, gebaut. Der Omnibus bot 36 Sitz- sowie sechs Stehplätze an. Eingebaut wurde ein 4-Zylinder-Vergaser-Motor mit 33 kW (45 PS), der eine Höchstgescheindigkeit von 25 km/h erlaubte.<br />
+Zwischen 1976 und 1987 sind drei Nachbauten angefertigt und von der BVG mit großem Erfolg im Sonderverkehr eingesetzt worden.<br />
+<br />
+Schipporeit, Reiner; Reinhard Demps. Historische Fahrzeuge in Berlin: Busse, Strassenbahnen, U-Bahn, S-Bahn. Berlin: Museum für Verkehr und Technik, 1991.  S. 20 <br />
+FMVT Info Nr. 1, März 1995<br />
+Weitere Abb.: BVG 74-0528, BVG 65-481  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Stahlblech, Holz </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunalverkehr </field>
+                        <field name="dc_title">Decksitzomnibus Nr. 37 "RK-Wagen" </field>
+                        <field name="dc_type">Kommunalverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1919 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">General Berlin Omnibus AG (ABOAG) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The vehicle represents the generation of the first motorized buses in Berlin, which had appeared more and more frequently since 1905. It belongs to a series of ten buses, which was built between 1916 and 1920 and was in operation until 1927. The type designation refers to the former general director of ABOAG, Robert Kaufmann.<br/>
+Even here, the construction of a truck was removed to meet the special requirements of the bus service. Frames and boxes of the bus are made of sheet steel, with armed ash wood. The omnibus offered 36 seats and six standing seats. A 4-cylinder carburetor engine with 33 kW (45 hp) was installed, which allowed a maximum sound of 25 km/h.<br/>
+Between 1976 and 1987 three replicas were made and were used by the BVG with great success in special traffic.<br/>
+<br/>
+Schipporeit, Reiner; Reinhard Demps. Historical vehicles in Berlin: buses, trams, subway, subway. Berlin: Museum of Transport and Technology, 1991.  P. 20 <br/>
+FMVT Info No. 1, March 1995 <br/>
+Further Figures: BVG 74-0528, BVG 65-481 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Steel sheet, wood </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">General Berlin Omnibus AG (ABOAG) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">The vehicle represents the generation of the first motorized buses in Berlin, which had appeared more and more frequently since 1905. It belongs to a series of ten buses, which was built between 1916 and 1920 and was in operation until 1927. The type designation refers to the former general director of ABOAG, Robert Kaufmann.<br/>
+Even here, the construction of a truck was removed to meet the special requirements of the bus service. Frames and boxes of the bus are made of sheet steel, with armed ash wood. The omnibus offered 36 seats and six standing seats. A 4-cylinder carburetor engine with 33 kW (45 hp) was installed, which allowed a maximum sound of 25 km/h.<br/>
+Between 1976 and 1987 three replicas were made and were used by the BVG with great success in special traffic.<br/>
+<br/>
+Schipporeit, Reiner; Reinhard Demps. Historical vehicles in Berlin: buses, trams, subway, subway. Berlin: Museum of Transport and Technology, 1991.  P. 20 <br/>
+FMVT Info No. 1, March 1995 <br/>
+Further Figures: BVG 74-0528, BVG 65-481 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Steel sheet, wood </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

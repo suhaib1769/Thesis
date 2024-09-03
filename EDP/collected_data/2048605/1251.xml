@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2048605/data_item_bbaw_dta_20453 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:10.280Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Georg Pertsch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 J CANON 239/41; DISS JUR COLL MAX 478,1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Neue Buchhandlung </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Theologie </field>
+                        <field name="dc_title">Darinnen Der Ursprung und Fortgang der geheimen Beichte Aus denen Kirchen-Geschichten unpartheyisch gezeiget/ und was dabey absonderlich unter denen Protestirenden gebräuchlich ist und seyn solte, gründlich untersucht wird </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Pertsch, Johann Georg: Das Recht Der Beicht-Stühle. Halle, 1721. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1721 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Halle </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Georg Pertsch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 J CANON 239/41; DISS JUR COLL MAX 478,1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Neue Buchhandlung </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Theologie </field>
+                        <field name="dc_title">Darinnen The origin and progression of the secret confessions From which church stories are unpartheytically shown/and what dabey is aberrant among those protesters and seyn solte, thoroughly investigated </field>
+                        <field name="dc_type">Fachtext </field>
+                        <field name="dcterms_alternative">Pertsch, Johann Georg: The right of the Beicht chairs. Halle, 1721. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">Halle </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Johann Georg Pertsch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SUB Göttingen, 8 J CANON 239/41; DISS JUR COLL MAX 478.1 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">New bookstore </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Theology </field>
+                        <field name="dc_title">Darinnen The origin and progression of the secret confessions From which church stories are unpartheytically shown/and what dabey is aberrant among those protesters and seyn solte, thoroughly investigated </field>
+                        <field name="dc_type">Subject text </field>
+                        <field name="dcterms_alternative">Pertsch, Johann Georg: The right of the Beicht chairs. Halle, 1721. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: SUB Göttingen </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

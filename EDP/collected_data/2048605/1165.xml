@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_16302 </field>
+                    <field name="timestamp_update">2014-12-12T14:31:57.256Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Friedrich Wilhelm Gotter </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Berlin ZLB, ¤ C 13 033 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Dyk </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Drama </field>
+                        <field name="dc_title">Die Erbschleicher </field>
+                        <field name="dc_type">Belletristik </field>
+                        <field name="dcterms_alternative">Gotter, Friedrich Wilhelm: Die Erbschleicher. Leipzig, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1789 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Zentral- und Landesbibliothek Berlin </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Friedrich Wilhelm Gotter </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Dyk </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Drama </field>
+                        <field name="dc_title">The hereditary veil </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Gotter, Friedrich Wilhelm: The hereditary loops. Leipzig, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Zentral- und Landesbibliothek Berlin </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Friedrich Wilhelm Gotter </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Drama </field>
+                        <field name="dc_title">The hereditary veil </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Gotter, Friedrich Wilhelm: The hereditary loops. Leipzig, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Leipzig </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

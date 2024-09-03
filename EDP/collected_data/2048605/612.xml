@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_30040 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:07.826Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Fischer </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Politik </field>
+                        <field name="dc_title">Auß dem wahren Original, wie es bey dem Chur-Mäyntzis. Reichs-Directorio deponirt worden / in Teutsche versetzt </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Friedens-Schluß / So von der Römischen Käyserlichen / Vnd Aller-Christl. Königl. Mayst. [...] in Westphalen / am 24/14. Octobris Im Jahr 1648. in offentlicher Versamblung vnderschrieben vnd bekräfftiget. Franckfurt [Frankfurt], 1649. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1649 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Franckfurt [Frankfurt] </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Fischer </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Outside the true original, like the Chur-Mäyntzis. Reichs-Directorio deposited in Teutsche </field>
+                        <field name="dc_type">Gebrauchsliteratur </field>
+                        <field name="dcterms_alternative">Peace conclusion/So by the Roman Käyserliche/Vnd Aller-Christl. Royal Mayst. [...] in Westphalen/on 24/14. Octobris in 1648. In offal, vnderin vnd bekräfftiget. Franckfurt [Frankfurt], 1649. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Franckfurt [Frankfurt] </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Fisherman </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Outside the true original, like the Chur-Mäyntzis. Reichs-Directorio deposited in Teutsche </field>
+                        <field name="dc_type">literature on use </field>
+                        <field name="dcterms_alternative">Peace conclusion/So by the Roman Käyserliche/Vnd Aller-Christl. Royal Mayst. [...] in Westphalen/on 24/14. Octobris in 1648. In offal, vnderin vnd bekräfftiget. Franckfurt [Frankfurt], 1649. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">None </field>
+                        <field name="dcterms_spatial">Franckfurt [Frankfurt] </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

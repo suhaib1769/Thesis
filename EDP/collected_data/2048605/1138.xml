@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2048605/data_item_bbaw_dta_17163 </field>
+                    <field name="timestamp_update">2014-12-12T14:32:05.711Z </field>
+                    <field name="edm_type">TEXT </field>
+                    <field name="content_tier">1 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502123 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671099 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ulrich Bräker </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, 19 ZZ 2512 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">de </field>
+                        <field name="dc_publisher">Orell, Gessner, Füssli </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Autobiographie </field>
+                        <field name="dc_title">Lebensgeschichte und Natürliche Ebentheuer des Armen Mannes im Tockenburg </field>
+                        <field name="dc_type">Belletristik </field>
+                        <field name="dcterms_alternative">Bräker, Ulrich: Lebensgeschichte und natürliche Ebentheuer des Armen Mannes im Tockenburg. Herausgegeben von H. H. Füßli. Zürich, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">1789 </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </field>
+                        <field name="dcterms_spatial">Zürich </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ulrich Bräker </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, 19 ZZ 2512 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Orell, Gessner, Füssli </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Autobiographie </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Bräker, Ulrich: Life history and natural bony of the poor man in Tockenburg. Edited by H. H. Füßli. Zurich, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Staatsbibliothek zu Berlin – Preußischer Kulturbesitz </field>
+                        <field name="dcterms_spatial">Zürich </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Ulrich Bräker </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">SBB-PK, 19 ZZ 2512 </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">Orell, Gessner, Füssli </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">Bräker, Ulrich: Life history and natural bony of the poor man in Tockenburg. Edited by H. H. Füßli. Zurich, 1789. </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Current holding institution: Berlin State Library - Prussian Cultural Heritage </field>
+                        <field name="dcterms_spatial">Zurich </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

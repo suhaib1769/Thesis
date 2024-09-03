@@ -1,0 +1,81 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9061__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.284Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">R. Gudel </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Guillochiermaschinen sind spezielle Gravurmaschinen mit denen sich exakte geometrische Muster erstellen lassen. Bei diesem Geradzug entstehen die Muster aus der Kombination von Geraden, Wellen- oder Zickzacklinien. Typische auf diese Weise verzierte Gegenstände waren Zigarettenetuis, Pillendosen oder Kugelschreiber. Guillochiermaschinen werden heutzutage nicht mehr gebaut. Auch der Beruf des Guillocheurs wird nicht mehr ausgebildet, weshalb diese Verfahrenstechnik vom Aussterben bedroht ist.<br />
+<br />
+Pieper, Wolfgang. 125 Jahre Pforzheimer Guillocheure. Pforzheim: Gesellschaft zur Förderung des Technischen Museums der Pforzheimer Schmuck- und Uhrenindustrie, 1983.                                                                                 <br />
+Kern, Anne-Barbara. Fabergé Ei-Objekte aus der Manufaktur VICTOR MAYER. Stuttgart: ARNOLDSCHE, 2015.  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Material: Holz; Material: Leder; Material: Metall </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Schmuck </field>
+                        <field name="dc_title">Guillochiermaschine (Gradzug -) </field>
+                        <field name="dc_type">Schmuck </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1935 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Schweiz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">R. Gudel </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Material: wood; material: leather; material: metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Schweiz </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">R. Gudel </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Material: wood; material: leather; material: metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">jewelry </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Switzerland </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

@@ -1,0 +1,78 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_8583__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:01.516Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">3 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">A. Lorenz (Technischer Zeichner) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Wassermenge Q = 0,2-0,4 m³/s, Gefälle H = 2850 mm, Wasserraddurchmesser D = 5500 mm, Wasserradbreite b = 1000 mm, Einlaufbreite b0 = 900 mm, Drehzahl des Wasserrades n = 5 U/min, Umfangsgeschwindigkeit v = 1,4398 m/s, Anzahl der Schaufeln z = 48, Schaufelteilung e = 359,7 mm, Nutzleistung Ne = 5-10 HP. - Seitenansicht (teilweise geschnitten). - Querschnitt. - Grundriss. - Angaben zum Gewicht einzelner Teile. - Bearbeitungsvermerk "Dies Wasserrad wurde wegen unrichtiger Lieferung der bezogenen Kränze ca. 30 mm kleiner im Durchmesser". - Handskizzen und Berechnungen.; Maßstab: 1:20; Maßstab: 1:50   (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Tusche; Papier; Bleistift </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mühle </field>
+                        <field name="dc_title">Technische Zeichnung : Kropfrad mit Überfalleinlauf (ganz aus Schmiedeeisen) für Herrn Carl Ludwig Hirsch in Kolkwitz bei Cottbus </field>
+                        <field name="dc_type">Mühle </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">28.01.1895 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Lutherstadt Wittenberg </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with attack inlet (made entirely of wrought iron) for Mr. Carl Ludwig Hirsch in Kolkwitz near Cottbus </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">28.01.1895 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">ink; paper; pencil </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Mill </field>
+                        <field name="dc_title">Technical drawing: Kropfrad with attack inlet (made entirely of wrought iron) for Mr. Carl Ludwig Hirsch in Kolkwitz near Cottbus </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">28.01.1895 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Cottbus </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

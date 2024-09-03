@@ -1,0 +1,81 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9069__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.376Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Lange & Gutzeit (Berlin) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die Omnibus-Gesellschaft "Reform" eröffnete 1897 ihren Betrieb mit solchen sogenannten "Sechseromnibussen", für die ein Einheitspreis von 5 Pfennig galt. In Berlin nennt man den halben Groschen bis heute "Sechser" wie in der Zeit vor 1873, als der Silbergroschen 12 Pfennige hatte. Der niedrige Preis war eine Kampfmaßnahme des Busunternehmens gegen die starke Marktstellung der elektrischen Straßenbahnen. Auf  kurzen Linien waren die Schaffner durch Zahlkästen ersetzt. Der Wagen ging 1908 an die Allgemeine Berliner Omnibus AG, blieb dort bis 1914 in Betrieb und wurde dann als historisches Fahrzeug abgestellt. Bis in die 1920er Jahre dauert die Umstellung von Pferde- auf Motor-Omnibusse. <br />
+Gezogen wurde das Fahrzeug durch ein oder zwei Pferde und er enthält acht Sitz- und 4 Stehplätze.<br />
+<br />
+Schipporeit, Reiner; Reinhard Demps. Historische Fahrzeuge in Berlin: Busse, Strassenbahnen, U-Bahn, S-Bahn. Berlin: Museum für Verkehr und Technik, 1991. S. 19  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz, Metall </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Kommunalverkehr </field>
+                        <field name="dc_title">Pferdeomnibus Nr. 357 </field>
+                        <field name="dc_type">Kommunalverkehr </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1897 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin O </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Lange & Gutzeit (Berlin) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Horse omnibus No. 357 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Lange & Gutzeit (Berlin) </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">Wood, metal </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Local transport </field>
+                        <field name="dc_title">Horse omnibus No. 357 </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">None </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

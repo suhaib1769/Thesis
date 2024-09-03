@@ -1,0 +1,84 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/provider/2064129/Museu_ProvidedCHO_museum_digital_9100__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:07.762Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Gleis und Wagen wurden im Jahr 1889 bei einer damals ungarischen Goldgrube aufegfunden. Die Apostelgrube, bei Brad in Siebenbürgen, liegt seit 1918 in Rumänien. Fahrweg und Fahrzeug stammen aus der Zeit um 1550 und stellen eine sehr frühe Form des spurgeführten Transportmittels für Erze dar. Der Wagen ist aus grob behauenen Bohlen und Brettern mit eisernen Nägeln gebaut. Die Achsen sind ebenfalls aus Eisen. Schienen und Schwellen bestehen aus Rundhölzer. Auffällig ist die starke Ausbildung eines Spurkranzes an den Rädern durch die Abnutzung. Im Jahr 1910 brachte der Unternehmer August Haarmann die Bahn nach Berlin. Der Wagen hat eine Länge von 200 cm, ein Gewicht von 100 kg und ist ausgelegt für eine Spurweite von ca. 48 cm.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 33  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Hunt </field>
+                        <field name="dc_title">Grubenhund mit Holzschienen aus der Apostelgrube in Brad (Siebenbürgen) </field>
+                        <field name="dc_type">Hunt </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1501-1600 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Brad (Hunedoara) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">In 1889, tracks and wagons were found at a then-Hungarian gold mine. The apostle pit, near Brad in Transylvania, has been in Romania since 1918. The road and vehicle date back to 1550 and represent a very early form of the track-guided means of transport for ores. The cart is made of coarse planks and boards with iron nails. The axes are also made of iron. Rails and sleepers are made of roundwood. The strong formation of a track wreath on the wheels due to wear is striking. In 1910, entrepreneur August Haarmann took the train to Berlin. The car has a length of 200 cm, a weight of 100 kg and is designed for a track width of about 48 cm.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 33 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Hunt </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1501-1600 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Brad (Hunedoara) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">None </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">In 1889, tracks and wagons were found at a then-Hungarian gold mine. The apostle pit, near Brad in Transylvania, has been in Romania since 1918. The road and vehicle date back to 1550 and represent a very early form of the track-guided means of transport for ores. The cart is made of coarse planks and boards with iron nails. The axes are also made of iron. Rails and sleepers are made of roundwood. The strong formation of a track wreath on the wheels due to wear is striking. In 1910, entrepreneur August Haarmann took the train to Berlin. The car has a length of 200 cm, a weight of 100 kg and is designed for a track width of about 48 cm.<br/>
+<br/>
+Traffic and construction museum. Official guide through the collections/Transport and Construction Museum Berlin. Berlin: Elsner, 1943. P. 33 (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">wood </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Hunt </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1501-1600 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Brad (Hunedoara) </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>

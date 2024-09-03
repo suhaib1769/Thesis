@@ -1,0 +1,82 @@
+<add>
+                <doc>
+                    <field name="europeana_id">http://data.europeana.eu/aggregation/europeana/2064129/Museu_ProvidedCHO_museum_digital_9136__technical_number_ </field>
+                    <field name="timestamp_update">2017-12-19T08:43:08.326Z </field>
+                    <field name="edm_type">IMAGE </field>
+                    <field name="content_tier">4 </field>
+                    <field name="metadata_tier">A </field>
+                    <provided_data>
+                        <field name="data_provider">http://data.europeana.eu/organization/1482250000004502122 </field>
+                        <field name="intermediate_provider">None </field>
+                        <field name="provider">http://data.europeana.eu/organization/1482250000004671142 </field>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pohl & Brocksch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">Die von Richard Brademann (17. Mai 1884 bis 20. April 1965) entworfene Tunnelstation hat drei Verkehrshallen mit insgesamt neun Zugängen. Die Hauptverkehrshalle befindet sich unterhalb des Potsdamer Platzes. Fahrkartenausgaben und Sperren sind bogenförmig an beiden Stirnseiten angeordnet. <br />
+Ein Sperre freier Verbindungsgang, neben der südlichen Hallenlängsseite, ermöglicht Fußgängern die ungehinderte Unterquerung des Potsdamer Platzes. Der Gang ist auf einer Seite von Ladengeschäften und gegen den abgesperrten Raum von Schaufenstervitrinen eingefasst.<br />
+<br />
+Verkehrs- und Baumuseum. Amtlicher Führer durch die Sammlungen / Verkehrs- und Baumuseum Berlin. Berlin: Elsner, 1943. S. 30<br />
+Gottwaldt, Alfred B. Züge, Loks und Leute: Eisenbahngeschichte in 33 Stationen : ein Katalog. Berlin: Nicolai, 1990. S. 157  (Deutsches Technikmuseum) </field>
+                        <field name="dc_format">Holz, Papier, Karton, Aluminiumkarton, Metall, Plastfolie, Plastschäume [vereinzelt] </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Bahnanlage </field>
+                        <field name="dc_title">Gesamtanlage S-Bahnhof Berlin Potsdamer Platz, Modell 1:250 </field>
+                        <field name="dc_type">Bahnanlage </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">1936 </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin W 35 </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </provided_data>
+                    <enriched_data>
+                        <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pohl & Brocksch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">None </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin W 35 </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </enriched_data>
+                    <translated_data>
+                         <field name="dc_contributor">None </field>
+                        <field name="dc_coverage">None </field>
+                        <field name="dc_creator">Pohl & Brocksch </field>
+                        <field name="dc_date">None </field>
+                        <field name="dc_description">None </field>
+                        <field name="dc_format">None </field>
+                        <field name="dc_language">None </field>
+                        <field name="dc_publisher">None </field>
+                        <field name="dc_source">None </field>
+                        <field name="dc_subject">Railway station </field>
+                        <field name="dc_title">None </field>
+                        <field name="dc_type">None </field>
+                        <field name="dcterms_alternative">None </field>
+                        <field name="dcterms_created">None </field>
+                        <field name="dcterms_issued">None </field>
+                        <field name="dcterms_medium">None </field>
+                        <field name="dcterms_provenance">Deutsches Technikmuseum, Berlin </field>
+                        <field name="dcterms_spatial">Berlin W 35 </field>
+                        <field name="dcterms_temporal">None </field>
+                        <field name="edm_currentLocation">None </field>
+                    </translated_data>
+                </doc>
+                </add>
