@@ -14,12 +14,7 @@ from rdflib.namespace import RDF, DC, Namespace
 import xml.etree.ElementTree as ET
 from lxml import etree
 import random
-from io import BytesIO
-import logging
-
-# Set up logging
-logging.basicConfig(filename='field_extractor.log', level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+import io
 
 # directory = '/Users/suhaibbasir/Documents/CS/MSc/Thesis/Thesis/EDP/test'  # Change this to your directory containing RDF/XML files
 # Define namespace mappings
@@ -190,6 +185,71 @@ def find_with_condition(condition, search, tree, namespaces, lang=None):
     # Return the dictionary of results, or None if no matches
     return results if results else None
 
+# def find_with_condition(conditions, search_fields, tree, namespaces, lang=None):
+#     # Store all results
+#     results = {condition: {} for condition in conditions}
+
+#     # Build a single XPath query for all the search fields and conditions
+#     condition_xpath = " | ".join([f"//ore:Proxy[contains(@rdf:about, '{condition}')]" for condition in conditions])
+    
+#     try:
+#         paths = tree.xpath(condition_xpath, namespaces=namespaces)
+#     except Exception as e:
+#         print(f"Error in XPath query: {e}")
+#         print(f"Namespaces: {namespaces}")
+#         print(f"Condition XPath: {condition_xpath}")
+#         return results
+
+#     languages = ["en", "bg", "cs", "da", "de", "es", "et", "fi", "fr", "hr", "hu", "it", "lt", "nl", "pl", "pt", "ro", "sk", "sl", "sv"]
+
+#     # Process paths for all conditions and search fields
+#     if paths:
+#         for path in paths:
+#             try:
+#                 about = path.attrib.get('{' + namespaces['rdf'] + '}about', '')
+#             except KeyError:
+#                 print(f"Warning: 'rdf:about' attribute not found. Available attributes: {path.attrib}")
+#                 continue
+
+#             for condition in conditions:
+#                 if condition in about:
+#                     for search in search_fields:
+#                         elements = path.xpath(f"{search}" + (f"[@xml:lang='{lang}']" if lang else ""), namespaces=namespaces)
+#                         for element in elements:
+#                             language_tag = element.get('{http://www.w3.org/XML/1998/namespace}lang', 'default')
+#                             resource_ref = element.get('{' + namespaces['rdf'] + '}resource')
+
+#                             # Skip certain elements for '/europeana' and 'en' language tag
+#                             if lang is None and condition == "/europeana" and language_tag == "en" and not resource_ref:
+#                                 continue
+
+#                             if resource_ref:
+#                                 resource_element = tree.xpath(f"//*[@rdf:about='{resource_ref}']", namespaces=namespaces)
+#                                 if resource_element:
+#                                     # Get skos:prefLabel and skos:altLabel
+#                                     labels = resource_element[0].xpath("skos:prefLabel | skos:altLabel", namespaces=namespaces)
+#                                     for label in labels:
+#                                         label_text = label.text
+#                                         label_lang = label.get('{http://www.w3.org/XML/1998/namespace}lang', 'default')
+
+#                                         if label_lang in languages or label_lang == "default":
+#                                             if label_lang in results[condition]:
+#                                                 results[condition][label_lang].append(label_text)
+#                                             else:
+#                                                 results[condition][label_lang] = [label_text]
+#                             else:
+#                                 if language_tag in languages or language_tag == "default":
+#                                     if language_tag in results[condition]:
+#                                         results[condition][language_tag].append(element.text)
+#                                     else:
+#                                         results[condition][language_tag] = [element.text]
+#     else:
+#         print(f'No matching ore:Proxy elements found for conditions: {conditions}')
+
+#     # Return the dictionary of results
+#     return results
+
+
 
 def check_if_translated(europeana_id):
     try:
@@ -204,7 +264,7 @@ def check_if_translated(europeana_id):
         # Check if the CSV file exists
         if not os.path.exists(csv_path):
             # Return False if the file does not exist
-            print(f"{csv_path} does not exist")
+            # print(f"{csv_path} does not exist")
             return False
         
         # Load the CSV file
@@ -280,35 +340,47 @@ def generate_solr_xml(data):
     return solr_docs
 
 
-def parse_file(file_content, translated_ids, filename):
-    # print("hello")
-    try:
-        if isinstance(file_content, bytes):
-            file_content = BytesIO(file_content)
+def parse_file(file_path):
+    # filename = os.path.basename(file_path)
 
-        tree = etree.parse(file_content)
-        
+    try:
+        if isinstance(file_path, bytes):
+            file_path = io.BytesIO(file_path)
+
+        # Load the XML file
+        tree = etree.parse(file_path)
+        # print(tree)
+        # print(f'Parsed: {filename}')
+
+        # checks for sampled data:
+        # check 1: based on content tier - if 0 do not include
+        # check 2: based on translations - if english include, if not english then include only if translated
+
         content_tier, metadata_tier = find_tier_information(tree, namespaces)
         europeana_id = find_single_element_text(tree, './/ore:proxyIn')
 
-        if not europeana_id:
-            logging.warning(f"No Europeana ID found for file: {filename}")
-            return None
+        isTranslated = check_if_translated(europeana_id)
 
-        europeana_id = '/'.join(europeana_id.rsplit('/', 2)[-2:])
-        europeana_id = '/' + europeana_id
-
-        temp_eur_id = europeana_id.split('/', 2)[-1]
-
-        if temp_eur_id not in translated_ids:
+        if not isTranslated:
+            # print("IS NOT TRANSLATED")
             language = find_single_element_text(tree, './/edm:EuropeanaAggregation/edm:language')
+            # print(language)
             if language != 'en':
-                logging.info(f"Skipping non-translated, non-English document: {temp_eur_id}")
+                # print(f"SKIPPING")
                 return None
+        else:
+            # print("is translated")
+            pass
 
         if content_tier == 0:
-            logging.info(f"Skipping document with content tier 0: {temp_eur_id}")
+            # print(f"SKIPPING")
             return None
+        else:
+            # print("content is fine")
+            pass
+
+        europeana_id = '/'.join(europeana_id.rsplit('/', 2)[-2:])
+        europeana_id = '/'+europeana_id
 
         data = {
             'europeana_id': europeana_id,
@@ -387,24 +459,47 @@ def parse_file(file_content, translated_ids, filename):
             }
         }
 
+                # Define the search fields and conditions you want to process
+        search_fields = [".//dc:contributor", ".//dc:coverage", ".//dc:creator", ".//dc:date", ".//dc:description", 
+                        ".//dc:format", ".//dc:language", ".//dc:publisher", ".//dc:source", ".//dc:subject", 
+                        ".//dc:title", ".//dc:type", ".//dcterms:alternative", ".//dcterms:created", ".//dcterms:issued", 
+                        ".//dcterms:medium", ".//dcterms:provenance", ".//dcterms:spatial", ".//dcterms:temporal", 
+                        ".//edm:currentLocation"]
+
+
+        # Build the data dictionary in a more streamlined way
+        data = {
+            'europeana_id': europeana_id,
+            'dcterms:modified': find_single_element_text(tree, './/dcterms:modified'),
+            'edm:type': find_single_element_text(tree, './/edm:type'),
+            'contentTier': content_tier,
+            'metadataTier': metadata_tier,
+            "provided_data": find_with_condition(["/provider"], search_fields, tree, namespaces),
+            "enriched_data": find_with_condition(["/europeana"], search_fields, tree, namespaces),
+            "translated_data": find_with_condition(["/europeana"], search_fields, tree, namespaces, lang='en')
+        }
+
         solr_doc_alt = generate_solr_xml(data)
         
     except Exception as e:
-        logging.error(f"Error parsing file {filename}: {str(e)}")
-        return None
+        print(f"Failed to parse {file_path}: {e}")
     
     return solr_doc_alt
 
 def write_data(xml_doc, output_directory, doc_counter):
-    try:
-        os.makedirs(output_directory, exist_ok=True)
-        output_file = os.path.join(output_directory, f"{doc_counter}.xml")
-        with open(output_file, 'w') as file:
-            if xml_doc is not None:
-                file.write(xml_doc)
-        logging.info(f"Data written to {output_file}")
-    except Exception as e:
-        logging.error(f"Error writing data to {output_file}: {str(e)}")
+    # Ensure the output directory exists
+    os.makedirs(output_directory, exist_ok=True)
+    
+    # Define the output file name
+    output_file = os.path.join(output_directory, f"{doc_counter}.xml")
+
+    # Write the XML document to the file
+    with open(output_file, 'w') as file:
+        if xml_doc is not None:
+            file.write(xml_doc)
+
+    print(f"Data written to {output_file}")
+
 
 def remove_duplicates(xml_data):
     # Parse the XML data
