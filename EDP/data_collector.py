@@ -136,7 +136,7 @@ def download_parsed_data(filename):
 
 if __name__ == '__main__':
     data_dict, data_ids = read_csv_data(CSV_PATH)
-    data_ids = data_ids[:10]
+    data_ids = data_ids[:100]
     # print(data_dict)
     translated_ids = get_translated_ids(data_dict)
     with ProcessPoolExecutor(max_workers=8) as executor:
