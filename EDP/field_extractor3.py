@@ -402,7 +402,7 @@ def write_data(xml_doc, output_directory, doc_counter):
         with open(output_file, 'w') as file:
             if xml_doc is not None:
                 file.write(xml_doc)
-        logging.info(f"Data written to {output_file}")
+        # logging.info(f"Data written to {output_file}")
     except Exception as e:
         logging.error(f"Error writing data to {output_file}: {str(e)}")
 

@@ -22,7 +22,8 @@ UNZIP_DIR = "selected_data"
 FTP_HOST = "download.europeana.eu"
 FTP_PATH = "dataset/XML/"
 OUTPUT_DIR = "collected_data"
-OUTPUT_DIR2 = "testing2"
+OUTPUT_DIR2 = "collected"
+OUTPUT_DIR3 = "collected3"
 CSV_PATH = '/home/sbasir/Thesis/Thesis/EDP/sample_data/datasets.csv'
 TRANSLATIONS_DIR = '/home/sbasir/Thesis/Thesis/EDP/sample_data/translations/'
 
@@ -89,14 +90,24 @@ def keep_random_10_percent(files):
     return random.sample(files, num_files_to_keep)
 
 def process_sample(args):
-    sample, filename, i, translated_ids = args
-    parsed = fe.parse_file(sample, translated_ids, filename)
-    if parsed:
-        # print("a")
-        output_directory = f'{OUTPUT_DIR2}/{filename.replace(".zip", "")}'
-        os.makedirs(output_directory, exist_ok=True)
-        fe.write_data(parsed, output_directory, i+1)
-    return i
+    samples, filename, translated_ids, total_samples = args
+    docs = []
+    for i, sample in enumerate(tqdm(samples, total=total_samples, desc=f"Processing {filename}")):
+        parsed = fe.parse_file(sample, translated_ids, filename)
+        if parsed:
+            docs.append(parsed)
+
+    docs = keep_random_10_percent(docs)
+    print(f"only keeping {len(docs)} documents for {filename}")
+    if len(docs) > 0:
+        for i, doc in enumerate(docs):
+            # print("a")
+            output_directory = f'{OUTPUT_DIR3}/{filename.replace(".zip", "")}'
+            os.makedirs(output_directory, exist_ok=True)
+            fe.write_data(doc, output_directory, i+1)
+
+    # print(docs[0])
+    del docs
 
 def download_parsed_data(filename):
     print(f"Starting download and processing for {filename}...")
@@ -111,34 +122,43 @@ def download_parsed_data(filename):
         print("a")
         if lang == 'en':
             print("b1")
-            samples = keep_random_10_percent(extracted_files)
+            # samples = keep_random_10_percent(extracted_files)
+            samples = [content for name, content in extracted_files]
         else:
             print("b2")
             samples = [content for name, content in extracted_files 
                if name.split('/')[-1].replace('.xml', '') in translated_ids]
 
         print("c")
+        # print(samples[0])
+        # print(type(samples[0]))
+        # print(type(samples))
         total_samples = len(samples)
         print(f"final length for {filename}: {total_samples}")
 
+        if total_samples == 0:
+            print(f"nothing to parse for {filename}")
+            return
+
         # Sequential processing without threading and without saving results
-        for i, sample in enumerate(tqdm(samples, total=total_samples, desc=f"Processing {filename}")):
-            process_sample((sample, filename, i, translated_ids))
+        # for i, sample in enumerate(tqdm(samples, total=total_samples, desc=f"Processing {filename}")):
+        process_sample((samples, filename, translated_ids, total_samples))
 
         # with ProcessPoolExecutor(max_workers=8) as executor:
         #     args_list = [(sample, filename, i, translated_ids) for i, sample in enumerate(samples)]
         #     results = list(tqdm(executor.map(process_sample, args_list), total=total_samples, desc=f"Processing {filename}"))
 
-        del extracted_files
+        del extracted_files, samples
 
     except Exception as e:
         print(f"Error processing {filename}: {e}")
 
 if __name__ == '__main__':
     data_dict, data_ids = read_csv_data(CSV_PATH)
-    data_ids = data_ids[:100]
-    # print(data_dict)
+    data_ids = ['2051917.zip', '344.zip', '2021112.zip', '2021606.zip', '2058632.zip', '2022710.zip', '303.zip', '2048427.zip', '2022720.zip', '2024014.zip', '315.zip', '0943105.zip', '9200221.zip', '538.zip', '824.zip']
+    print(len(data_ids))
     translated_ids = get_translated_ids(data_dict)
     with ProcessPoolExecutor(max_workers=8) as executor:
         list(executor.map(download_parsed_data, data_ids))
     # download_parsed_data(data_ids)
+    print("all done - happy coding :)")
