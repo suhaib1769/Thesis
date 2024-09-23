@@ -156,7 +156,7 @@ matchpy==0.5.5
 matplotlib==3.7.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
-milvus==2.3.8
+milvus==2.3.5
 milvus-lite==2.4.7
 milvus-model==0.2.3
 mip==1.15.0

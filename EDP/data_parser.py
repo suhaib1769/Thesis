@@ -101,7 +101,7 @@ def save_to_compressed_json(data, output_file):
         json.dump(data, f, ensure_ascii=False)
 
 # Process a directory of XML files with concurrent.futures, including subdirectories
-def process_xml_directory_no_parse(directory_path, output_directory, with_enriched=True, with_translated=True):
+def process_xml_directory_no_parse(directory_path, output_directory, with_enriched=True, with_translated=True, processing_tag=None):
     print("Starting processing...")
     try:
         # Walk through the directory and subdirectories to get all XML files
@@ -131,7 +131,7 @@ def process_xml_directory_no_parse(directory_path, output_directory, with_enrich
                     future_to_file = {executor.submit(XMLtoDictNoParse, file, with_enriched, with_translated): file for file in file_list}
                     
                     # As the futures complete, gather the results
-                    for future in tqdm.tqdm(as_completed(future_to_file), total=len(future_to_file), desc=f"Processing {sub_dir}"):
+                    for future in tqdm.tqdm(as_completed(future_to_file), total=len(future_to_file), desc=f"Processing {[processing_tag]} {sub_dir}"):
                         file = future_to_file[future]
                         try:
                             data = future.result()
@@ -149,8 +149,23 @@ def process_xml_directory_no_parse(directory_path, output_directory, with_enrich
         print(f"Error processing directory {directory_path}: {e}")
 
 
-# Usage example
-xml_directory_path = '/home/sbasir/Thesis/Thesis/collected3'
-output_directory_path = '/home/sbasir/Thesis/Thesis/collected3_parsed2'
-process_xml_directory_no_parse(xml_directory_path, output_directory_path)
-print("done with everything - happy indexing :)")
+# # Usage example
+# xml_directory_path = '/home/sbasir/Thesis/Thesis/collected3_split/25_percent'
+# output_directory_path = '/home/sbasir/Thesis/Thesis/collected3_parsed2_split_25_1'
+# process_xml_directory_no_parse(xml_directory_path, output_directory_path)
+# print("done with everything - happy indexing :)")
+
+xml_directory_path = '/home/sbasir/Thesis/Thesis/collected3_split/25_2_percent/75_100_percentile'
+output_directory_path = '/home/sbasir/Thesis/Thesis/collected3_parsed2_split_25_2'
+process_xml_directory_no_parse(xml_directory_path, output_directory_path, processing_tag='25_2')
+print("done with everything - happy indexing 1)")
+
+xml_directory_path = '/home/sbasir/Thesis/Thesis/collected3_split/25_3_percent/75_100_percentile'
+output_directory_path = '/home/sbasir/Thesis/Thesis/collected3_parsed2_split_25_3'
+process_xml_directory_no_parse(xml_directory_path, output_directory_path, processing_tag='25_3')
+print("done with everything - happy indexing 2)")
+
+xml_directory_path = '/home/sbasir/Thesis/Thesis/collected3_split/25_4_percent/75_100_percentile'
+output_directory_path = '/home/sbasir/Thesis/Thesis/collected3_parsed2_split_25_4'
+process_xml_directory_no_parse(xml_directory_path, output_directory_path, processing_tag='25_4')
+print("done with everything - happy indexing 3)")

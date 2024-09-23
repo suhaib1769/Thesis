@@ -1,0 +1,1795 @@
+/home/sbasir/Thesis/myenv3.10/lib/python3.10/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Successfully connected to Milvus
+
+Loading and batching files:   0%|          | 0/305 [00:00<?, ?it/s]
+Loading and batching files:   2%|▏         | 7/305 [00:23<16:30,  3.32s/it]
+Loading and batching files:   3%|▎         | 8/305 [00:44<31:15,  6.32s/it]
+Loading and batching files:   3%|▎         | 9/305 [01:11<51:41, 10.48s/it]
+Loading and batching files:   3%|▎         | 10/305 [01:43<1:14:36, 15.17s/it]Loading and batching files:   5%|▍         | 15/305 [02:43<1:07:41, 14.00s/it]Loading and batching files:   5%|▌         | 16/305 [03:13<1:22:51, 17.20s/it]Loading and batching files:   6%|▌         | 17/305 [03:45<1:36:55, 20.19s/it]Loading and batching files:   6%|▌         | 18/305 [04:16<1:49:10, 22.82s/it]Loading and batching files:   6%|▌         | 19/305 [04:48<1:59:22, 25.04s/it]Loading and batching files:   7%|▋         | 20/305 [05:22<2:10:03, 27.38s/it]Loading and batching files:   7%|▋         | 21/305 [05:55<2:17:50, 29.12s/it]Loading and batching files:   7%|▋         | 22/305 [06:29<2:23:00, 30.32s/it]Loading and batching files:   8%|▊         | 23/305 [06:56<2:17:58, 29.36s/it]Loading and batching files:   8%|▊         | 24/305 [07:09<1:56:03, 24.78s/it]Loading and batching files:   8%|▊         | 25/305 [07:23<1:39:58, 21.42s/it]Loading and batching files:   9%|▊         | 26/305 [07:37<1:29:49, 19.32s/it]Loading and batching files:   9%|▉         | 27/305 [07:51<1:22:12, 17.74s/it]Loading and batching files:   9%|▉         | 28/305 [08:05<1:17:17, 16.74s/it]Loading and batching files:  10%|▉         | 29/305 [08:19<1:12:24, 15.74s/it]Loading and batching files:  10%|▉         | 30/305 [08:33<1:09:39, 15.20s/it]Loading and batching files:  10%|█         | 31/305 [08:45<1:06:12, 14.50s/it]Loading and batching files:  10%|█         | 32/305 [08:58<1:03:36, 13.98s/it]Loading and batching files:  11%|█         | 33/305 [09:11<1:02:12, 13.72s/it]Loading and batching files:  11%|█         | 34/305 [09:24<1:01:00, 13.51s/it]Loading and batching files:  11%|█▏        | 35/305 [09:37<59:07, 13.14s/it]  Loading and batching files:  12%|█▏        | 36/305 [09:49<58:03, 12.95s/it]Loading and batching files:  12%|█▏        | 37/305 [10:02<58:05, 13.01s/it]Loading and batching files:  12%|█▏        | 38/305 [10:16<59:29, 13.37s/it]Loading and batching files:  13%|█▎        | 39/305 [10:30<58:53, 13.28s/it]Loading and batching files:  13%|█▎        | 40/305 [10:43<58:45, 13.31s/it]Loading and batching files:  13%|█▎        | 41/305 [10:56<58:09, 13.22s/it]Loading and batching files:  14%|█▍        | 42/305 [11:09<58:15, 13.29s/it]Loading and batching files:  14%|█▍        | 43/305 [11:23<58:16, 13.34s/it]Loading and batching files:  14%|█▍        | 44/305 [11:36<57:18, 13.18s/it]Loading and batching files:  15%|█▍        | 45/305 [11:50<58:02, 13.39s/it]Loading and batching files:  15%|█▌        | 46/305 [12:03<57:24, 13.30s/it]Loading and batching files:  15%|█▌        | 47/305 [12:16<56:55, 13.24s/it]Loading and batching files:  16%|█▌        | 48/305 [12:29<57:12, 13.36s/it]Loading and batching files:  16%|█▌        | 49/305 [12:43<57:44, 13.53s/it]percentage_complete: 0.32786885245901637
+percentage_complete: 0.6557377049180327
+percentage_complete: 0.9836065573770493
+percentage_complete: 1.3114754098360655
+percentage_complete: 1.639344262295082
+percentage_complete: 1.9672131147540985
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3232
+Length of texts: 3232
+Shape of dense vectors: 3232
+Batch indexed successfully.
+percentage_complete: 2.2950819672131146
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5947
+Length of texts: 5947
+Shape of dense vectors: 5947
+Batch indexed successfully.
+percentage_complete: 2.622950819672131
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 8491
+Length of texts: 8491
+Shape of dense vectors: 8491
+Batch indexed successfully.
+percentage_complete: 2.9508196721311477
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 8258
+Length of texts: 8258
+Shape of dense vectors: 8258
+Batch indexed successfully.
+percentage_complete: 3.278688524590164
+percentage_complete: 3.606557377049181
+percentage_complete: 3.934426229508197
+percentage_complete: 4.2622950819672125
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 8151
+Length of texts: 8151
+Shape of dense vectors: 8151
+Batch indexed successfully.
+percentage_complete: 4.590163934426229
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9868
+Length of texts: 9868
+Shape of dense vectors: 9868
+Batch indexed successfully.
+percentage_complete: 4.918032786885246
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9799
+Length of texts: 9799
+Shape of dense vectors: 9799
+Batch indexed successfully.
+percentage_complete: 5.245901639344262
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9882
+Length of texts: 9882
+Shape of dense vectors: 9882
+Batch indexed successfully.
+percentage_complete: 5.573770491803279
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9783
+Length of texts: 9783
+Shape of dense vectors: 9783
+Batch indexed successfully.
+percentage_complete: 5.901639344262295
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10377
+Length of texts: 10377
+Shape of dense vectors: 10377
+Batch indexed successfully.
+percentage_complete: 6.229508196721312
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10822
+Length of texts: 10822
+Shape of dense vectors: 10822
+Batch indexed successfully.
+percentage_complete: 6.557377049180328
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10978
+Length of texts: 10978
+Shape of dense vectors: 10978
+Batch indexed successfully.
+percentage_complete: 6.885245901639345
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10914
+Length of texts: 10914
+Shape of dense vectors: 10914
+Batch indexed successfully.
+percentage_complete: 7.213114754098362
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 8461
+Length of texts: 8461
+Shape of dense vectors: 8461
+Batch indexed successfully.
+percentage_complete: 7.540983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3193
+Length of texts: 3193
+Shape of dense vectors: 3193
+Batch indexed successfully.
+percentage_complete: 7.868852459016394
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3163
+Length of texts: 3163
+Shape of dense vectors: 3163
+Batch indexed successfully.
+percentage_complete: 8.19672131147541
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3349
+Length of texts: 3349
+Shape of dense vectors: 3349
+Batch indexed successfully.
+percentage_complete: 8.524590163934425
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3321
+Length of texts: 3321
+Shape of dense vectors: 3321
+Batch indexed successfully.
+percentage_complete: 8.852459016393443
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3339
+Length of texts: 3339
+Shape of dense vectors: 3339
+Batch indexed successfully.
+percentage_complete: 9.180327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3230
+Length of texts: 3230
+Shape of dense vectors: 3230
+Batch indexed successfully.
+percentage_complete: 9.508196721311474
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2972
+Length of texts: 2972
+Shape of dense vectors: 2972
+Batch indexed successfully.
+percentage_complete: 9.836065573770492
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2356
+Length of texts: 2356
+Shape of dense vectors: 2356
+Batch indexed successfully.
+percentage_complete: 10.163934426229508
+Indexed 10% of documents in 525.96 seconds at 2024-09-23 16:04:51
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2342
+Length of texts: 2342
+Shape of dense vectors: 2342
+Batch indexed successfully.
+percentage_complete: 10.491803278688524
+Indexed 10% of documents in 538.73 seconds at 2024-09-23 16:05:04
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2381
+Length of texts: 2381
+Shape of dense vectors: 2381
+Batch indexed successfully.
+percentage_complete: 10.819672131147541
+Indexed 10% of documents in 551.85 seconds at 2024-09-23 16:05:17
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2324
+Length of texts: 2324
+Shape of dense vectors: 2324
+Batch indexed successfully.
+percentage_complete: 11.147540983606557
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2351
+Length of texts: 2351
+Shape of dense vectors: 2351
+Batch indexed successfully.
+percentage_complete: 11.475409836065573
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2377
+Length of texts: 2377
+Shape of dense vectors: 2377
+Batch indexed successfully.
+percentage_complete: 11.80327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2609
+Length of texts: 2609
+Shape of dense vectors: 2609
+Batch indexed successfully.
+percentage_complete: 12.131147540983607
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3191
+Length of texts: 3191
+Shape of dense vectors: 3191
+Batch indexed successfully.
+percentage_complete: 12.459016393442624
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3101
+Length of texts: 3101
+Shape of dense vectors: 3101
+Batch indexed successfully.
+percentage_complete: 12.786885245901638
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3095
+Length of texts: 3095
+Shape of dense vectors: 3095
+Batch indexed successfully.
+percentage_complete: 13.114754098360656
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3026
+Length of texts: 3026
+Shape of dense vectors: 3026
+Batch indexed successfully.
+percentage_complete: 13.442622950819672
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3137
+Length of texts: 3137
+Shape of dense vectors: 3137
+Batch indexed successfully.
+percentage_complete: 13.77049180327869
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3078
+Length of texts: 3078
+Shape of dense vectors: 3078
+Batch indexed successfully.
+percentage_complete: 14.098360655737704
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3074
+Length of texts: 3074
+Shape of dense vectors: 3074
+Batch indexed successfully.
+percentage_complete: 14.426229508196723
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3246
+Length of texts: 3246
+Shape of dense vectors: 3246
+Batch indexed successfully.
+percentage_complete: 14.754098360655737
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3166
+Length of texts: 3166
+Shape of dense vectors: 3166
+Batch indexed successfully.
+percentage_complete: 15.081967213114755
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3046
+Length of texts: 3046
+Shape of dense vectors: 3046
+Batch indexed successfully.
+percentage_complete: 15.40983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3127
+Length of texts: 3127
+Shape of dense vectors: 3127
+Batch indexed successfully.
+percentage_complete: 15.737704918032788
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3188
+Length of texts: 3188
+Shape of dense vectors: 3188
+Batch indexed successfully.
+percentage_complete: 16.065573770491802
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2971
+Loading and batching files:  16%|█▋        | 50/305 [12:56<56:38, 13.33s/it]Loading and batching files:  17%|█▋        | 51/305 [13:10<56:48, 13.42s/it]Loading and batching files:  17%|█▋        | 52/305 [13:24<57:06, 13.54s/it]Loading and batching files:  17%|█▋        | 53/305 [13:37<57:13, 13.62s/it]Loading and batching files:  18%|█▊        | 54/305 [13:51<57:10, 13.67s/it]Loading and batching files:  18%|█▊        | 55/305 [14:03<54:53, 13.17s/it]Loading and batching files:  18%|█▊        | 56/305 [14:15<53:27, 12.88s/it]Loading and batching files:  19%|█▊        | 57/305 [14:29<53:56, 13.05s/it]Loading and batching files:  19%|█▉        | 58/305 [14:42<54:06, 13.14s/it]Loading and batching files:  19%|█▉        | 59/305 [14:55<53:54, 13.15s/it]Loading and batching files:  20%|█▉        | 60/305 [15:09<53:41, 13.15s/it]Loading and batching files:  20%|██        | 61/305 [15:22<54:18, 13.36s/it]Loading and batching files:  20%|██        | 62/305 [15:37<55:26, 13.69s/it]Loading and batching files:  21%|██        | 63/305 [15:53<57:43, 14.31s/it]Loading and batching files:  21%|██        | 64/305 [16:08<58:55, 14.67s/it]Loading and batching files:  21%|██▏       | 65/305 [16:23<59:13, 14.81s/it]Loading and batching files:  22%|██▏       | 66/305 [16:40<1:01:38, 15.48s/it]Loading and batching files:  22%|██▏       | 67/305 [17:04<1:10:47, 17.85s/it]Loading and batching files:  22%|██▏       | 68/305 [17:28<1:17:38, 19.66s/it]Loading and batching files:  23%|██▎       | 69/305 [17:51<1:21:28, 20.72s/it]Loading and batching files:  23%|██▎       | 70/305 [18:15<1:25:20, 21.79s/it]Loading and batching files:  23%|██▎       | 71/305 [18:39<1:27:08, 22.34s/it]Loading and batching files:  24%|██▎       | 72/305 [19:02<1:28:24, 22.76s/it]Loading and batching files:  24%|██▍       | 73/305 [19:26<1:29:02, 23.03s/it]Loading and batching files:  24%|██▍       | 74/305 [19:49<1:28:51, 23.08s/it]Loading and batching files:  25%|██▍       | 75/305 [20:13<1:28:46, 23.16s/it]Loading and batching files:  25%|██▍       | 76/305 [20:36<1:29:00, 23.32s/it]Loading and batching files:  25%|██▌       | 77/305 [21:00<1:28:33, 23.30s/it]Loading and batching files:  26%|██▌       | 78/305 [21:23<1:28:45, 23.46s/it]Loading and batching files:  26%|██▌       | 79/305 [21:46<1:27:47, 23.31s/it]Loading and batching files:  26%|██▌       | 80/305 [22:11<1:28:25, 23.58s/it]Loading and batching files:  27%|██▋       | 81/305 [22:34<1:28:18, 23.65s/it]Loading and batching files:  27%|██▋       | 82/305 [22:57<1:27:01, 23.42s/it]Loading and batching files:  27%|██▋       | 83/305 [23:21<1:26:42, 23.44s/it]Loading and batching files:  28%|██▊       | 84/305 [23:44<1:25:47, 23.29s/it]Loading and batching files:  28%|██▊       | 85/305 [24:07<1:25:43, 23.38s/it]Loading and batching files:  28%|██▊       | 86/305 [24:31<1:25:48, 23.51s/it]Loading and batching files:  29%|██▊       | 87/305 [24:55<1:25:56, 23.65s/it]Loading and batching files:  29%|██▉       | 88/305 [25:19<1:26:07, 23.81s/it]Loading and batching files:  29%|██▉       | 89/305 [25:43<1:25:43, 23.81s/it]Loading and batching files:  30%|██▉       | 90/305 [26:06<1:24:41, 23.63s/it]Loading and batching files:  30%|██▉       | 91/305 [26:30<1:24:33, 23.71s/it]Length of texts: 2971
+Shape of dense vectors: 2971
+Batch indexed successfully.
+percentage_complete: 16.39344262295082
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3156
+Length of texts: 3156
+Shape of dense vectors: 3156
+Batch indexed successfully.
+percentage_complete: 16.721311475409838
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3326
+Length of texts: 3326
+Shape of dense vectors: 3326
+Batch indexed successfully.
+percentage_complete: 17.04918032786885
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3146
+Length of texts: 3146
+Shape of dense vectors: 3146
+Batch indexed successfully.
+percentage_complete: 17.37704918032787
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3209
+Length of texts: 3209
+Shape of dense vectors: 3209
+Batch indexed successfully.
+percentage_complete: 17.704918032786885
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2834
+Length of texts: 2834
+Shape of dense vectors: 2834
+Batch indexed successfully.
+percentage_complete: 18.0327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2848
+Length of texts: 2848
+Shape of dense vectors: 2848
+Batch indexed successfully.
+percentage_complete: 18.360655737704917
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3054
+Length of texts: 3054
+Shape of dense vectors: 3054
+Batch indexed successfully.
+percentage_complete: 18.688524590163937
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3222
+Length of texts: 3222
+Shape of dense vectors: 3222
+Batch indexed successfully.
+percentage_complete: 19.01639344262295
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2996
+Length of texts: 2996
+Shape of dense vectors: 2996
+Batch indexed successfully.
+percentage_complete: 19.34426229508197
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3020
+Length of texts: 3020
+Shape of dense vectors: 3020
+Batch indexed successfully.
+percentage_complete: 19.672131147540984
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3209
+Length of texts: 3209
+Shape of dense vectors: 3209
+Batch indexed successfully.
+percentage_complete: 20.0
+Indexed 20% of documents in 922.88 seconds at 2024-09-23 16:11:28
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3396
+Length of texts: 3396
+Shape of dense vectors: 3396
+Batch indexed successfully.
+percentage_complete: 20.327868852459016
+Indexed 20% of documents in 937.35 seconds at 2024-09-23 16:11:43
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3705
+Length of texts: 3705
+Shape of dense vectors: 3705
+Batch indexed successfully.
+percentage_complete: 20.655737704918035
+Indexed 20% of documents in 953.12 seconds at 2024-09-23 16:11:58
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3500
+Length of texts: 3500
+Shape of dense vectors: 3500
+Batch indexed successfully.
+percentage_complete: 20.983606557377048
+Indexed 20% of documents in 968.61 seconds at 2024-09-23 16:12:14
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3530
+Length of texts: 3530
+Shape of dense vectors: 3530
+Batch indexed successfully.
+percentage_complete: 21.311475409836063
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3959
+Length of texts: 3959
+Shape of dense vectors: 3959
+Batch indexed successfully.
+percentage_complete: 21.639344262295083
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6177
+Length of texts: 6177
+Shape of dense vectors: 6177
+Batch indexed successfully.
+percentage_complete: 21.9672131147541
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6198
+Length of texts: 6198
+Shape of dense vectors: 6198
+Batch indexed successfully.
+percentage_complete: 22.295081967213115
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6352
+Length of texts: 6352
+Shape of dense vectors: 6352
+Batch indexed successfully.
+percentage_complete: 22.62295081967213
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6350
+Length of texts: 6350
+Shape of dense vectors: 6350
+Batch indexed successfully.
+percentage_complete: 22.950819672131146
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6400
+Length of texts: 6400
+Shape of dense vectors: 6400
+Batch indexed successfully.
+percentage_complete: 23.278688524590162
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6324
+Length of texts: 6324
+Shape of dense vectors: 6324
+Batch indexed successfully.
+percentage_complete: 23.60655737704918
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6260
+Length of texts: 6260
+Shape of dense vectors: 6260
+Batch indexed successfully.
+percentage_complete: 23.934426229508198
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6277
+Length of texts: 6277
+Shape of dense vectors: 6277
+Batch indexed successfully.
+percentage_complete: 24.262295081967213
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6251
+Length of texts: 6251
+Shape of dense vectors: 6251
+Batch indexed successfully.
+percentage_complete: 24.59016393442623
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6185
+Length of texts: 6185
+Shape of dense vectors: 6185
+Batch indexed successfully.
+percentage_complete: 24.91803278688525
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6301
+Length of texts: 6301
+Shape of dense vectors: 6301
+Batch indexed successfully.
+percentage_complete: 25.245901639344265
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6290
+Length of texts: 6290
+Shape of dense vectors: 6290
+Batch indexed successfully.
+percentage_complete: 25.573770491803277
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6194
+Length of texts: 6194
+Shape of dense vectors: 6194
+Batch indexed successfully.
+percentage_complete: 25.901639344262296
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6356
+Length of texts: 6356
+Shape of dense vectors: 6356
+Batch indexed successfully.
+percentage_complete: 26.229508196721312
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6283
+Length of texts: 6283
+Shape of dense vectors: 6283
+Batch indexed successfully.
+percentage_complete: 26.557377049180324
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6183
+Length of texts: 6183
+Shape of dense vectors: 6183
+Batch indexed successfully.
+percentage_complete: 26.885245901639344
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6324
+Length of texts: 6324
+Shape of dense vectors: 6324
+Batch indexed successfully.
+percentage_complete: 27.21311475409836
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6160
+Length of texts: 6160
+Shape of dense vectors: 6160
+Batch indexed successfully.
+percentage_complete: 27.54098360655738
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6298
+Length of texts: 6298
+Shape of dense vectors: 6298
+Batch indexed successfully.
+percentage_complete: 27.86885245901639
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6204
+Length of texts: 6204
+Shape of dense vectors: 6204
+Batch indexed successfully.
+percentage_complete: 28.196721311475407
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6396
+Length of texts: 6396
+Shape of dense vectors: 6396
+Batch indexed successfully.
+percentage_complete: 28.524590163934427
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6303
+Length of texts: 6303
+Shape of dense vectors: 6303
+Batch indexed successfully.
+percentage_complete: 28.852459016393446
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6266
+Length of texts: 6266
+Shape of dense vectors: 6266
+Batch indexed successfully.
+percentage_complete: 29.18032786885246
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6348
+Length of texts: 6348
+Shape of dense vectors: 6348
+Batch indexed successfully.
+percentage_complete: 29.508196721311474
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6284
+Length of texts: 6284
+Shape of dense vectors: 6284
+Batch indexed successfully.
+percentage_complete: 29.836065573770494
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6252
+Length of texts: 6252Loading and batching files:  30%|███       | 92/305 [26:53<1:23:27, 23.51s/it]Loading and batching files:  30%|███       | 93/305 [27:17<1:22:59, 23.49s/it]Loading and batching files:  31%|███       | 94/305 [27:40<1:22:58, 23.60s/it]Loading and batching files:  31%|███       | 95/305 [28:03<1:21:34, 23.31s/it]Loading and batching files:  31%|███▏      | 96/305 [28:26<1:21:04, 23.27s/it]Loading and batching files:  32%|███▏      | 97/305 [28:50<1:21:28, 23.50s/it]Loading and batching files:  32%|███▏      | 98/305 [29:14<1:20:47, 23.42s/it]Loading and batching files:  32%|███▏      | 99/305 [29:37<1:20:34, 23.47s/it]Loading and batching files:  33%|███▎      | 100/305 [30:00<1:19:48, 23.36s/it]Loading and batching files:  33%|███▎      | 101/305 [30:25<1:20:59, 23.82s/it]Loading and batching files:  33%|███▎      | 102/305 [30:37<1:08:23, 20.22s/it]Loading and batching files:  34%|███▍      | 103/305 [30:49<59:43, 17.74s/it]  Loading and batching files:  34%|███▍      | 104/305 [31:00<53:07, 15.86s/it]Loading and batching files:  34%|███▍      | 105/305 [31:12<48:50, 14.65s/it]Loading and batching files:  35%|███▍      | 106/305 [31:24<45:53, 13.84s/it]Loading and batching files:  35%|███▌      | 107/305 [31:36<44:07, 13.37s/it]Loading and batching files:  35%|███▌      | 108/305 [31:55<48:54, 14.90s/it]Loading and batching files:  36%|███▌      | 109/305 [32:28<1:06:17, 20.29s/it]Loading and batching files:  36%|███▌      | 110/305 [32:50<1:08:10, 20.97s/it]Loading and batching files:  36%|███▋      | 111/305 [33:13<1:09:33, 21.51s/it]Loading and batching files:  37%|███▋      | 112/305 [33:36<1:10:09, 21.81s/it]Loading and batching files:  37%|███▋      | 113/305 [33:58<1:10:45, 22.11s/it]Loading and batching files:  37%|███▋      | 114/305 [34:29<1:18:47, 24.75s/it]Loading and batching files:  38%|███▊      | 115/305 [34:55<1:18:54, 24.92s/it]Loading and batching files:  38%|███▊      | 116/305 [35:20<1:18:26, 24.90s/it]Loading and batching files:  38%|███▊      | 117/305 [35:44<1:17:17, 24.67s/it]Loading and batching files:  39%|███▊      | 118/305 [36:08<1:16:19, 24.49s/it]Loading and batching files:  39%|███▉      | 119/305 [36:33<1:16:12, 24.58s/it]Loading and batching files:  39%|███▉      | 120/305 [36:57<1:15:56, 24.63s/it]Loading and batching files:  40%|███▉      | 121/305 [37:22<1:15:40, 24.68s/it]Loading and batching files:  40%|████      | 122/305 [37:46<1:14:48, 24.53s/it]Loading and batching files:  40%|████      | 123/305 [38:11<1:14:35, 24.59s/it]Loading and batching files:  41%|████      | 124/305 [38:35<1:13:54, 24.50s/it]Loading and batching files:  41%|████      | 125/305 [39:00<1:13:36, 24.53s/it]Loading and batching files:  41%|████▏     | 126/305 [39:24<1:13:06, 24.51s/it]Loading and batching files:  42%|████▏     | 127/305 [39:49<1:12:30, 24.44s/it]Loading and batching files:  42%|████▏     | 128/305 [40:13<1:11:48, 24.34s/it]Loading and batching files:  42%|████▏     | 129/305 [40:37<1:11:29, 24.37s/it]Loading and batching files:  43%|████▎     | 130/305 [41:01<1:10:55, 24.32s/it]Loading and batching files:  43%|████▎     | 131/305 [41:26<1:11:02, 24.50s/it]Loading and batching files:  43%|████▎     | 132/305 [41:51<1:10:32, 24.46s/it]
+Shape of dense vectors: 6252
+Batch indexed successfully.
+percentage_complete: 30.16393442622951
+Indexed 30% of documents in 1613.69 seconds at 2024-09-23 16:22:59
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6242
+Length of texts: 6242
+Shape of dense vectors: 6242
+Batch indexed successfully.
+percentage_complete: 30.491803278688522
+Indexed 30% of documents in 1637.13 seconds at 2024-09-23 16:23:22
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6285
+Length of texts: 6285
+Shape of dense vectors: 6285
+Batch indexed successfully.
+percentage_complete: 30.81967213114754
+Indexed 30% of documents in 1660.98 seconds at 2024-09-23 16:23:46
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6168
+Length of texts: 6168
+Shape of dense vectors: 6168
+Batch indexed successfully.
+percentage_complete: 31.147540983606557
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6303
+Length of texts: 6303
+Shape of dense vectors: 6303
+Batch indexed successfully.
+percentage_complete: 31.475409836065577
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6394
+Length of texts: 6394
+Shape of dense vectors: 6394
+Batch indexed successfully.
+percentage_complete: 31.80327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6240
+Length of texts: 6240
+Shape of dense vectors: 6240
+Batch indexed successfully.
+percentage_complete: 32.131147540983605
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6224
+Length of texts: 6224
+Shape of dense vectors: 6224
+Batch indexed successfully.
+percentage_complete: 32.459016393442624
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6303
+Length of texts: 6303
+Shape of dense vectors: 6303
+Batch indexed successfully.
+percentage_complete: 32.78688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 7007
+Length of texts: 7007
+Shape of dense vectors: 7007
+Batch indexed successfully.
+percentage_complete: 33.114754098360656
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2535
+Length of texts: 2535
+Shape of dense vectors: 2535
+Batch indexed successfully.
+percentage_complete: 33.442622950819676
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2600
+Length of texts: 2600
+Shape of dense vectors: 2600
+Batch indexed successfully.
+percentage_complete: 33.77049180327869
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2439
+Length of texts: 2439
+Shape of dense vectors: 2439
+Batch indexed successfully.
+percentage_complete: 34.0983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2615
+Length of texts: 2615
+Shape of dense vectors: 2615
+Batch indexed successfully.
+percentage_complete: 34.42622950819672
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2645
+Length of texts: 2645
+Shape of dense vectors: 2645
+Batch indexed successfully.
+percentage_complete: 34.75409836065574
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2712
+Length of texts: 2712
+Shape of dense vectors: 2712
+Batch indexed successfully.
+percentage_complete: 35.08196721311476
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 4412
+Length of texts: 4412
+Shape of dense vectors: 4412
+Batch indexed successfully.
+percentage_complete: 35.40983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 8582
+Length of texts: 8582
+Shape of dense vectors: 8582
+Batch indexed successfully.
+percentage_complete: 35.73770491803279
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5472
+Length of texts: 5472
+Shape of dense vectors: 5472
+Batch indexed successfully.
+percentage_complete: 36.0655737704918
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5273
+Length of texts: 5273
+Shape of dense vectors: 5273
+Batch indexed successfully.
+percentage_complete: 36.39344262295082
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5318
+Length of texts: 5318
+Shape of dense vectors: 5318
+Batch indexed successfully.
+percentage_complete: 36.721311475409834
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5360
+Length of texts: 5360
+Shape of dense vectors: 5360
+Batch indexed successfully.
+percentage_complete: 37.049180327868854
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 7968
+Length of texts: 7968
+Shape of dense vectors: 7968
+Batch indexed successfully.
+percentage_complete: 37.37704918032787
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 7203
+Length of texts: 7203
+Shape of dense vectors: 7203
+Batch indexed successfully.
+percentage_complete: 37.704918032786885
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6802
+Length of texts: 6802
+Shape of dense vectors: 6802
+Batch indexed successfully.
+percentage_complete: 38.0327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6726
+Length of texts: 6726
+Shape of dense vectors: 6726
+Batch indexed successfully.
+percentage_complete: 38.36065573770492
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6703
+Length of texts: 6703
+Shape of dense vectors: 6703
+Batch indexed successfully.
+percentage_complete: 38.68852459016394
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6739
+Length of texts: 6739
+Shape of dense vectors: 6739
+Batch indexed successfully.
+percentage_complete: 39.01639344262295
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6727
+Length of texts: 6727
+Shape of dense vectors: 6727
+Batch indexed successfully.
+percentage_complete: 39.34426229508197
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6759
+Length of texts: 6759
+Shape of dense vectors: 6759
+Batch indexed successfully.
+percentage_complete: 39.67213114754099
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6737
+Length of texts: 6737
+Shape of dense vectors: 6737
+Batch indexed successfully.
+percentage_complete: 40.0
+Indexed 40% of documents in 2266.74 seconds at 2024-09-23 16:33:52
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6796
+Length of texts: 6796
+Shape of dense vectors: 6796
+Batch indexed successfully.
+percentage_complete: 40.32786885245901
+Indexed 40% of documents in 2291.48 seconds at 2024-09-23 16:34:17
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6758
+Length of texts: 6758
+Shape of dense vectors: 6758
+Batch indexed successfully.
+percentage_complete: 40.65573770491803
+Indexed 40% of documents in 2315.77 seconds at 2024-09-23 16:34:41
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6759
+Length of texts: 6759
+Shape of dense vectors: 6759
+Batch indexed successfully.
+percentage_complete: 40.98360655737705
+Indexed 40% of documents in 2340.38 seconds at 2024-09-23 16:35:06
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6780
+Length of texts: 6780
+Shape of dense vectors: 6780
+Batch indexed successfully.
+percentage_complete: 41.31147540983607
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6783
+Length of texts: 6783
+Shape of dense vectors: 6783
+Batch indexed successfully.
+percentage_complete: 41.63934426229508
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6703
+Length of texts: 6703
+Shape of dense vectors: 6703
+Batch indexed successfully.
+percentage_complete: 41.967213114754095
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6771
+Length of texts: 6771
+Shape of dense vectors: 6771
+Batch indexed successfully.
+percentage_complete: 42.295081967213115
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6727
+Length of texts: 6727
+Shape of dense vectors: 6727
+Batch indexed successfully.
+percentage_complete: 42.62295081967213
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6758
+Length of texts: 6758
+Shape of dense vectors: 6758
+Batch indexed successfully.
+percentage_complete: 42.950819672131146
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6764
+Length of texts: 6764
+Shape of dense vectors: 6764
+Batch indexed successfully.
+percentage_complete: 43.278688524590166
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6802
+Length of texts: 6802
+Loading and batching files:  44%|████▎     | 133/305 [42:16<1:10:36, 24.63s/it]Loading and batching files:  44%|████▍     | 134/305 [42:41<1:10:27, 24.72s/it]Loading and batching files:  44%|████▍     | 135/305 [43:05<1:10:10, 24.77s/it]Loading and batching files:  45%|████▍     | 136/305 [43:31<1:10:02, 24.87s/it]Loading and batching files:  45%|████▍     | 137/305 [43:55<1:09:30, 24.83s/it]Loading and batching files:  45%|████▌     | 138/305 [44:20<1:09:22, 24.92s/it]Loading and batching files:  46%|████▌     | 139/305 [44:45<1:08:59, 24.94s/it]Loading and batching files:  46%|████▌     | 140/305 [45:10<1:08:35, 24.94s/it]Loading and batching files:  46%|████▌     | 141/305 [45:35<1:07:42, 24.77s/it]Loading and batching files:  47%|████▋     | 142/305 [45:59<1:06:57, 24.65s/it]Loading and batching files:  47%|████▋     | 143/305 [46:24<1:07:01, 24.82s/it]Loading and batching files:  47%|████▋     | 144/305 [46:49<1:06:36, 24.82s/it]Loading and batching files:  48%|████▊     | 145/305 [47:14<1:05:54, 24.72s/it]Loading and batching files:  48%|████▊     | 146/305 [47:38<1:05:33, 24.74s/it]Loading and batching files:  48%|████▊     | 147/305 [48:03<1:05:23, 24.84s/it]Loading and batching files:  49%|████▊     | 148/305 [48:28<1:05:04, 24.87s/it]Loading and batching files:  49%|████▉     | 149/305 [48:52<1:03:53, 24.57s/it]Loading and batching files:  49%|████▉     | 150/305 [49:17<1:03:56, 24.75s/it]Loading and batching files:  50%|████▉     | 151/305 [49:51<1:10:33, 27.49s/it]Loading and batching files:  50%|████▉     | 152/305 [50:25<1:14:35, 29.25s/it]Loading and batching files:  50%|█████     | 153/305 [50:58<1:17:27, 30.58s/it]Loading and batching files:  50%|█████     | 154/305 [51:33<1:19:41, 31.67s/it]Loading and batching files:  51%|█████     | 155/305 [52:06<1:20:15, 32.11s/it]Loading and batching files:  51%|█████     | 156/305 [52:40<1:21:04, 32.65s/it]Loading and batching files:  51%|█████▏    | 157/305 [53:14<1:22:09, 33.31s/it]Loading and batching files:  52%|█████▏    | 158/305 [53:50<1:23:08, 33.93s/it]Loading and batching files:  52%|█████▏    | 159/305 [54:23<1:21:42, 33.58s/it]Loading and batching files:  52%|█████▏    | 160/305 [54:56<1:20:57, 33.50s/it]Loading and batching files:  53%|█████▎    | 161/305 [55:30<1:20:32, 33.56s/it]Loading and batching files:  53%|█████▎    | 162/305 [56:02<1:19:15, 33.26s/it]Loading and batching files:  53%|█████▎    | 163/305 [56:36<1:19:20, 33.53s/it]Loading and batching files:  54%|█████▍    | 164/305 [57:00<1:11:53, 30.59s/it]Loading and batching files:  54%|█████▍    | 165/305 [57:14<59:54, 25.68s/it]  Loading and batching files:  54%|█████▍    | 166/305 [57:27<50:34, 21.83s/it]Loading and batching files:  55%|█████▍    | 167/305 [57:41<44:24, 19.31s/it]Loading and batching files:  55%|█████▌    | 168/305 [57:54<39:56, 17.49s/it]Loading and batching files:  55%|█████▌    | 169/305 [58:07<36:23, 16.05s/it]Loading and batching files:  56%|█████▌    | 170/305 [58:19<33:48, 15.02s/it]Loading and batching files:  56%|█████▌    | 171/305 [58:32<31:53, 14.28s/it]Loading and batching files:  56%|█████▋    | 172/305 [58:45<31:17, 14.12s/it]Loading and batching files:  57%|█████▋    | 173/305 [58:59<31:00, 14.09s/it]Loading and batching files:  57%|█████▋    | 174/305 [59:13<30:07, 13.79s/it]Shape of dense vectors: 6802
+Batch indexed successfully.
+percentage_complete: 43.606557377049185
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6748
+Length of texts: 6748
+Shape of dense vectors: 6748
+Batch indexed successfully.
+percentage_complete: 43.9344262295082
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6881
+Length of texts: 6881
+Shape of dense vectors: 6881
+Batch indexed successfully.
+percentage_complete: 44.26229508196721
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6812
+Length of texts: 6812
+Shape of dense vectors: 6812
+Batch indexed successfully.
+percentage_complete: 44.59016393442623
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6793
+Length of texts: 6793
+Shape of dense vectors: 6793
+Batch indexed successfully.
+percentage_complete: 44.91803278688525
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6775
+Length of texts: 6775
+Shape of dense vectors: 6775
+Batch indexed successfully.
+percentage_complete: 45.24590163934426
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6815
+Length of texts: 6815
+Shape of dense vectors: 6815
+Batch indexed successfully.
+percentage_complete: 45.57377049180328
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6850
+Length of texts: 6850
+Shape of dense vectors: 6850
+Batch indexed successfully.
+percentage_complete: 45.90163934426229
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6742
+Length of texts: 6742
+Shape of dense vectors: 6742
+Batch indexed successfully.
+percentage_complete: 46.22950819672131
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6826
+Length of texts: 6826
+Shape of dense vectors: 6826
+Batch indexed successfully.
+percentage_complete: 46.557377049180324
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6809
+Length of texts: 6809
+Shape of dense vectors: 6809
+Batch indexed successfully.
+percentage_complete: 46.885245901639344
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6835
+Length of texts: 6835
+Shape of dense vectors: 6835
+Batch indexed successfully.
+percentage_complete: 47.21311475409836
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6777
+Length of texts: 6777
+Shape of dense vectors: 6777
+Batch indexed successfully.
+percentage_complete: 47.540983606557376
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6683
+Length of texts: 6683
+Shape of dense vectors: 6683
+Batch indexed successfully.
+percentage_complete: 47.868852459016395
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6806
+Length of texts: 6806
+Shape of dense vectors: 6806
+Batch indexed successfully.
+percentage_complete: 48.19672131147541
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6799
+Length of texts: 6799
+Shape of dense vectors: 6799
+Batch indexed successfully.
+percentage_complete: 48.52459016393443
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6721
+Length of texts: 6721
+Shape of dense vectors: 6721
+Batch indexed successfully.
+percentage_complete: 48.85245901639344
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6821
+Length of texts: 6821
+Shape of dense vectors: 6821
+Batch indexed successfully.
+percentage_complete: 49.18032786885246
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9735
+Length of texts: 9735
+Shape of dense vectors: 9735
+Batch indexed successfully.
+percentage_complete: 49.50819672131148
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9567
+Length of texts: 9567
+Shape of dense vectors: 9567
+Batch indexed successfully.
+percentage_complete: 49.8360655737705
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9807
+Length of texts: 9807
+Shape of dense vectors: 9807
+Batch indexed successfully.
+percentage_complete: 50.1639344262295
+Indexed 50% of documents in 3058.91 seconds at 2024-09-23 16:47:04
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10090
+Length of texts: 10090
+Shape of dense vectors: 10090
+Batch indexed successfully.
+percentage_complete: 50.49180327868853
+Indexed 50% of documents in 3093.11 seconds at 2024-09-23 16:47:38
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9855
+Length of texts: 9855
+Shape of dense vectors: 9855
+Batch indexed successfully.
+percentage_complete: 50.81967213114754
+Indexed 50% of documents in 3126.24 seconds at 2024-09-23 16:48:12
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9953
+Length of texts: 9953
+Shape of dense vectors: 9953
+Batch indexed successfully.
+percentage_complete: 51.147540983606554
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10079
+Length of texts: 10079
+Shape of dense vectors: 10079
+Batch indexed successfully.
+percentage_complete: 51.47540983606558
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9956
+Length of texts: 9956
+Shape of dense vectors: 9956
+Batch indexed successfully.
+percentage_complete: 51.80327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9518
+Length of texts: 9518
+Shape of dense vectors: 9518
+Batch indexed successfully.
+percentage_complete: 52.131147540983605
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9763
+Length of texts: 9763
+Shape of dense vectors: 9763
+Batch indexed successfully.
+percentage_complete: 52.459016393442624
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9807
+Length of texts: 9807
+Shape of dense vectors: 9807
+Batch indexed successfully.
+percentage_complete: 52.78688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9641
+Length of texts: 9641
+Shape of dense vectors: 9641
+Batch indexed successfully.
+percentage_complete: 53.11475409836065
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10067
+Length of texts: 10067
+Shape of dense vectors: 10067
+Batch indexed successfully.
+percentage_complete: 53.442622950819676
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6454
+Length of texts: 6454
+Shape of dense vectors: 6454
+Batch indexed successfully.
+percentage_complete: 53.77049180327869
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3330
+Length of texts: 3330
+Shape of dense vectors: 3330
+Batch indexed successfully.
+percentage_complete: 54.09836065573771
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2963
+Length of texts: 2963
+Shape of dense vectors: 2963
+Batch indexed successfully.
+percentage_complete: 54.42622950819672
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3120
+Length of texts: 3120
+Shape of dense vectors: 3120
+Batch indexed successfully.
+percentage_complete: 54.75409836065573
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3076
+Length of texts: 3076
+Shape of dense vectors: 3076
+Batch indexed successfully.
+percentage_complete: 55.08196721311476
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3076
+Length of texts: 3076
+Shape of dense vectors: 3076
+Batch indexed successfully.
+percentage_complete: 55.40983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2981
+Length of texts: 2981
+Shape of dense vectors: 2981
+Batch indexed successfully.
+percentage_complete: 55.73770491803278
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3057
+Length of texts: 3057
+Shape of dense vectors: 3057
+Batch indexed successfully.
+percentage_complete: 56.0655737704918
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3089
+Length of texts: 3089
+Shape of dense vectors: 3089
+Batch indexed successfully.
+percentage_complete: 56.393442622950815
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3261
+Length of texts: 3261
+Shape of dense vectors: 3261
+Batch indexed successfully.
+percentage_complete: 56.72131147540984
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3225
+Length of texts: 3225
+Shape of dense vectors: 3225
+Batch indexed successfully.
+percentage_complete: 57.049180327868854
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3097
+Length of texts: 3097
+Shape of dense vectors: 3097
+Batch indexed successfully.
+Loading and batching files:  57%|█████▋    | 175/305 [59:26<29:51, 13.78s/it]Loading and batching files:  58%|█████▊    | 176/305 [59:40<29:29, 13.71s/it]Loading and batching files:  58%|█████▊    | 177/305 [59:53<28:35, 13.40s/it]Loading and batching files:  58%|█████▊    | 178/305 [1:00:05<27:55, 13.19s/it]Loading and batching files:  59%|█████▊    | 179/305 [1:00:19<28:13, 13.44s/it]Loading and batching files:  59%|█████▉    | 180/305 [1:00:32<27:45, 13.33s/it]Loading and batching files:  59%|█████▉    | 181/305 [1:00:45<27:18, 13.21s/it]Loading and batching files:  60%|█████▉    | 182/305 [1:00:58<26:54, 13.13s/it]Loading and batching files:  60%|██████    | 183/305 [1:01:11<26:47, 13.17s/it]Loading and batching files:  60%|██████    | 184/305 [1:01:25<26:54, 13.34s/it]Loading and batching files:  61%|██████    | 185/305 [1:01:38<26:31, 13.26s/it]Loading and batching files:  61%|██████    | 186/305 [1:01:51<26:13, 13.22s/it]Loading and batching files:  61%|██████▏   | 187/305 [1:02:05<25:57, 13.20s/it]Loading and batching files:  62%|██████▏   | 188/305 [1:02:18<25:49, 13.24s/it]Loading and batching files:  62%|██████▏   | 189/305 [1:02:32<25:51, 13.37s/it]Loading and batching files:  62%|██████▏   | 190/305 [1:02:45<25:23, 13.25s/it]Loading and batching files:  63%|██████▎   | 191/305 [1:02:58<25:15, 13.29s/it]Loading and batching files:  63%|██████▎   | 192/305 [1:03:11<25:09, 13.36s/it]Loading and batching files:  63%|██████▎   | 193/305 [1:03:26<25:22, 13.60s/it]Loading and batching files:  64%|██████▎   | 194/305 [1:03:40<25:21, 13.71s/it]Loading and batching files:  64%|██████▍   | 195/305 [1:03:53<24:45, 13.50s/it]Loading and batching files:  64%|██████▍   | 196/305 [1:04:06<24:20, 13.40s/it]Loading and batching files:  65%|██████▍   | 197/305 [1:04:20<24:22, 13.54s/it]Loading and batching files:  65%|██████▍   | 198/305 [1:04:33<23:51, 13.38s/it]Loading and batching files:  65%|██████▌   | 199/305 [1:04:46<23:26, 13.27s/it]Loading and batching files:  66%|██████▌   | 200/305 [1:04:59<23:04, 13.18s/it]Loading and batching files:  66%|██████▌   | 201/305 [1:05:12<23:01, 13.28s/it]Loading and batching files:  66%|██████▌   | 202/305 [1:05:26<23:04, 13.44s/it]Loading and batching files:  67%|██████▋   | 203/305 [1:05:39<22:50, 13.44s/it]Loading and batching files:  67%|██████▋   | 204/305 [1:05:53<22:54, 13.61s/it]Loading and batching files:  67%|██████▋   | 205/305 [1:06:06<22:24, 13.44s/it]Loading and batching files:  68%|██████▊   | 206/305 [1:06:21<22:31, 13.65s/it]Loading and batching files:  68%|██████▊   | 207/305 [1:06:34<22:06, 13.53s/it]Loading and batching files:  68%|██████▊   | 208/305 [1:06:47<21:43, 13.44s/it]Loading and batching files:  69%|██████▊   | 209/305 [1:07:00<21:29, 13.43s/it]Loading and batching files:  69%|██████▉   | 210/305 [1:07:14<21:09, 13.36s/it]Loading and batching files:  69%|██████▉   | 211/305 [1:07:27<21:02, 13.43s/it]Loading and batching files:  70%|██████▉   | 212/305 [1:07:41<20:47, 13.42s/it]Loading and batching files:  70%|██████▉   | 213/305 [1:07:54<20:38, 13.46s/it]Loading and batching files:  70%|███████   | 214/305 [1:08:07<20:16, 13.37s/it]Loading and batching files:  70%|███████   | 215/305 [1:08:21<20:19, 13.54s/it]percentage_complete: 57.377049180327866
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3138
+Length of texts: 3138
+Shape of dense vectors: 3138
+Batch indexed successfully.
+percentage_complete: 57.70491803278689
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3038
+Length of texts: 3038
+Shape of dense vectors: 3038
+Batch indexed successfully.
+percentage_complete: 58.032786885245905
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3057
+Length of texts: 3057
+Shape of dense vectors: 3057
+Batch indexed successfully.
+percentage_complete: 58.36065573770492
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3201
+Length of texts: 3201
+Shape of dense vectors: 3201
+Batch indexed successfully.
+percentage_complete: 58.68852459016394
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2961
+Length of texts: 2961
+Shape of dense vectors: 2961
+Batch indexed successfully.
+percentage_complete: 59.01639344262295
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2936
+Length of texts: 2936
+Shape of dense vectors: 2936
+Batch indexed successfully.
+percentage_complete: 59.34426229508196
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3124
+Length of texts: 3124
+Shape of dense vectors: 3124
+Batch indexed successfully.
+percentage_complete: 59.67213114754099
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3054
+Length of texts: 3054
+Shape of dense vectors: 3054
+Batch indexed successfully.
+percentage_complete: 60.0
+Indexed 60% of documents in 3672.01 seconds at 2024-09-23 16:57:17
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3052
+Length of texts: 3052
+Shape of dense vectors: 3052
+Batch indexed successfully.
+percentage_complete: 60.32786885245902
+Indexed 60% of documents in 3685.74 seconds at 2024-09-23 16:57:31
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3041
+Length of texts: 3041
+Shape of dense vectors: 3041
+Batch indexed successfully.
+percentage_complete: 60.65573770491803
+Indexed 60% of documents in 3698.83 seconds at 2024-09-23 16:57:44
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2961
+Length of texts: 2961
+Shape of dense vectors: 2961
+Batch indexed successfully.
+percentage_complete: 60.983606557377044
+Indexed 60% of documents in 3711.95 seconds at 2024-09-23 16:57:57
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3155
+Length of texts: 3155
+Shape of dense vectors: 3155
+Batch indexed successfully.
+percentage_complete: 61.31147540983607
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2970
+Length of texts: 2970
+Shape of dense vectors: 2970
+Batch indexed successfully.
+percentage_complete: 61.63934426229508
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3095
+Length of texts: 3095
+Shape of dense vectors: 3095
+Batch indexed successfully.
+percentage_complete: 61.967213114754095
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2984
+Length of texts: 2984
+Shape of dense vectors: 2984
+Batch indexed successfully.
+percentage_complete: 62.295081967213115
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2982
+Length of texts: 2982
+Shape of dense vectors: 2982
+Batch indexed successfully.
+percentage_complete: 62.62295081967213
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2991
+Length of texts: 2991
+Shape of dense vectors: 2991
+Batch indexed successfully.
+percentage_complete: 62.95081967213115
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3169
+Length of texts: 3169
+Shape of dense vectors: 3169
+Batch indexed successfully.
+percentage_complete: 63.278688524590166
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3125
+Length of texts: 3125
+Shape of dense vectors: 3125
+Batch indexed successfully.
+percentage_complete: 63.60655737704918
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2845
+Length of texts: 2845
+Shape of dense vectors: 2845
+Batch indexed successfully.
+percentage_complete: 63.934426229508205
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2909
+Length of texts: 2909
+Shape of dense vectors: 2909
+Batch indexed successfully.
+percentage_complete: 64.26229508196721
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3218
+Length of texts: 3218
+Shape of dense vectors: 3218
+Batch indexed successfully.
+percentage_complete: 64.59016393442623
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3009
+Length of texts: 3009
+Shape of dense vectors: 3009
+Batch indexed successfully.
+percentage_complete: 64.91803278688525
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2908
+Length of texts: 2908
+Shape of dense vectors: 2908
+Batch indexed successfully.
+percentage_complete: 65.24590163934427
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2959
+Length of texts: 2959
+Shape of dense vectors: 2959
+Batch indexed successfully.
+percentage_complete: 65.57377049180327
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2956
+Length of texts: 2956
+Shape of dense vectors: 2956
+Batch indexed successfully.
+percentage_complete: 65.90163934426229
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2989
+Length of texts: 2989
+Shape of dense vectors: 2989
+Batch indexed successfully.
+percentage_complete: 66.22950819672131
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2822
+Length of texts: 2822
+Shape of dense vectors: 2822
+Batch indexed successfully.
+percentage_complete: 66.55737704918033
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3147
+Length of texts: 3147
+Shape of dense vectors: 3147
+Batch indexed successfully.
+percentage_complete: 66.88524590163935
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2837
+Length of texts: 2837
+Shape of dense vectors: 2837
+Batch indexed successfully.
+percentage_complete: 67.21311475409836
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3097
+Length of texts: 3097
+Shape of dense vectors: 3097
+Batch indexed successfully.
+percentage_complete: 67.54098360655738
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2849
+Length of texts: 2849
+Shape of dense vectors: 2849
+Batch indexed successfully.
+percentage_complete: 67.8688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2925
+Length of texts: 2925
+Shape of dense vectors: 2925
+Batch indexed successfully.
+percentage_complete: 68.1967213114754
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2953
+Length of texts: 2953
+Shape of dense vectors: 2953
+Batch indexed successfully.
+percentage_complete: 68.52459016393443
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3014
+Length of texts: 3014
+Shape of dense vectors: 3014
+Batch indexed successfully.
+percentage_complete: 68.85245901639344
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2889
+Length of texts: 2889
+Shape of dense vectors: 2889
+Batch indexed successfully.
+percentage_complete: 69.18032786885246
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3006
+Length of texts: 3006
+Shape of dense vectors: 3006
+Batch indexed successfully.
+percentage_complete: 69.50819672131148
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3024
+Length of texts: 3024
+Shape of dense vectors: 3024
+Batch indexed successfully.
+percentage_complete: 69.83606557377048
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2870
+Length of texts: 2870
+Shape of dense vectors: 2870
+Batch indexed successfully.
+percentage_complete: 70.16393442622952
+Indexed 70% of documents in 4087.86 seconds at 2024-09-23 17:04:13
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2974
+Length of texts: 2974
+Shape of dense vectors: 2974
+Batch indexed successfully.
+percentage_complete: 70.49180327868852
+Indexed 70% of documents in 4101.82 seconds at 2024-09-23 17:04:27
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2958
+Length of texts: 2958
+Shape of dense vectors: 2958
+Batch indexed successfully.
+percentage_complete: 70.81967213114754
+Loading and batching files:  71%|███████   | 216/305 [1:08:35<20:07, 13.57s/it]Loading and batching files:  71%|███████   | 217/305 [1:08:48<19:38, 13.40s/it]Loading and batching files:  71%|███████▏  | 218/305 [1:09:02<19:30, 13.46s/it]Loading and batching files:  72%|███████▏  | 219/305 [1:09:16<19:39, 13.71s/it]Loading and batching files:  72%|███████▏  | 220/305 [1:09:29<19:19, 13.64s/it]Loading and batching files:  72%|███████▏  | 221/305 [1:09:43<19:10, 13.70s/it]Loading and batching files:  73%|███████▎  | 222/305 [1:09:56<18:45, 13.56s/it]Loading and batching files:  73%|███████▎  | 223/305 [1:10:10<18:29, 13.53s/it]Loading and batching files:  73%|███████▎  | 224/305 [1:10:23<18:07, 13.42s/it]Loading and batching files:  74%|███████▍  | 225/305 [1:10:36<17:48, 13.36s/it]Loading and batching files:  74%|███████▍  | 226/305 [1:10:50<17:39, 13.42s/it]Loading and batching files:  74%|███████▍  | 227/305 [1:11:03<17:24, 13.39s/it]Loading and batching files:  75%|███████▍  | 228/305 [1:11:17<17:20, 13.52s/it]Loading and batching files:  75%|███████▌  | 229/305 [1:11:31<17:16, 13.63s/it]Loading and batching files:  75%|███████▌  | 230/305 [1:11:45<17:04, 13.67s/it]Loading and batching files:  76%|███████▌  | 231/305 [1:11:57<16:28, 13.36s/it]Loading and batching files:  76%|███████▌  | 232/305 [1:12:11<16:24, 13.49s/it]Loading and batching files:  76%|███████▋  | 233/305 [1:12:24<16:09, 13.46s/it]Loading and batching files:  77%|███████▋  | 234/305 [1:12:38<16:06, 13.61s/it]Loading and batching files:  77%|███████▋  | 235/305 [1:12:52<15:52, 13.61s/it]Loading and batching files:  77%|███████▋  | 236/305 [1:13:06<15:48, 13.75s/it]Loading and batching files:  78%|███████▊  | 237/305 [1:13:20<15:40, 13.83s/it]Loading and batching files:  78%|███████▊  | 238/305 [1:13:34<15:32, 13.92s/it]Loading and batching files:  78%|███████▊  | 239/305 [1:13:48<15:19, 13.93s/it]Loading and batching files:  79%|███████▊  | 240/305 [1:14:01<14:49, 13.69s/it]Loading and batching files:  79%|███████▉  | 241/305 [1:14:15<14:38, 13.72s/it]Loading and batching files:  79%|███████▉  | 242/305 [1:14:28<14:03, 13.39s/it]Loading and batching files:  80%|███████▉  | 243/305 [1:14:42<14:10, 13.72s/it]Loading and batching files:  80%|████████  | 244/305 [1:14:56<13:57, 13.73s/it]Loading and batching files:  80%|████████  | 245/305 [1:15:10<13:55, 13.92s/it]Loading and batching files:  81%|████████  | 246/305 [1:15:24<13:34, 13.80s/it]Loading and batching files:  81%|████████  | 247/305 [1:15:37<13:17, 13.74s/it]Loading and batching files:  81%|████████▏ | 248/305 [1:15:51<12:55, 13.61s/it]Loading and batching files:  82%|████████▏ | 249/305 [1:16:04<12:30, 13.40s/it]Loading and batching files:  82%|████████▏ | 250/305 [1:16:22<13:37, 14.86s/it]Loading and batching files:  82%|████████▏ | 251/305 [1:16:40<14:17, 15.88s/it]Loading and batching files:  83%|████████▎ | 252/305 [1:16:59<14:44, 16.69s/it]Loading and batching files:  83%|████████▎ | 253/305 [1:17:19<15:17, 17.64s/it]Loading and batching files:  83%|████████▎ | 254/305 [1:17:34<14:25, 16.96s/it]Loading and batching files:  84%|████████▎ | 255/305 [1:17:41<11:44, 14.08s/it]Loading and batching files:  84%|████████▍ | 256/305 [1:17:49<09:51, 12.07s/it]Loading and batching files:  84%|████████▍ | 257/305 [1:17:56<08:26, 10.56s/it]Indexed 70% of documents in 4115.45 seconds at 2024-09-23 17:04:41
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2871
+Length of texts: 2871
+Shape of dense vectors: 2871
+Batch indexed successfully.
+percentage_complete: 71.14754098360656
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2914
+Length of texts: 2914
+Shape of dense vectors: 2914
+Batch indexed successfully.
+percentage_complete: 71.47540983606558
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3170
+Length of texts: 3170
+Shape of dense vectors: 3170
+Batch indexed successfully.
+percentage_complete: 71.80327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2929
+Length of texts: 2929
+Shape of dense vectors: 2929
+Batch indexed successfully.
+percentage_complete: 72.1311475409836
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2962
+Length of texts: 2962
+Shape of dense vectors: 2962
+Batch indexed successfully.
+percentage_complete: 72.45901639344262
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2926
+Length of texts: 2926
+Shape of dense vectors: 2926
+Batch indexed successfully.
+percentage_complete: 72.78688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3017
+Length of texts: 3017
+Shape of dense vectors: 3017
+Batch indexed successfully.
+percentage_complete: 73.11475409836066
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2869
+Length of texts: 2869
+Shape of dense vectors: 2869
+Batch indexed successfully.
+percentage_complete: 73.44262295081967
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3091
+Length of texts: 3091
+Shape of dense vectors: 3091
+Batch indexed successfully.
+percentage_complete: 73.77049180327869
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2955
+Length of texts: 2955
+Shape of dense vectors: 2955
+Batch indexed successfully.
+percentage_complete: 74.09836065573771
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2960
+Length of texts: 2960
+Shape of dense vectors: 2960
+Batch indexed successfully.
+percentage_complete: 74.42622950819671
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3118
+Length of texts: 3118
+Shape of dense vectors: 3118
+Batch indexed successfully.
+percentage_complete: 74.75409836065575
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3115
+Length of texts: 3115
+Shape of dense vectors: 3115
+Batch indexed successfully.
+percentage_complete: 75.08196721311475
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3081
+Length of texts: 3081
+Shape of dense vectors: 3081
+Batch indexed successfully.
+percentage_complete: 75.40983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2715
+Length of texts: 2715
+Shape of dense vectors: 2715
+Batch indexed successfully.
+percentage_complete: 75.73770491803279
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3063
+Length of texts: 3063
+Shape of dense vectors: 3063
+Batch indexed successfully.
+percentage_complete: 76.0655737704918
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2876
+Length of texts: 2876
+Shape of dense vectors: 2876
+Batch indexed successfully.
+percentage_complete: 76.39344262295083
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3008
+Length of texts: 3008
+Shape of dense vectors: 3008
+Batch indexed successfully.
+percentage_complete: 76.72131147540983
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3066
+Length of texts: 3066
+Shape of dense vectors: 3066
+Batch indexed successfully.
+percentage_complete: 77.04918032786885
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3168
+Length of texts: 3168
+Shape of dense vectors: 3168
+Batch indexed successfully.
+percentage_complete: 77.37704918032787
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3172
+Length of texts: 3172
+Shape of dense vectors: 3172
+Batch indexed successfully.
+percentage_complete: 77.70491803278688
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2999
+Length of texts: 2999
+Shape of dense vectors: 2999
+Batch indexed successfully.
+percentage_complete: 78.0327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3025
+Length of texts: 3025
+Shape of dense vectors: 3025
+Batch indexed successfully.
+percentage_complete: 78.36065573770492
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3076
+Length of texts: 3076
+Shape of dense vectors: 3076
+Batch indexed successfully.
+percentage_complete: 78.68852459016394
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3079
+Length of texts: 3079
+Shape of dense vectors: 3079
+Batch indexed successfully.
+percentage_complete: 79.01639344262294
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2922
+Length of texts: 2922
+Shape of dense vectors: 2922
+Batch indexed successfully.
+percentage_complete: 79.34426229508198
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3129
+Length of texts: 3129
+Shape of dense vectors: 3129
+Batch indexed successfully.
+percentage_complete: 79.67213114754098
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3107
+Length of texts: 3107
+Shape of dense vectors: 3107
+Batch indexed successfully.
+percentage_complete: 80.0
+Indexed 80% of documents in 4496.42 seconds at 2024-09-23 17:11:02
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3316
+Length of texts: 3316
+Shape of dense vectors: 3316
+Batch indexed successfully.
+percentage_complete: 80.32786885245902
+Indexed 80% of documents in 4510.79 seconds at 2024-09-23 17:11:16
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2975
+Length of texts: 2975
+Shape of dense vectors: 2975
+Batch indexed successfully.
+percentage_complete: 80.65573770491802
+Indexed 80% of documents in 4524.31 seconds at 2024-09-23 17:11:30
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3083
+Length of texts: 3083
+Shape of dense vectors: 3083
+Batch indexed successfully.
+percentage_complete: 80.98360655737706
+Indexed 80% of documents in 4537.92 seconds at 2024-09-23 17:11:43
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3077
+Length of texts: 3077
+Shape of dense vectors: 3077
+Batch indexed successfully.
+percentage_complete: 81.31147540983606
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2795
+Length of texts: 2795
+Shape of dense vectors: 2795
+Batch indexed successfully.
+percentage_complete: 81.63934426229508
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 4103
+Length of texts: 4103
+Shape of dense vectors: 4103
+Batch indexed successfully.
+percentage_complete: 81.9672131147541
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5104
+Length of texts: 5104
+Shape of dense vectors: 5104
+Batch indexed successfully.
+percentage_complete: 82.29508196721311
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5558
+Length of texts: 5558
+Shape of dense vectors: 5558
+Batch indexed successfully.
+percentage_complete: 82.62295081967214
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5497
+Length of texts: 5497
+Shape of dense vectors: 5497
+Batch indexed successfully.
+percentage_complete: 82.95081967213115
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3417
+Length of texts: 3417
+Shape of dense vectors: 3417
+Batch indexed successfully.
+percentage_complete: 83.27868852459017
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1069
+Length of texts: 1069
+Shape of dense vectors: 1069
+Batch indexed successfully.
+percentage_complete: 83.60655737704919
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1060
+Length of texts: 1060
+Shape of dense vectors: 1060
+Batch indexed successfully.
+percentage_complete: 83.93442622950819
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1097
+Length of texts: 1097
+Shape of dense vectors: 1097
+Batch indexed successfully.
+percentage_complete: 84.26229508196721
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3348
+Length of texts: 3348
+Shape of dense vectors: 3348
+Batch indexed successfully.
+Loading and batching files:  85%|████████▍ | 258/305 [1:18:10<09:07, 11.65s/it]Loading and batching files:  85%|████████▍ | 259/305 [1:18:43<13:44, 17.93s/it]Loading and batching files:  85%|████████▌ | 260/305 [1:19:15<16:41, 22.25s/it]Loading and batching files:  86%|████████▌ | 261/305 [1:19:48<18:44, 25.55s/it]Loading and batching files:  86%|████████▌ | 262/305 [1:20:21<19:48, 27.65s/it]Loading and batching files:  86%|████████▌ | 263/305 [1:20:44<18:23, 26.29s/it]Loading and batching files:  87%|████████▋ | 264/305 [1:20:58<15:34, 22.80s/it]Loading and batching files:  87%|████████▋ | 265/305 [1:21:13<13:36, 20.42s/it]Loading and batching files:  87%|████████▋ | 266/305 [1:21:35<13:31, 20.80s/it]Loading and batching files:  88%|████████▊ | 267/305 [1:21:55<13:06, 20.69s/it]Loading and batching files:  88%|████████▊ | 268/305 [1:22:15<12:39, 20.51s/it]Loading and batching files:  88%|████████▊ | 269/305 [1:22:35<12:10, 20.28s/it]Loading and batching files:  89%|████████▊ | 270/305 [1:23:12<14:38, 25.11s/it]Loading and batching files:  89%|████████▉ | 271/305 [1:23:47<16:02, 28.29s/it]Loading and batching files:  89%|████████▉ | 272/305 [1:24:15<15:25, 28.06s/it]Loading and batching files:  90%|████████▉ | 273/305 [1:24:24<11:58, 22.46s/it]Loading and batching files:  90%|████████▉ | 274/305 [1:24:34<09:40, 18.72s/it]Loading and batching files:  90%|█████████ | 275/305 [1:24:43<07:53, 15.79s/it]Loading and batching files:  90%|█████████ | 276/305 [1:24:52<06:41, 13.84s/it]Loading and batching files:  91%|█████████ | 277/305 [1:25:02<05:55, 12.68s/it]Loading and batching files:  91%|█████████ | 278/305 [1:25:11<05:10, 11.50s/it]Loading and batching files:  91%|█████████▏| 279/305 [1:25:21<04:49, 11.12s/it]Loading and batching files:  92%|█████████▏| 280/305 [1:25:31<04:28, 10.73s/it]Loading and batching files:  92%|█████████▏| 281/305 [1:25:40<04:04, 10.17s/it]Loading and batching files:  92%|█████████▏| 282/305 [1:25:49<03:48,  9.91s/it]Loading and batching files:  93%|█████████▎| 283/305 [1:25:59<03:35,  9.81s/it]Loading and batching files:  93%|█████████▎| 284/305 [1:26:08<03:22,  9.65s/it]Loading and batching files:  93%|█████████▎| 285/305 [1:26:41<05:31, 16.57s/it]Loading and batching files:  94%|█████████▍| 286/305 [1:27:20<07:22, 23.29s/it]Loading and batching files:  94%|█████████▍| 287/305 [1:27:57<08:15, 27.54s/it]Loading and batching files:  94%|█████████▍| 288/305 [1:28:36<08:44, 30.87s/it]Loading and batching files:  95%|█████████▍| 289/305 [1:29:15<08:51, 33.22s/it]Loading and batching files:  95%|█████████▌| 290/305 [1:29:54<08:43, 34.88s/it]Loading and batching files:  95%|█████████▌| 291/305 [1:30:31<08:21, 35.79s/it]Loading and batching files:  96%|█████████▌| 292/305 [1:31:09<07:51, 36.26s/it]Loading and batching files:  96%|█████████▌| 293/305 [1:31:47<07:23, 36.94s/it]Loading and batching files:  96%|█████████▋| 294/305 [1:32:25<06:49, 37.27s/it]Loading and batching files:  97%|█████████▋| 295/305 [1:32:39<05:00, 30.03s/it]Loading and batching files:  97%|█████████▋| 296/305 [1:32:49<03:36, 24.04s/it]Loading and batching files:  97%|█████████▋| 297/305 [1:32:58<02:37, 19.73s/it]Loading and batching files:  98%|█████████▊| 298/305 [1:33:08<01:56, 16.59s/it]Loading and batching files:  98%|█████████▊| 299/305 [1:33:17<01:26, 14.42s/it]Loading and batching files:  98%|█████████▊| 300/305 [1:33:26<01:04, 12.81s/it]percentage_complete: 84.59016393442623
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10189
+Length of texts: 10189
+Shape of dense vectors: 10189
+Batch indexed successfully.
+percentage_complete: 84.91803278688525
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10220
+Length of texts: 10220
+Shape of dense vectors: 10220
+Batch indexed successfully.
+percentage_complete: 85.24590163934425
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10179
+Length of texts: 10179
+Shape of dense vectors: 10179
+Batch indexed successfully.
+percentage_complete: 85.57377049180329
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10287
+Length of texts: 10287
+Shape of dense vectors: 10287
+Batch indexed successfully.
+percentage_complete: 85.90163934426229
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 6685
+Length of texts: 6685
+Shape of dense vectors: 6685
+Batch indexed successfully.
+percentage_complete: 86.22950819672131
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3119
+Length of texts: 3119
+Shape of dense vectors: 3119
+Batch indexed successfully.
+percentage_complete: 86.55737704918033
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3182
+Length of texts: 3182
+Shape of dense vectors: 3182
+Batch indexed successfully.
+percentage_complete: 86.88524590163934
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 5443
+Length of texts: 5443
+Shape of dense vectors: 5443
+Batch indexed successfully.
+percentage_complete: 87.21311475409837
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 4771
+Length of texts: 4771
+Shape of dense vectors: 4771
+Batch indexed successfully.
+percentage_complete: 87.54098360655738
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 4761
+Length of texts: 4761
+Shape of dense vectors: 4761
+Batch indexed successfully.
+percentage_complete: 87.8688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 4548
+Length of texts: 4548
+Shape of dense vectors: 4548
+Batch indexed successfully.
+percentage_complete: 88.19672131147541
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10178
+Length of texts: 10178
+Shape of dense vectors: 10178
+Batch indexed successfully.
+percentage_complete: 88.52459016393442
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10443
+Length of texts: 10443
+Shape of dense vectors: 10443
+Batch indexed successfully.
+percentage_complete: 88.85245901639345
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 7438
+Length of texts: 7438
+Shape of dense vectors: 7438
+Batch indexed successfully.
+percentage_complete: 89.18032786885246
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1958
+Length of texts: 1958
+Shape of dense vectors: 1958
+Batch indexed successfully.
+percentage_complete: 89.50819672131148
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2023
+Length of texts: 2023
+Shape of dense vectors: 2023
+Batch indexed successfully.
+percentage_complete: 89.8360655737705
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1925
+Length of texts: 1925
+Shape of dense vectors: 1925
+Batch indexed successfully.
+percentage_complete: 90.1639344262295
+Indexed 90% of documents in 5083.68 seconds at 2024-09-23 17:20:49
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1914
+Length of texts: 1914
+Shape of dense vectors: 1914
+Batch indexed successfully.
+percentage_complete: 90.49180327868852
+Indexed 90% of documents in 5093.00 seconds at 2024-09-23 17:20:58
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2101
+Length of texts: 2101
+Shape of dense vectors: 2101
+Batch indexed successfully.
+percentage_complete: 90.81967213114754
+Indexed 90% of documents in 5102.96 seconds at 2024-09-23 17:21:08
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1889
+Length of texts: 1889
+Shape of dense vectors: 1889
+Batch indexed successfully.
+percentage_complete: 91.14754098360656
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2076
+Length of texts: 2076
+Shape of dense vectors: 2076
+Batch indexed successfully.
+percentage_complete: 91.47540983606557
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2045
+Length of texts: 2045
+Shape of dense vectors: 2045
+Batch indexed successfully.
+percentage_complete: 91.80327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1898
+Length of texts: 1898
+Shape of dense vectors: 1898
+Batch indexed successfully.
+percentage_complete: 92.1311475409836
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1926
+Length of texts: 1926
+Shape of dense vectors: 1926
+Batch indexed successfully.
+percentage_complete: 92.45901639344262
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1955
+Length of texts: 1955
+Shape of dense vectors: 1955
+Batch indexed successfully.
+percentage_complete: 92.78688524590164
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2014
+Length of texts: 2014
+Shape of dense vectors: 2014
+Batch indexed successfully.
+percentage_complete: 93.11475409836065
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 9298
+Length of texts: 9298
+Shape of dense vectors: 9298
+Batch indexed successfully.
+percentage_complete: 93.44262295081968
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10272
+Length of texts: 10272
+Shape of dense vectors: 10272
+Batch indexed successfully.
+percentage_complete: 93.77049180327869
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10135
+Length of texts: 10135
+Shape of dense vectors: 10135
+Batch indexed successfully.
+percentage_complete: 94.09836065573771
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10382
+Length of texts: 10382
+Shape of dense vectors: 10382
+Batch indexed successfully.
+percentage_complete: 94.42622950819673
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10446
+Length of texts: 10446
+Shape of dense vectors: 10446
+Batch indexed successfully.
+percentage_complete: 94.75409836065573
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10358
+Length of texts: 10358
+Shape of dense vectors: 10358
+Batch indexed successfully.
+percentage_complete: 95.08196721311475
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10111
+Length of texts: 10111
+Shape of dense vectors: 10111
+Batch indexed successfully.
+percentage_complete: 95.40983606557377
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10268
+Length of texts: 10268
+Shape of dense vectors: 10268
+Batch indexed successfully.
+percentage_complete: 95.73770491803279
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10374
+Length of texts: 10374
+Shape of dense vectors: 10374
+Batch indexed successfully.
+percentage_complete: 96.06557377049181
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 10218
+Length of texts: 10218
+Shape of dense vectors: 10218
+Batch indexed successfully.
+percentage_complete: 96.39344262295081
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 3137
+Length of texts: 3137
+Shape of dense vectors: 3137
+Batch indexed successfully.
+percentage_complete: 96.72131147540983
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2122
+Length of texts: 2122
+Shape of dense vectors: 2122
+Batch indexed successfully.
+percentage_complete: 97.04918032786885
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 2174
+Length of texts: 2174
+Shape of dense vectors: 2174
+Batch indexed successfully.
+percentage_complete: 97.37704918032787
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1903
+Length of texts: 1903
+Shape of dense vectors: 1903
+Batch indexed successfully.
+percentage_complete: 97.70491803278688
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1912
+Length of texts: 1912
+Shape of dense vectors: 1912
+Batch indexed successfully.
+percentage_complete: 98.0327868852459
+Indexing batch with 1000 documents into Milvus...
+Length of IDs: 1832
+Length of texts: 1832
+Shape of dense vectors: 1832
+Batch indexed successfully.
+percentage_complete: 98.36065573770492
+Loading and batching files:  99%|█████████▊| 301/305 [1:33:36<00:47, 11.85s/it]Loading and batching files:  99%|█████████▉| 302/305 [1:33:45<00:33, 11.14s/it]Loading and batching files:  99%|█████████▉| 303/305 [1:33:54<00:21, 10.64s/it]Loading and batching files: 100%|█████████▉| 304/305 [1:34:04<00:10, 10.37s/it]Loading and batching files: 100%|██████████| 305/305 [1:34:14<00:00, 10.08s/it]Loading and batching files: 100%|██████████| 305/305 [1:34:14<00:00, 18.54s/it]
