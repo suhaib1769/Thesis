@@ -1,0 +1,5 @@
+Reached 128 documents in 17.78 seconds.
+Reached 256 documents in 36.02 seconds.
+Reached 512 documents in 108.98 seconds.
+Reached 1024 documents in 231.59 seconds.
+Reached 2048 documents in 484.29 seconds.
